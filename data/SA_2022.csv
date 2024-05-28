@@ -1,0 +1,783 @@
+matchday,position,team_name,playedGames
+1,1,SSC Napoli,1
+1,2,Juventus FC,1
+1,3,AC Milan,1
+1,4,Atalanta BC,1
+1,5,ACF Fiorentina,1
+1,6,FC Internazionale Milano,1
+1,7,Torino FC,1
+1,8,SS Lazio,1
+1,9,AS Roma,1
+1,10,Spezia Calcio,1
+1,11,US Cremonese,1
+1,12,US Lecce,1
+1,13,AC Monza,1
+1,14,Bologna FC 1909,1
+1,15,US Salernitana 1919,1
+1,16,Empoli FC,1
+1,17,Udinese Calcio,1
+1,18,UC Sampdoria,1
+1,19,Hellas Verona FC,1
+1,20,US Sassuolo Calcio,1
+1,1,Juventus FC,1
+1,2,AC Milan,1
+1,3,ACF Fiorentina,1
+1,4,SS Lazio,1
+1,5,Spezia Calcio,1
+1,16,US Lecce,1
+1,17,AC Monza,1
+1,18,US Salernitana 1919,1
+1,19,UC Sampdoria,1
+1,20,Hellas Verona FC,1
+1,1,SSC Napoli,1
+1,2,Atalanta BC,1
+1,3,FC Internazionale Milano,1
+1,4,Torino FC,1
+1,5,AS Roma,1
+1,16,US Cremonese,1
+1,17,Bologna FC 1909,1
+1,18,Empoli FC,1
+1,19,Udinese Calcio,1
+1,20,US Sassuolo Calcio,1
+2,1,SSC Napoli,2
+2,2,FC Internazionale Milano,2
+2,3,AS Roma,2
+2,4,Juventus FC,2
+2,5,AC Milan,2
+2,6,Atalanta BC,2
+2,7,ACF Fiorentina,2
+2,8,Torino FC,2
+2,9,SS Lazio,2
+2,10,Spezia Calcio,2
+2,11,US Sassuolo Calcio,2
+2,12,Bologna FC 1909,2
+2,13,US Salernitana 1919,2
+2,14,Empoli FC,2
+2,15,Udinese Calcio,2
+2,16,UC Sampdoria,2
+2,17,Hellas Verona FC,2
+2,18,US Cremonese,2
+2,19,US Lecce,2
+2,20,AC Monza,2
+2,15,UC Sampdoria,2
+2,17,US Cremonese,2
+3,1,SSC Napoli,3
+3,2,AC Milan,3
+3,3,SS Lazio,3
+3,4,Atalanta BC,3
+3,5,Torino FC,3
+3,6,AS Roma,3
+3,7,FC Internazionale Milano,3
+3,8,Juventus FC,3
+3,9,ACF Fiorentina,3
+3,10,US Salernitana 1919,3
+3,11,Udinese Calcio,3
+3,12,Spezia Calcio,3
+3,13,US Sassuolo Calcio,3
+3,14,Empoli FC,3
+3,15,US Lecce,3
+3,16,Bologna FC 1909,3
+3,17,Hellas Verona FC,3
+3,18,UC Sampdoria,3
+3,19,US Cremonese,3
+3,20,AC Monza,3
+4,1,Atalanta BC,4
+4,2,AS Roma,4
+4,3,FC Internazionale Milano,4
+4,4,SSC Napoli,4
+4,5,Juventus FC,4
+4,6,AC Milan,4
+4,7,SS Lazio,4
+4,8,Udinese Calcio,4
+4,9,Torino FC,4
+4,10,US Salernitana 1919,4
+4,11,ACF Fiorentina,4
+4,12,US Sassuolo Calcio,4
+4,13,Spezia Calcio,4
+4,14,Empoli FC,4
+4,15,US Lecce,4
+4,16,Bologna FC 1909,4
+4,17,Hellas Verona FC,4
+4,18,UC Sampdoria,4
+4,19,US Cremonese,4
+4,20,AC Monza,4
+5,1,Atalanta BC,5
+5,2,SSC Napoli,5
+5,3,AC Milan,5
+5,4,Udinese Calcio,5
+5,5,Torino FC,5
+5,6,AS Roma,5
+5,7,Juventus FC,5
+5,8,FC Internazionale Milano,5
+5,9,SS Lazio,5
+5,10,US Salernitana 1919,5
+5,11,ACF Fiorentina,5
+5,12,US Sassuolo Calcio,5
+5,13,Hellas Verona FC,5
+5,14,Spezia Calcio,5
+5,15,Empoli FC,5
+5,16,Bologna FC 1909,5
+5,17,US Lecce,5
+5,18,UC Sampdoria,5
+5,19,US Cremonese,5
+5,20,AC Monza,5
+6,1,SSC Napoli,6
+6,2,Atalanta BC,6
+6,3,AC Milan,6
+6,4,Udinese Calcio,6
+6,5,AS Roma,6
+6,6,FC Internazionale Milano,6
+6,7,SS Lazio,6
+6,8,Juventus FC,6
+6,9,Torino FC,6
+6,10,US Salernitana 1919,6
+6,11,ACF Fiorentina,6
+6,12,Bologna FC 1909,6
+6,13,US Sassuolo Calcio,6
+6,14,Hellas Verona FC,6
+6,15,Spezia Calcio,6
+6,16,Empoli FC,6
+6,17,US Lecce,6
+6,18,US Cremonese,6
+6,19,UC Sampdoria,6
+6,20,AC Monza,6
+7,1,SSC Napoli,7
+7,2,Atalanta BC,7
+7,3,Udinese Calcio,7
+7,4,SS Lazio,7
+7,5,AC Milan,7
+7,6,AS Roma,7
+7,7,FC Internazionale Milano,7
+7,8,Juventus FC,7
+7,9,Torino FC,7
+7,10,ACF Fiorentina,7
+7,11,US Sassuolo Calcio,7
+7,12,Spezia Calcio,7
+7,13,US Salernitana 1919,7
+7,14,Empoli FC,7
+7,15,US Lecce,7
+7,16,Bologna FC 1909,7
+7,17,Hellas Verona FC,7
+7,18,AC Monza,7
+7,19,US Cremonese,7
+7,20,UC Sampdoria,7
+8,1,SSC Napoli,8
+8,2,Atalanta BC,8
+8,3,Udinese Calcio,8
+8,4,SS Lazio,8
+8,5,AC Milan,8
+8,6,AS Roma,8
+8,7,Juventus FC,8
+8,8,US Sassuolo Calcio,8
+8,9,FC Internazionale Milano,8
+8,10,Torino FC,8
+8,11,ACF Fiorentina,8
+8,12,Spezia Calcio,8
+8,13,US Lecce,8
+8,14,US Salernitana 1919,8
+8,15,Empoli FC,8
+8,16,AC Monza,8
+8,17,Bologna FC 1909,8
+8,18,Hellas Verona FC,8
+8,19,US Cremonese,8
+8,20,UC Sampdoria,8
+9,1,SSC Napoli,9
+9,2,Atalanta BC,9
+9,3,SS Lazio,9
+9,4,Udinese Calcio,9
+9,5,AC Milan,9
+9,6,AS Roma,9
+9,7,FC Internazionale Milano,9
+9,8,Juventus FC,9
+9,9,US Sassuolo Calcio,9
+9,10,Torino FC,9
+9,11,US Salernitana 1919,9
+9,12,AC Monza,9
+9,13,ACF Fiorentina,9
+9,14,Empoli FC,9
+9,15,Spezia Calcio,9
+9,16,US Lecce,9
+9,17,Bologna FC 1909,9
+9,18,Hellas Verona FC,9
+9,19,US Cremonese,9
+9,20,UC Sampdoria,9
+10,1,SSC Napoli,10
+10,2,Atalanta BC,10
+10,3,AC Milan,10
+10,4,AS Roma,10
+10,5,SS Lazio,10
+10,6,Udinese Calcio,10
+10,7,FC Internazionale Milano,10
+10,8,Juventus FC,10
+10,9,US Sassuolo Calcio,10
+10,10,Empoli FC,10
+10,11,Torino FC,10
+10,12,US Salernitana 1919,10
+10,13,ACF Fiorentina,10
+10,14,AC Monza,10
+10,15,Spezia Calcio,10
+10,16,US Lecce,10
+10,17,Bologna FC 1909,10
+10,18,Hellas Verona FC,10
+10,19,US Cremonese,10
+10,20,UC Sampdoria,10
+11,1,SSC Napoli,11
+11,2,AC Milan,11
+11,3,SS Lazio,11
+11,4,Atalanta BC,11
+11,5,AS Roma,11
+11,6,Udinese Calcio,11
+11,7,FC Internazionale Milano,11
+11,8,Juventus FC,11
+11,9,US Sassuolo Calcio,11
+11,10,Torino FC,11
+11,11,US Salernitana 1919,11
+11,12,Empoli FC,11
+11,13,Bologna FC 1909,11
+11,14,ACF Fiorentina,11
+11,15,AC Monza,11
+11,16,Spezia Calcio,11
+11,17,US Lecce,11
+11,18,UC Sampdoria,11
+11,19,Hellas Verona FC,11
+11,20,US Cremonese,11
+12,1,SSC Napoli,12
+12,2,Atalanta BC,12
+12,3,AC Milan,12
+12,4,AS Roma,12
+12,5,SS Lazio,12
+12,6,FC Internazionale Milano,12
+12,7,Juventus FC,12
+12,8,Udinese Calcio,12
+12,9,Torino FC,12
+12,10,US Salernitana 1919,12
+12,11,US Sassuolo Calcio,12
+12,12,Bologna FC 1909,12
+12,13,ACF Fiorentina,12
+12,14,Empoli FC,12
+12,15,AC Monza,12
+12,16,Spezia Calcio,12
+12,17,US Lecce,12
+12,18,UC Sampdoria,12
+12,19,Hellas Verona FC,12
+12,20,US Cremonese,12
+13,1,SSC Napoli,13
+13,2,AC Milan,13
+13,3,SS Lazio,13
+13,4,Atalanta BC,13
+13,5,Juventus FC,13
+13,6,AS Roma,13
+13,7,FC Internazionale Milano,13
+13,8,Udinese Calcio,13
+13,9,US Salernitana 1919,13
+13,10,Torino FC,13
+13,11,ACF Fiorentina,13
+13,12,Bologna FC 1909,13
+13,13,US Sassuolo Calcio,13
+13,14,Empoli FC,13
+13,15,AC Monza,13
+13,16,US Lecce,13
+13,17,Spezia Calcio,13
+13,18,US Cremonese,13
+13,19,UC Sampdoria,13
+13,20,Hellas Verona FC,13
+14,1,SSC Napoli,14
+14,2,SS Lazio,14
+14,3,AC Milan,14
+14,4,Juventus FC,14
+14,5,FC Internazionale Milano,14
+14,6,Atalanta BC,14
+14,7,AS Roma,14
+14,8,Udinese Calcio,14
+14,9,Torino FC,14
+14,10,ACF Fiorentina,14
+14,11,US Salernitana 1919,14
+14,12,US Sassuolo Calcio,14
+14,13,Bologna FC 1909,14
+14,14,Empoli FC,14
+14,15,AC Monza,14
+14,16,US Lecce,14
+14,17,Spezia Calcio,14
+14,18,US Cremonese,14
+14,19,UC Sampdoria,14
+14,20,Hellas Verona FC,14
+15,1,SSC Napoli,15
+15,2,AC Milan,15
+15,3,Juventus FC,15
+15,4,SS Lazio,15
+15,5,FC Internazionale Milano,15
+15,6,Atalanta BC,15
+15,7,AS Roma,15
+15,8,Udinese Calcio,15
+15,9,Torino FC,15
+15,10,ACF Fiorentina,15
+15,11,Bologna FC 1909,15
+15,12,US Salernitana 1919,15
+15,13,Empoli FC,15
+15,14,AC Monza,15
+15,15,US Sassuolo Calcio,15
+15,16,US Lecce,15
+15,17,Spezia Calcio,15
+15,18,US Cremonese,15
+15,19,UC Sampdoria,15
+15,20,Hellas Verona FC,15
+16,1,SSC Napoli,16
+16,2,AC Milan,16
+16,3,Juventus FC,16
+16,4,FC Internazionale Milano,16
+16,5,SS Lazio,16
+16,6,AS Roma,16
+16,7,Atalanta BC,16
+16,8,Udinese Calcio,16
+16,9,Torino FC,16
+16,10,ACF Fiorentina,16
+16,11,Bologna FC 1909,16
+16,12,US Lecce,16
+16,13,Empoli FC,16
+16,14,US Salernitana 1919,16
+16,15,AC Monza,16
+16,16,US Sassuolo Calcio,16
+16,17,Spezia Calcio,16
+16,18,UC Sampdoria,16
+16,19,US Cremonese,16
+16,20,Hellas Verona FC,16
+17,1,SSC Napoli,17
+17,2,Juventus FC,17
+17,3,AC Milan,17
+17,4,FC Internazionale Milano,17
+17,5,SS Lazio,17
+17,6,Atalanta BC,17
+17,7,AS Roma,17
+17,8,Udinese Calcio,17
+17,9,ACF Fiorentina,17
+17,10,Torino FC,17
+17,11,US Lecce,17
+17,12,Bologna FC 1909,17
+17,13,Empoli FC,17
+17,14,US Salernitana 1919,17
+17,15,AC Monza,17
+17,16,US Sassuolo Calcio,17
+17,17,Spezia Calcio,17
+17,18,Hellas Verona FC,17
+17,19,UC Sampdoria,17
+17,20,US Cremonese,17
+18,1,SSC Napoli,18
+18,2,AC Milan,18
+18,3,Juventus FC,18
+18,4,FC Internazionale Milano,18
+18,5,SS Lazio,18
+18,6,Atalanta BC,18
+18,7,AS Roma,18
+18,8,Udinese Calcio,18
+18,9,Torino FC,18
+18,10,ACF Fiorentina,18
+18,11,Bologna FC 1909,18
+18,12,Empoli FC,18
+18,13,AC Monza,18
+18,14,US Lecce,18
+18,15,Spezia Calcio,18
+18,16,US Salernitana 1919,18
+18,17,US Sassuolo Calcio,18
+18,18,Hellas Verona FC,18
+18,19,UC Sampdoria,18
+18,20,US Cremonese,18
+19,1,SSC Napoli,19
+19,2,Juventus FC,19
+19,3,AC Milan,19
+19,4,SS Lazio,19
+19,5,FC Internazionale Milano,19
+19,6,AS Roma,19
+19,7,Atalanta BC,19
+19,8,Udinese Calcio,19
+19,9,Torino FC,19
+19,10,Empoli FC,19
+19,11,ACF Fiorentina,19
+19,12,Bologna FC 1909,19
+19,13,AC Monza,19
+19,14,US Lecce,19
+19,15,Spezia Calcio,19
+19,16,US Salernitana 1919,19
+19,17,US Sassuolo Calcio,19
+19,18,Hellas Verona FC,19
+19,19,UC Sampdoria,19
+19,20,US Cremonese,19
+20,1,SSC Napoli,20
+20,2,FC Internazionale Milano,20
+20,3,SS Lazio,20
+20,4,Atalanta BC,20
+20,5,Juventus FC,20
+20,6,AC Milan,20
+20,7,AS Roma,20
+20,8,Udinese Calcio,20
+20,9,Torino FC,20
+20,10,Bologna FC 1909,20
+20,11,Empoli FC,20
+20,12,AC Monza,20
+20,13,ACF Fiorentina,20
+20,14,US Salernitana 1919,20
+20,15,US Lecce,20
+20,16,US Sassuolo Calcio,20
+20,17,Spezia Calcio,20
+20,18,Hellas Verona FC,20
+20,19,UC Sampdoria,20
+20,20,US Cremonese,20
+21,1,SSC Napoli,21
+21,2,FC Internazionale Milano,21
+21,3,Juventus FC,21
+21,4,AS Roma,21
+21,5,SS Lazio,21
+21,6,Atalanta BC,21
+21,7,AC Milan,21
+21,8,Torino FC,21
+21,9,Udinese Calcio,21
+21,10,Bologna FC 1909,21
+21,11,AC Monza,21
+21,12,Empoli FC,21
+21,13,ACF Fiorentina,21
+21,14,US Lecce,21
+21,15,US Sassuolo Calcio,21
+21,16,US Salernitana 1919,21
+21,17,Spezia Calcio,21
+21,18,Hellas Verona FC,21
+21,19,UC Sampdoria,21
+21,20,US Cremonese,21
+22,1,SSC Napoli,22
+22,2,Juventus FC,22
+22,3,FC Internazionale Milano,22
+22,4,Atalanta BC,22
+22,5,AS Roma,22
+22,6,AC Milan,22
+22,7,SS Lazio,22
+22,8,Udinese Calcio,22
+22,9,Torino FC,22
+22,10,AC Monza,22
+22,11,Bologna FC 1909,22
+22,12,Empoli FC,22
+22,13,US Lecce,22
+22,14,ACF Fiorentina,22
+22,15,US Sassuolo Calcio,22
+22,16,US Salernitana 1919,22
+22,17,Spezia Calcio,22
+22,18,Hellas Verona FC,22
+22,19,UC Sampdoria,22
+22,20,US Cremonese,22
+23,1,SSC Napoli,23
+23,2,Juventus FC,23
+23,3,FC Internazionale Milano,23
+23,4,AS Roma,23
+23,5,AC Milan,23
+23,6,SS Lazio,23
+23,7,Atalanta BC,23
+23,8,Bologna FC 1909,23
+23,9,Torino FC,23
+23,10,Udinese Calcio,23
+23,11,AC Monza,23
+23,12,Empoli FC,23
+23,13,US Lecce,23
+23,14,ACF Fiorentina,23
+23,15,US Sassuolo Calcio,23
+23,16,US Salernitana 1919,23
+23,17,Spezia Calcio,23
+23,18,Hellas Verona FC,23
+23,19,UC Sampdoria,23
+23,20,US Cremonese,23
+24,1,SSC Napoli,24
+24,2,Juventus FC,24
+24,3,FC Internazionale Milano,24
+24,4,AC Milan,24
+24,5,SS Lazio,24
+24,6,AS Roma,24
+24,7,Atalanta BC,24
+24,8,Bologna FC 1909,24
+24,9,Udinese Calcio,24
+24,10,Torino FC,24
+24,11,AC Monza,24
+24,12,ACF Fiorentina,24
+24,13,Empoli FC,24
+24,14,US Lecce,24
+24,15,US Sassuolo Calcio,24
+24,16,US Salernitana 1919,24
+24,17,Spezia Calcio,24
+24,18,Hellas Verona FC,24
+24,19,US Cremonese,24
+24,20,UC Sampdoria,24
+25,1,SSC Napoli,25
+25,2,Juventus FC,25
+25,3,FC Internazionale Milano,25
+25,4,SS Lazio,25
+25,5,AS Roma,25
+25,6,AC Milan,25
+25,7,Atalanta BC,25
+25,8,Bologna FC 1909,25
+25,9,Torino FC,25
+25,10,Udinese Calcio,25
+25,11,AC Monza,25
+25,12,ACF Fiorentina,25
+25,13,US Sassuolo Calcio,25
+25,14,Empoli FC,25
+25,15,US Lecce,25
+25,16,US Salernitana 1919,25
+25,17,Spezia Calcio,25
+25,18,Hellas Verona FC,25
+25,19,US Cremonese,25
+25,20,UC Sampdoria,25
+26,1,SSC Napoli,26
+26,2,Juventus FC,26
+26,3,FC Internazionale Milano,26
+26,4,SS Lazio,26
+26,5,AC Milan,26
+26,6,AS Roma,26
+26,7,Atalanta BC,26
+26,8,Torino FC,26
+26,9,Bologna FC 1909,26
+26,10,Udinese Calcio,26
+26,11,ACF Fiorentina,26
+26,12,AC Monza,26
+26,13,US Sassuolo Calcio,26
+26,14,Empoli FC,26
+26,15,US Lecce,26
+26,16,US Salernitana 1919,26
+26,17,Spezia Calcio,26
+26,18,Hellas Verona FC,26
+26,19,US Cremonese,26
+26,20,UC Sampdoria,26
+27,1,SSC Napoli,27
+27,2,Juventus FC,27
+27,3,SS Lazio,27
+27,4,FC Internazionale Milano,27
+27,5,AC Milan,27
+27,6,AS Roma,27
+27,7,Atalanta BC,27
+27,8,Udinese Calcio,27
+27,9,ACF Fiorentina,27
+27,10,Bologna FC 1909,27
+27,11,Torino FC,27
+27,12,US Sassuolo Calcio,27
+27,13,AC Monza,27
+27,14,Empoli FC,27
+27,15,US Lecce,27
+27,16,US Salernitana 1919,27
+27,17,Spezia Calcio,27
+27,18,Hellas Verona FC,27
+27,19,UC Sampdoria,27
+27,20,US Cremonese,27
+28,1,SSC Napoli,28
+28,2,Juventus FC,28
+28,3,SS Lazio,28
+28,4,AC Milan,28
+28,5,FC Internazionale Milano,28
+28,6,AS Roma,28
+28,7,Atalanta BC,28
+28,8,ACF Fiorentina,28
+28,9,Bologna FC 1909,28
+28,10,Udinese Calcio,28
+28,11,Torino FC,28
+28,12,US Sassuolo Calcio,28
+28,13,AC Monza,28
+28,14,Empoli FC,28
+28,15,US Salernitana 1919,28
+28,16,US Lecce,28
+28,17,Spezia Calcio,28
+28,18,Hellas Verona FC,28
+28,19,UC Sampdoria,28
+28,20,US Cremonese,28
+29,1,SSC Napoli,29
+29,2,Juventus FC,29
+29,3,SS Lazio,29
+29,4,AS Roma,29
+29,5,AC Milan,29
+29,6,FC Internazionale Milano,29
+29,7,Atalanta BC,29
+29,8,Bologna FC 1909,29
+29,9,ACF Fiorentina,29
+29,10,Udinese Calcio,29
+29,11,Torino FC,29
+29,12,US Sassuolo Calcio,29
+29,13,AC Monza,29
+29,14,Empoli FC,29
+29,15,US Salernitana 1919,29
+29,16,US Lecce,29
+29,17,Spezia Calcio,29
+29,18,Hellas Verona FC,29
+29,19,US Cremonese,29
+29,20,UC Sampdoria,29
+30,1,SSC Napoli,30
+30,2,SS Lazio,30
+30,3,Juventus FC,30
+30,4,AS Roma,30
+30,5,AC Milan,30
+30,6,FC Internazionale Milano,30
+30,7,Atalanta BC,30
+30,8,Bologna FC 1909,30
+30,9,ACF Fiorentina,30
+30,10,US Sassuolo Calcio,30
+30,11,Udinese Calcio,30
+30,12,Torino FC,30
+30,13,AC Monza,30
+30,14,Empoli FC,30
+30,15,US Salernitana 1919,30
+30,16,US Lecce,30
+30,17,Spezia Calcio,30
+30,18,Hellas Verona FC,30
+30,19,US Cremonese,30
+30,20,UC Sampdoria,30
+31,1,SSC Napoli,31
+31,2,SS Lazio,31
+31,3,Juventus FC,31
+31,4,AC Milan,31
+31,5,AS Roma,31
+31,6,FC Internazionale Milano,31
+31,7,Atalanta BC,31
+31,8,Bologna FC 1909,31
+31,9,Udinese Calcio,31
+31,10,ACF Fiorentina,31
+31,11,Torino FC,31
+31,12,AC Monza,31
+31,13,US Sassuolo Calcio,31
+31,14,US Salernitana 1919,31
+31,15,Empoli FC,31
+31,16,US Lecce,31
+31,17,Spezia Calcio,31
+31,18,Hellas Verona FC,31
+31,19,US Cremonese,31
+31,20,UC Sampdoria,31
+32,1,SSC Napoli,32
+32,2,SS Lazio,32
+32,3,Juventus FC,32
+32,4,FC Internazionale Milano,32
+32,5,AC Milan,32
+32,6,AS Roma,32
+32,7,Atalanta BC,32
+32,8,ACF Fiorentina,32
+32,9,Bologna FC 1909,32
+32,10,AC Monza,32
+32,11,US Sassuolo Calcio,32
+32,12,Udinese Calcio,32
+32,13,Torino FC,32
+32,14,US Salernitana 1919,32
+32,15,Empoli FC,32
+32,16,US Lecce,32
+32,17,Hellas Verona FC,32
+32,18,Spezia Calcio,32
+32,19,US Cremonese,32
+32,20,UC Sampdoria,32
+33,1,SSC Napoli,33
+33,2,SS Lazio,33
+33,3,Juventus FC,33
+33,4,FC Internazionale Milano,33
+33,5,Atalanta BC,33
+33,6,AC Milan,33
+33,7,AS Roma,33
+33,8,ACF Fiorentina,33
+33,9,Bologna FC 1909,33
+33,10,AC Monza,33
+33,11,Torino FC,33
+33,12,Udinese Calcio,33
+33,13,US Sassuolo Calcio,33
+33,14,US Salernitana 1919,33
+33,15,Empoli FC,33
+33,16,US Lecce,33
+33,17,Hellas Verona FC,33
+33,18,Spezia Calcio,33
+33,19,US Cremonese,33
+33,20,UC Sampdoria,33
+34,1,SSC Napoli,34
+34,2,Juventus FC,34
+34,3,SS Lazio,34
+34,4,FC Internazionale Milano,34
+34,5,AC Milan,34
+34,6,Atalanta BC,34
+34,7,AS Roma,34
+34,8,ACF Fiorentina,34
+34,9,Udinese Calcio,34
+34,10,Bologna FC 1909,34
+34,11,AC Monza,34
+34,12,Torino FC,34
+34,13,US Sassuolo Calcio,34
+34,14,Empoli FC,34
+34,15,US Salernitana 1919,34
+34,16,US Lecce,34
+34,17,Hellas Verona FC,34
+34,18,Spezia Calcio,34
+34,19,US Cremonese,34
+34,20,UC Sampdoria,34
+35,1,SSC Napoli,35
+35,2,Juventus FC,35
+35,3,FC Internazionale Milano,35
+35,4,SS Lazio,35
+35,5,AC Milan,35
+35,6,AS Roma,35
+35,7,Atalanta BC,35
+35,8,ACF Fiorentina,35
+35,9,AC Monza,35
+35,10,Torino FC,35
+35,11,Bologna FC 1909,35
+35,12,Udinese Calcio,35
+35,13,US Sassuolo Calcio,35
+35,14,Empoli FC,35
+35,15,US Salernitana 1919,35
+35,16,US Lecce,35
+35,17,Hellas Verona FC,35
+35,18,Spezia Calcio,35
+35,19,US Cremonese,35
+35,20,UC Sampdoria,35
+36,1,SSC Napoli,36
+36,2,Juventus FC,36
+36,3,SS Lazio,36
+36,4,FC Internazionale Milano,36
+36,5,AC Milan,36
+36,6,Atalanta BC,36
+36,7,AS Roma,36
+36,8,AC Monza,36
+36,9,ACF Fiorentina,36
+36,10,Bologna FC 1909,36
+36,11,Torino FC,36
+36,12,Udinese Calcio,36
+36,13,US Sassuolo Calcio,36
+36,14,Empoli FC,36
+36,15,US Salernitana 1919,36
+36,16,US Lecce,36
+36,17,Spezia Calcio,36
+36,18,Hellas Verona FC,36
+36,19,US Cremonese,36
+36,20,UC Sampdoria,36
+37,1,SSC Napoli,37
+37,2,SS Lazio,37
+37,3,FC Internazionale Milano,37
+37,4,Juventus FC,37
+37,5,AC Milan,37
+37,6,Atalanta BC,37
+37,7,AS Roma,37
+37,8,ACF Fiorentina,37
+37,9,Torino FC,37
+37,10,AC Monza,37
+37,11,Bologna FC 1909,37
+37,12,Udinese Calcio,37
+37,13,US Sassuolo Calcio,37
+37,14,Empoli FC,37
+37,15,US Salernitana 1919,37
+37,16,US Lecce,37
+37,17,Hellas Verona FC,37
+37,18,Spezia Calcio,37
+37,19,US Cremonese,37
+37,20,UC Sampdoria,37
+38,1,SSC Napoli,38
+38,2,SS Lazio,38
+38,3,FC Internazionale Milano,38
+38,4,Juventus FC,38
+38,5,AC Milan,38
+38,6,Atalanta BC,38
+38,7,AS Roma,38
+38,8,ACF Fiorentina,38
+38,9,Bologna FC 1909,38
+38,10,Torino FC,38
+38,11,AC Monza,38
+38,12,Udinese Calcio,38
+38,13,US Sassuolo Calcio,38
+38,14,Empoli FC,38
+38,15,US Salernitana 1919,38
+38,16,US Lecce,38
+38,17,Hellas Verona FC,38
+38,18,Spezia Calcio,38
+38,19,US Cremonese,38
+38,20,UC Sampdoria,38
