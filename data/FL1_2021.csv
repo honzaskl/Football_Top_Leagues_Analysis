@@ -1,631 +1,701 @@
-matchday,position,team_name,playedGames
-1,1,VfB Stuttgart,1
-1,2,TSG 1899 Hoffenheim,1
-1,3,Borussia Dortmund,1
-1,4,1. FC Köln,1
-1,5,VfL Wolfsburg,1
-1,6,1. FSV Mainz 05,1
-1,7,Borussia Mönchengladbach,1
-1,8,FC Bayern München,1
-1,9,1. FC Union Berlin,1
-1,10,Bayer 04 Leverkusen,1
-1,11,Arminia Bielefeld,1
-1,12,SC Freiburg,1
-1,13,VfL Bochum 1848,1
-1,14,RB Leipzig,1
-1,15,Hertha BSC,1
-1,16,Eintracht Frankfurt,1
-1,17,SpVgg Greuther Fürth 1903,1
-1,18,FC Augsburg,1
-1,1,VfB Stuttgart,1
-1,2,Borussia Dortmund,1
-1,3,1. FC Köln,1
-1,4,VfL Wolfsburg,1
-1,5,1. FSV Mainz 05,1
-1,6,Borussia Mönchengladbach,1
-1,7,1. FC Union Berlin,1
-1,8,Arminia Bielefeld,1
-1,18,FC Augsburg,1
-1,1,TSG 1899 Hoffenheim,1
-1,2,FC Bayern München,1
-1,3,Bayer 04 Leverkusen,1
-1,4,SC Freiburg,1
-1,14,VfL Bochum 1848,1
-1,15,RB Leipzig,1
-1,16,Hertha BSC,1
-1,17,Eintracht Frankfurt,1
-1,18,SpVgg Greuther Fürth 1903,1
-2,1,VfL Wolfsburg,2
-2,2,TSG 1899 Hoffenheim,2
-2,3,Bayer 04 Leverkusen,2
-2,4,FC Bayern München,2
-2,5,SC Freiburg,2
-2,6,RB Leipzig,2
-2,7,Borussia Dortmund,2
-2,8,1. FC Köln,2
-2,9,VfL Bochum 1848,2
-2,10,VfB Stuttgart,2
-2,11,1. FSV Mainz 05,2
-2,12,1. FC Union Berlin,2
-2,13,Arminia Bielefeld,2
-2,14,Eintracht Frankfurt,2
-2,15,SpVgg Greuther Fürth 1903,2
-2,16,Borussia Mönchengladbach,2
-2,17,FC Augsburg,2
-2,18,Hertha BSC,2
-3,1,VfL Wolfsburg,3
-3,2,Bayer 04 Leverkusen,3
-3,3,FC Bayern München,3
-3,4,SC Freiburg,3
-3,5,Borussia Dortmund,3
-3,6,1. FC Köln,3
-3,7,1. FSV Mainz 05,3
-3,8,1. FC Union Berlin,3
-3,9,TSG 1899 Hoffenheim,3
-3,10,RB Leipzig,3
-3,11,VfL Bochum 1848,3
-3,12,Arminia Bielefeld,3
-3,13,VfB Stuttgart,3
-3,14,Eintracht Frankfurt,3
-3,15,Borussia Mönchengladbach,3
-3,16,SpVgg Greuther Fürth 1903,3
-3,17,FC Augsburg,3
-3,18,Hertha BSC,3
-4,1,VfL Wolfsburg,4
-4,2,FC Bayern München,4
-4,3,Borussia Dortmund,4
-4,4,1. FSV Mainz 05,4
-4,5,SC Freiburg,4
-4,6,Bayer 04 Leverkusen,4
-4,7,1. FC Köln,4
-4,8,1. FC Union Berlin,4
-4,9,TSG 1899 Hoffenheim,4
-4,10,VfB Stuttgart,4
-4,11,Borussia Mönchengladbach,4
-4,12,RB Leipzig,4
-4,13,VfL Bochum 1848,4
-4,14,Arminia Bielefeld,4
-4,15,Eintracht Frankfurt,4
-4,16,Hertha BSC,4
-4,17,FC Augsburg,4
-4,18,SpVgg Greuther Fürth 1903,4
-5,1,FC Bayern München,5
-5,2,VfL Wolfsburg,5
-5,3,Borussia Dortmund,5
-5,4,Bayer 04 Leverkusen,5
-5,5,1. FSV Mainz 05,5
-5,6,SC Freiburg,5
-5,7,1. FC Köln,5
-5,8,1. FC Union Berlin,5
-5,9,Hertha BSC,5
-5,10,TSG 1899 Hoffenheim,5
-5,11,FC Augsburg,5
-5,12,RB Leipzig,5
-5,13,Arminia Bielefeld,5
-5,14,VfB Stuttgart,5
-5,15,Eintracht Frankfurt,5
-5,16,Borussia Mönchengladbach,5
-5,17,VfL Bochum 1848,5
-5,18,SpVgg Greuther Fürth 1903,5
-6,1,FC Bayern München,6
-6,2,Bayer 04 Leverkusen,6
-6,3,VfL Wolfsburg,6
-6,4,Borussia Dortmund,6
-6,5,SC Freiburg,6
-6,6,1. FSV Mainz 05,6
-6,7,1. FC Köln,6
-6,8,1. FC Union Berlin,6
-6,9,TSG 1899 Hoffenheim,6
-6,10,RB Leipzig,6
-6,11,Borussia Mönchengladbach,6
-6,12,Hertha BSC,6
-6,13,VfB Stuttgart,6
-6,14,Eintracht Frankfurt,6
-6,15,FC Augsburg,6
-6,16,Arminia Bielefeld,6
-6,17,VfL Bochum 1848,6
-6,18,SpVgg Greuther Fürth 1903,6
-7,1,FC Bayern München,7
-7,2,Bayer 04 Leverkusen,7
-7,3,Borussia Dortmund,7
-7,4,SC Freiburg,7
-7,5,VfL Wolfsburg,7
-7,6,1. FC Köln,7
-7,7,1. FC Union Berlin,7
-7,8,RB Leipzig,7
-7,9,1. FSV Mainz 05,7
-7,10,Borussia Mönchengladbach,7
-7,11,TSG 1899 Hoffenheim,7
-7,12,VfB Stuttgart,7
-7,13,Eintracht Frankfurt,7
-7,14,Hertha BSC,7
-7,15,FC Augsburg,7
-7,16,Arminia Bielefeld,7
-7,17,VfL Bochum 1848,7
-7,18,SpVgg Greuther Fürth 1903,7
-8,1,FC Bayern München,8
-8,2,Borussia Dortmund,8
-8,3,Bayer 04 Leverkusen,8
-8,4,SC Freiburg,8
-8,5,1. FC Union Berlin,8
-8,6,VfL Wolfsburg,8
-8,7,1. FC Köln,8
-8,8,RB Leipzig,8
-8,9,TSG 1899 Hoffenheim,8
-8,10,Borussia Mönchengladbach,8
-8,11,1. FSV Mainz 05,8
-8,12,VfB Stuttgart,8
-8,13,Hertha BSC,8
-8,14,Eintracht Frankfurt,8
-8,15,VfL Bochum 1848,8
-8,16,FC Augsburg,8
-8,17,Arminia Bielefeld,8
-8,18,SpVgg Greuther Fürth 1903,8
-9,1,FC Bayern München,9
-9,2,Borussia Dortmund,9
-9,3,SC Freiburg,9
-9,4,Bayer 04 Leverkusen,9
-9,5,1. FC Union Berlin,9
-9,6,RB Leipzig,9
-9,7,1. FSV Mainz 05,9
-9,8,1. FC Köln,9
-9,9,VfL Wolfsburg,9
-9,10,Hertha BSC,9
-9,11,TSG 1899 Hoffenheim,9
-9,12,Borussia Mönchengladbach,9
-9,13,VfB Stuttgart,9
-9,14,VfL Bochum 1848,9
-9,15,Eintracht Frankfurt,9
-9,16,FC Augsburg,9
-9,17,Arminia Bielefeld,9
-9,18,SpVgg Greuther Fürth 1903,9
-10,1,FC Bayern München,10
-10,2,Borussia Dortmund,10
-10,3,SC Freiburg,10
-10,4,Bayer 04 Leverkusen,10
-10,5,1. FSV Mainz 05,10
-10,6,1. FC Union Berlin,10
-10,7,VfL Wolfsburg,10
-10,8,RB Leipzig,10
-10,9,TSG 1899 Hoffenheim,10
-10,10,Borussia Mönchengladbach,10
-10,11,1. FC Köln,10
-10,12,Hertha BSC,10
-10,13,VfB Stuttgart,10
-10,14,VfL Bochum 1848,10
-10,15,Eintracht Frankfurt,10
-10,16,FC Augsburg,10
-10,17,Arminia Bielefeld,10
-10,18,SpVgg Greuther Fürth 1903,10
-11,1,FC Bayern München,11
-11,2,Borussia Dortmund,11
-11,3,SC Freiburg,11
-11,4,VfL Wolfsburg,11
-11,5,RB Leipzig,11
-11,6,Bayer 04 Leverkusen,11
-11,7,1. FSV Mainz 05,11
-11,8,1. FC Union Berlin,11
-11,9,Borussia Mönchengladbach,11
-11,10,TSG 1899 Hoffenheim,11
-11,11,1. FC Köln,11
-11,12,VfL Bochum 1848,11
-11,13,Hertha BSC,11
-11,14,Eintracht Frankfurt,11
-11,15,VfB Stuttgart,11
-11,16,FC Augsburg,11
-11,17,Arminia Bielefeld,11
-11,18,SpVgg Greuther Fürth 1903,11
-12,1,FC Bayern München,12
-12,2,Borussia Dortmund,12
-12,3,SC Freiburg,12
-12,4,Bayer 04 Leverkusen,12
-12,5,1. FC Union Berlin,12
-12,6,VfL Wolfsburg,12
-12,7,RB Leipzig,12
-12,8,1. FSV Mainz 05,12
-12,9,Borussia Mönchengladbach,12
-12,10,TSG 1899 Hoffenheim,12
-12,11,Eintracht Frankfurt,12
-12,12,1. FC Köln,12
-12,13,VfL Bochum 1848,12
-12,14,Hertha BSC,12
-12,15,FC Augsburg,12
-12,16,VfB Stuttgart,12
-12,17,Arminia Bielefeld,12
-12,18,SpVgg Greuther Fürth 1903,12
-13,1,FC Bayern München,13
-13,2,Borussia Dortmund,13
-13,3,Bayer 04 Leverkusen,13
-13,4,SC Freiburg,13
-13,5,TSG 1899 Hoffenheim,13
-13,6,1. FC Union Berlin,13
-13,7,VfL Wolfsburg,13
-13,8,RB Leipzig,13
-13,9,1. FSV Mainz 05,13
-13,10,1. FC Köln,13
-13,11,Borussia Mönchengladbach,13
-13,12,Eintracht Frankfurt,13
-13,13,VfL Bochum 1848,13
-13,14,Hertha BSC,13
-13,15,VfB Stuttgart,13
-13,16,FC Augsburg,13
-13,17,Arminia Bielefeld,13
-13,18,SpVgg Greuther Fürth 1903,13
-14,1,FC Bayern München,14
-14,2,Borussia Dortmund,14
-14,3,Bayer 04 Leverkusen,14
-14,4,SC Freiburg,14
-14,5,TSG 1899 Hoffenheim,14
-14,6,1. FC Union Berlin,14
-14,7,1. FSV Mainz 05,14
-14,8,VfL Wolfsburg,14
-14,9,1. FC Köln,14
-14,10,VfL Bochum 1848,14
-14,11,RB Leipzig,14
-14,12,Eintracht Frankfurt,14
-14,13,Borussia Mönchengladbach,14
-14,14,Hertha BSC,14
-14,15,VfB Stuttgart,14
-14,16,FC Augsburg,14
-14,17,Arminia Bielefeld,14
-14,18,SpVgg Greuther Fürth 1903,14
-15,1,FC Bayern München,15
-15,2,Borussia Dortmund,15
-15,3,Bayer 04 Leverkusen,15
-15,4,TSG 1899 Hoffenheim,15
-15,5,SC Freiburg,15
-15,6,1. FC Union Berlin,15
-15,7,RB Leipzig,15
-15,8,1. FSV Mainz 05,15
-15,9,Eintracht Frankfurt,15
-15,10,VfL Bochum 1848,15
-15,11,VfL Wolfsburg,15
-15,12,1. FC Köln,15
-15,13,Borussia Mönchengladbach,15
-15,14,Hertha BSC,15
-15,15,VfB Stuttgart,15
-15,16,FC Augsburg,15
-15,17,Arminia Bielefeld,15
-15,18,SpVgg Greuther Fürth 1903,15
-16,1,FC Bayern München,16
-16,2,Borussia Dortmund,16
-16,3,Bayer 04 Leverkusen,16
-16,4,TSG 1899 Hoffenheim,16
-16,5,SC Freiburg,16
-16,6,1. FSV Mainz 05,16
-16,7,Eintracht Frankfurt,16
-16,8,1. FC Union Berlin,16
-16,9,RB Leipzig,16
-16,10,1. FC Köln,16
-16,11,VfL Wolfsburg,16
-16,12,VfL Bochum 1848,16
-16,13,Borussia Mönchengladbach,16
-16,14,Hertha BSC,16
-16,15,VfB Stuttgart,16
-16,16,FC Augsburg,16
-16,17,Arminia Bielefeld,16
-16,18,SpVgg Greuther Fürth 1903,16
-17,1,FC Bayern München,17
-17,2,Borussia Dortmund,17
-17,3,SC Freiburg,17
-17,4,Bayer 04 Leverkusen,17
-17,5,TSG 1899 Hoffenheim,17
-17,6,Eintracht Frankfurt,17
-17,7,1. FC Union Berlin,17
-17,8,1. FC Köln,17
-17,9,1. FSV Mainz 05,17
-17,10,RB Leipzig,17
-17,11,Hertha BSC,17
-17,12,VfL Bochum 1848,17
-17,13,VfL Wolfsburg,17
-17,14,Borussia Mönchengladbach,17
-17,15,FC Augsburg,17
-17,16,VfB Stuttgart,17
-17,17,Arminia Bielefeld,17
-17,18,SpVgg Greuther Fürth 1903,17
-18,1,FC Bayern München,18
-18,2,Borussia Dortmund,18
-18,3,TSG 1899 Hoffenheim,18
-18,4,SC Freiburg,18
-18,5,Bayer 04 Leverkusen,18
-18,6,1. FC Köln,18
-18,7,1. FC Union Berlin,18
-18,8,Eintracht Frankfurt,18
-18,9,RB Leipzig,18
-18,10,1. FSV Mainz 05,18
-18,11,VfL Bochum 1848,18
-18,12,Borussia Mönchengladbach,18
-18,13,Hertha BSC,18
-18,14,VfL Wolfsburg,18
-18,15,VfB Stuttgart,18
-18,16,FC Augsburg,18
-18,17,Arminia Bielefeld,18
-18,18,SpVgg Greuther Fürth 1903,18
-19,1,FC Bayern München,19
-19,2,Borussia Dortmund,19
-19,3,Bayer 04 Leverkusen,19
-19,4,TSG 1899 Hoffenheim,19
-19,5,1. FC Union Berlin,19
-19,6,SC Freiburg,19
-19,7,RB Leipzig,19
-19,8,Eintracht Frankfurt,19
-19,9,1. FC Köln,19
-19,10,1. FSV Mainz 05,19
-19,11,VfL Bochum 1848,19
-19,12,Borussia Mönchengladbach,19
-19,13,Hertha BSC,19
-19,14,VfL Wolfsburg,19
-19,15,FC Augsburg,19
-19,16,Arminia Bielefeld,19
-19,17,VfB Stuttgart,19
-19,18,SpVgg Greuther Fürth 1903,19
-20,1,FC Bayern München,20
-20,2,Borussia Dortmund,20
-20,3,Bayer 04 Leverkusen,20
-20,4,1. FC Union Berlin,20
-20,5,SC Freiburg,20
-20,6,RB Leipzig,20
-20,7,TSG 1899 Hoffenheim,20
-20,8,1. FC Köln,20
-20,9,Eintracht Frankfurt,20
-20,10,1. FSV Mainz 05,20
-20,11,VfL Bochum 1848,20
-20,12,Borussia Mönchengladbach,20
-20,13,Hertha BSC,20
-20,14,Arminia Bielefeld,20
-20,15,VfL Wolfsburg,20
-20,16,FC Augsburg,20
-20,17,VfB Stuttgart,20
-20,18,SpVgg Greuther Fürth 1903,20
-21,1,FC Bayern München,21
-21,2,Borussia Dortmund,21
-21,3,Bayer 04 Leverkusen,21
-21,4,1. FC Union Berlin,21
-21,5,SC Freiburg,21
-21,6,1. FC Köln,21
-21,7,RB Leipzig,21
-21,8,TSG 1899 Hoffenheim,21
-21,9,Eintracht Frankfurt,21
-21,10,1. FSV Mainz 05,21
-21,11,VfL Bochum 1848,21
-21,12,VfL Wolfsburg,21
-21,13,Borussia Mönchengladbach,21
-21,14,Hertha BSC,21
-21,15,Arminia Bielefeld,21
-21,16,FC Augsburg,21
-21,17,VfB Stuttgart,21
-21,18,SpVgg Greuther Fürth 1903,21
-22,1,FC Bayern München,22
-22,2,Borussia Dortmund,22
-22,3,Bayer 04 Leverkusen,22
-22,4,RB Leipzig,22
-22,5,TSG 1899 Hoffenheim,22
-22,6,SC Freiburg,22
-22,7,1. FC Union Berlin,22
-22,8,1. FC Köln,22
-22,9,1. FSV Mainz 05,22
-22,10,Eintracht Frankfurt,22
-22,11,VfL Bochum 1848,22
-22,12,VfL Wolfsburg,22
-22,13,Borussia Mönchengladbach,22
-22,14,Hertha BSC,22
-22,15,Arminia Bielefeld,22
-22,16,FC Augsburg,22
-22,17,VfB Stuttgart,22
-22,18,SpVgg Greuther Fürth 1903,22
-23,1,FC Bayern München,23
-23,2,Borussia Dortmund,23
-23,3,Bayer 04 Leverkusen,23
-23,4,RB Leipzig,23
-23,5,TSG 1899 Hoffenheim,23
-23,6,SC Freiburg,23
-23,7,1. FC Köln,23
-23,8,1. FSV Mainz 05,23
-23,9,1. FC Union Berlin,23
-23,10,Eintracht Frankfurt,23
-23,11,VfL Bochum 1848,23
-23,12,VfL Wolfsburg,23
-23,13,Borussia Mönchengladbach,23
-23,14,Arminia Bielefeld,23
-23,15,Hertha BSC,23
-23,16,FC Augsburg,23
-23,17,VfB Stuttgart,23
-23,18,SpVgg Greuther Fürth 1903,23
-24,1,FC Bayern München,24
-24,2,Borussia Dortmund,24
-24,3,Bayer 04 Leverkusen,24
-24,4,RB Leipzig,24
-24,5,SC Freiburg,24
-24,6,TSG 1899 Hoffenheim,24
-24,7,1. FC Union Berlin,24
-24,8,1. FC Köln,24
-24,9,1. FSV Mainz 05,24
-24,10,Eintracht Frankfurt,24
-24,11,VfL Bochum 1848,24
-24,12,VfL Wolfsburg,24
-24,13,Borussia Mönchengladbach,24
-24,14,Arminia Bielefeld,24
-24,15,FC Augsburg,24
-24,16,Hertha BSC,24
-24,17,VfB Stuttgart,24
-24,18,SpVgg Greuther Fürth 1903,24
-25,1,FC Bayern München,25
-25,2,Borussia Dortmund,25
-25,3,Bayer 04 Leverkusen,25
-25,4,TSG 1899 Hoffenheim,25
-25,5,RB Leipzig,25
-25,6,SC Freiburg,25
-25,7,1. FC Union Berlin,25
-25,8,1. FC Köln,25
-25,9,1. FSV Mainz 05,25
-25,10,Eintracht Frankfurt,25
-25,11,VfL Bochum 1848,25
-25,12,VfL Wolfsburg,25
-25,13,Borussia Mönchengladbach,25
-25,14,FC Augsburg,25
-25,15,Arminia Bielefeld,25
-25,16,Hertha BSC,25
-25,17,VfB Stuttgart,25
-25,18,SpVgg Greuther Fürth 1903,25
-26,1,FC Bayern München,26
-26,2,Borussia Dortmund,26
-26,3,Bayer 04 Leverkusen,26
-26,4,RB Leipzig,26
-26,5,SC Freiburg,26
-26,6,TSG 1899 Hoffenheim,26
-26,7,1. FC Köln,26
-26,8,1. FC Union Berlin,26
-26,9,Eintracht Frankfurt,26
-26,10,1. FSV Mainz 05,26
-26,11,VfL Bochum 1848,26
-26,12,VfL Wolfsburg,26
-26,13,Borussia Mönchengladbach,26
-26,14,FC Augsburg,26
-26,15,Arminia Bielefeld,26
-26,16,VfB Stuttgart,26
-26,17,Hertha BSC,26
-26,18,SpVgg Greuther Fürth 1903,26
-27,1,FC Bayern München,27
-27,2,Borussia Dortmund,27
-27,3,Bayer 04 Leverkusen,27
-27,4,RB Leipzig,27
-27,5,SC Freiburg,27
-27,6,TSG 1899 Hoffenheim,27
-27,7,1. FC Köln,27
-27,8,Eintracht Frankfurt,27
-27,9,1. FC Union Berlin,27
-27,10,1. FSV Mainz 05,27
-27,11,Borussia Mönchengladbach,27
-27,12,VfL Bochum 1848,27
-27,13,VfL Wolfsburg,27
-27,14,FC Augsburg,27
-27,15,VfB Stuttgart,27
-27,16,Hertha BSC,27
-27,17,Arminia Bielefeld,27
-27,18,SpVgg Greuther Fürth 1903,27
-28,1,FC Bayern München,28
-28,2,Borussia Dortmund,28
-28,3,Bayer 04 Leverkusen,28
-28,4,RB Leipzig,28
-28,5,SC Freiburg,28
-28,6,TSG 1899 Hoffenheim,28
-28,7,1. FC Union Berlin,28
-28,8,1. FC Köln,28
-28,9,Eintracht Frankfurt,28
-28,10,1. FSV Mainz 05,28
-28,11,VfL Bochum 1848,28
-28,12,Borussia Mönchengladbach,28
-28,13,FC Augsburg,28
-28,14,VfL Wolfsburg,28
-28,15,VfB Stuttgart,28
-28,16,Arminia Bielefeld,28
-28,17,Hertha BSC,28
-28,18,SpVgg Greuther Fürth 1903,28
-29,1,FC Bayern München,29
-29,2,Borussia Dortmund,29
-29,3,Bayer 04 Leverkusen,29
-29,4,RB Leipzig,29
-29,5,SC Freiburg,29
-29,6,TSG 1899 Hoffenheim,29
-29,7,1. FC Union Berlin,29
-29,8,1. FC Köln,29
-29,9,Eintracht Frankfurt,29
-29,10,1. FSV Mainz 05,29
-29,11,Borussia Mönchengladbach,29
-29,12,VfL Bochum 1848,29
-29,13,VfL Wolfsburg,29
-29,14,FC Augsburg,29
-29,15,VfB Stuttgart,29
-29,16,Arminia Bielefeld,29
-29,17,Hertha BSC,29
-29,18,SpVgg Greuther Fürth 1903,29
-30,1,FC Bayern München,30
-30,2,Borussia Dortmund,30
-30,3,RB Leipzig,30
-30,4,Bayer 04 Leverkusen,30
-30,5,SC Freiburg,30
-30,6,1. FC Union Berlin,30
-30,7,1. FC Köln,30
-30,8,TSG 1899 Hoffenheim,30
-30,9,1. FSV Mainz 05,30
-30,10,Eintracht Frankfurt,30
-30,11,Borussia Mönchengladbach,30
-30,12,VfL Bochum 1848,30
-30,13,VfL Wolfsburg,30
-30,14,FC Augsburg,30
-30,15,Hertha BSC,30
-30,16,VfB Stuttgart,30
-30,17,Arminia Bielefeld,30
-30,18,SpVgg Greuther Fürth 1903,30
-31,1,FC Bayern München,31
-31,2,Borussia Dortmund,31
-31,3,Bayer 04 Leverkusen,31
-31,4,RB Leipzig,31
-31,5,SC Freiburg,31
-31,6,1. FC Union Berlin,31
-31,7,1. FC Köln,31
-31,8,TSG 1899 Hoffenheim,31
-31,9,Eintracht Frankfurt,31
-31,10,1. FSV Mainz 05,31
-31,11,Borussia Mönchengladbach,31
-31,12,VfL Wolfsburg,31
-31,13,VfL Bochum 1848,31
-31,14,FC Augsburg,31
-31,15,Hertha BSC,31
-31,16,VfB Stuttgart,31
-31,17,Arminia Bielefeld,31
-31,18,SpVgg Greuther Fürth 1903,31
-32,1,FC Bayern München,32
-32,2,Borussia Dortmund,32
-32,3,Bayer 04 Leverkusen,32
-32,4,SC Freiburg,32
-32,5,RB Leipzig,32
-32,6,1. FC Köln,32
-32,7,1. FC Union Berlin,32
-32,8,TSG 1899 Hoffenheim,32
-32,9,1. FSV Mainz 05,32
-32,10,Borussia Mönchengladbach,32
-32,11,Eintracht Frankfurt,32
-32,12,VfL Bochum 1848,32
-32,13,VfL Wolfsburg,32
-32,14,FC Augsburg,32
-32,15,Hertha BSC,32
-32,16,VfB Stuttgart,32
-32,17,Arminia Bielefeld,32
-32,18,SpVgg Greuther Fürth 1903,32
-33,1,FC Bayern München,33
-33,2,Borussia Dortmund,33
-33,3,Bayer 04 Leverkusen,33
-33,4,RB Leipzig,33
-33,5,SC Freiburg,33
-33,6,1. FC Union Berlin,33
-33,7,1. FC Köln,33
-33,8,TSG 1899 Hoffenheim,33
-33,9,1. FSV Mainz 05,33
-33,10,Borussia Mönchengladbach,33
-33,11,VfL Bochum 1848,33
-33,12,Eintracht Frankfurt,33
-33,13,VfL Wolfsburg,33
-33,14,FC Augsburg,33
-33,15,Hertha BSC,33
-33,16,VfB Stuttgart,33
-33,17,Arminia Bielefeld,33
-33,18,SpVgg Greuther Fürth 1903,33
-34,1,FC Bayern München,34
-34,2,Borussia Dortmund,34
-34,3,Bayer 04 Leverkusen,34
-34,4,RB Leipzig,34
-34,5,1. FC Union Berlin,34
-34,6,SC Freiburg,34
-34,7,1. FC Köln,34
-34,8,1. FSV Mainz 05,34
-34,9,TSG 1899 Hoffenheim,34
-34,10,Borussia Mönchengladbach,34
-34,11,Eintracht Frankfurt,34
-34,12,VfL Wolfsburg,34
-34,13,VfL Bochum 1848,34
-34,14,FC Augsburg,34
-34,15,VfB Stuttgart,34
-34,16,Hertha BSC,34
-34,17,Arminia Bielefeld,34
-34,18,SpVgg Greuther Fürth 1903,34
+matchday,position,team_name,playedGames,points,goalsFor,goalsAgainst,goalDifference
+1,1,Angers SCO,1,3,2,0,2
+1,2,Clermont Foot 63,1,3,2,0,2
+1,3,Olympique de Marseille,1,3,3,2,1
+1,4,Paris Saint-Germain FC,1,3,2,1,1
+1,5,FC Metz,1,1,3,3,0
+1,6,Lille OSC,1,1,3,3,0
+1,7,AS Monaco FC,1,1,1,1,0
+1,8,FC Nantes,1,1,1,1,0
+1,9,Olympique Lyonnais,1,1,1,1,0
+1,10,Stade Brestois 29,1,1,1,1,0
+1,11,Stade Rennais FC 1901,1,1,1,1,0
+1,12,Racing Club de Lens,1,1,1,1,0
+1,13,AS Saint-Étienne,1,1,1,1,0
+1,14,FC Lorient,1,1,1,1,0
+1,15,OGC Nice,1,1,0,0,0
+1,16,Stade de Reims,1,1,0,0,0
+1,17,Montpellier HSC,1,0,2,3,-1
+1,18,ES Troyes AC,1,0,1,2,-1
+1,19,RC Strasbourg Alsace,1,0,0,2,-2
+1,20,FC Girondins de Bordeaux,1,0,0,2,-2
+1,1,FC Metz,1,1,3,3,0
+1,2,AS Monaco FC,1,1,1,1,0
+1,3,Olympique Lyonnais,1,1,1,1,0
+1,4,Stade Rennais FC 1901,1,1,1,1,0
+1,5,AS Saint-Étienne,1,1,1,1,0
+1,6,OGC Nice,1,1,0,0,0
+1,17,Montpellier HSC,1,0,2,3,-1
+1,18,ES Troyes AC,1,0,1,2,-1
+1,19,RC Strasbourg Alsace,1,0,0,2,-2
+1,20,FC Girondins de Bordeaux,1,0,0,2,-2
+1,1,Angers SCO,1,3,2,0,2
+1,2,Clermont Foot 63,1,3,2,0,2
+1,3,Olympique de Marseille,1,3,3,2,1
+1,4,Paris Saint-Germain FC,1,3,2,1,1
+1,5,Lille OSC,1,1,3,3,0
+1,6,FC Nantes,1,1,1,1,0
+1,7,Stade Brestois 29,1,1,1,1,0
+1,8,Racing Club de Lens,1,1,1,1,0
+1,9,FC Lorient,1,1,1,1,0
+1,10,Stade de Reims,1,1,0,0,0
+2,1,Angers SCO,2,6,5,0,5
+2,2,Clermont Foot 63,2,6,4,0,4
+2,3,Paris Saint-Germain FC,2,6,6,3,3
+2,4,OGC Nice,2,4,4,0,4
+2,5,FC Nantes,2,4,3,1,2
+2,6,Olympique de Marseille,2,4,5,4,1
+2,7,FC Lorient,2,4,2,1,1
+2,8,Racing Club de Lens,2,2,3,3,0
+2,9,AS Saint-Étienne,2,2,3,3,0
+2,10,Stade de Reims,2,2,3,3,0
+2,11,Stade Brestois 29,2,2,2,2,0
+2,12,Stade Rennais FC 1901,2,2,2,2,0
+2,13,Montpellier HSC,2,1,5,6,-1
+2,14,AS Monaco FC,2,1,1,2,-1
+2,15,FC Metz,2,1,3,5,-2
+2,16,FC Girondins de Bordeaux,2,1,2,4,-2
+2,17,Olympique Lyonnais,2,1,1,4,-3
+2,18,Lille OSC,2,1,3,7,-4
+2,19,ES Troyes AC,2,0,1,4,-3
+2,20,RC Strasbourg Alsace,2,0,2,6,-4
+3,1,Paris Saint-Germain FC,3,9,10,5,5
+3,2,Angers SCO,3,7,6,1,5
+3,3,Clermont Foot 63,3,7,7,3,4
+3,4,OGC Nice,3,5,5,1,4
+3,5,Racing Club de Lens,3,5,5,3,2
+3,6,Olympique de Marseille,3,5,6,5,1
+3,7,Stade Rennais FC 1901,3,5,3,2,1
+3,8,Montpellier HSC,3,4,8,7,1
+3,9,FC Nantes,3,4,3,2,1
+3,10,FC Lorient,3,4,3,4,-1
+3,11,AS Saint-Étienne,3,3,4,4,0
+3,12,Stade de Reims,3,3,4,4,0
+3,13,Stade Brestois 29,3,2,4,6,-2
+3,14,FC Metz,3,2,4,6,-2
+3,15,FC Girondins de Bordeaux,3,2,3,5,-2
+3,16,Olympique Lyonnais,3,2,4,7,-3
+3,17,Lille OSC,3,2,4,8,-4
+3,18,ES Troyes AC,3,1,2,5,-3
+3,19,AS Monaco FC,3,1,1,4,-3
+3,20,RC Strasbourg Alsace,3,1,3,7,-4
+4,1,Paris Saint-Germain FC,4,12,12,5,7
+4,2,Angers SCO,4,10,8,1,7
+4,3,OGC Nice,4,8,9,1,8
+4,4,Clermont Foot 63,4,8,9,5,4
+4,5,Olympique de Marseille,4,8,9,6,3
+4,6,Racing Club de Lens,4,6,7,5,2
+4,7,FC Lorient,4,5,5,6,-1
+4,8,Stade Rennais FC 1901,4,5,3,4,-1
+4,9,Olympique Lyonnais,4,5,5,7,-2
+4,10,Lille OSC,4,5,6,9,-3
+4,11,Montpellier HSC,4,4,9,9,0
+4,12,FC Nantes,4,4,3,3,0
+4,13,RC Strasbourg Alsace,4,4,6,8,-2
+4,14,AS Monaco FC,4,4,3,5,-2
+4,15,FC Metz,4,3,6,8,-2
+4,16,AS Saint-Étienne,4,3,5,7,-2
+4,17,Stade de Reims,4,3,4,6,-2
+4,18,Stade Brestois 29,4,2,5,9,-4
+4,19,FC Girondins de Bordeaux,4,2,3,9,-6
+4,20,ES Troyes AC,4,1,3,7,-4
+5,1,Paris Saint-Germain FC,5,15,16,5,11
+5,2,OGC Nice,5,11,11,1,10
+5,3,Angers SCO,5,11,9,2,7
+5,4,Olympique de Marseille,5,11,11,6,5
+5,5,Racing Club de Lens,5,9,10,7,3
+5,6,Clermont Foot 63,5,8,9,9,0
+5,7,Olympique Lyonnais,5,8,8,8,0
+5,8,FC Lorient,5,8,7,7,0
+5,9,Montpellier HSC,5,7,11,9,2
+5,10,Stade de Reims,5,6,6,6,0
+5,11,Stade Rennais FC 1901,5,5,3,6,-3
+5,12,Lille OSC,5,5,7,11,-4
+5,13,ES Troyes AC,5,4,5,7,-2
+5,14,FC Nantes,5,4,3,5,-2
+5,15,RC Strasbourg Alsace,5,4,7,11,-4
+5,16,AS Monaco FC,5,4,3,7,-4
+5,17,Stade Brestois 29,5,3,6,10,-4
+5,18,FC Metz,5,3,6,10,-4
+5,19,AS Saint-Étienne,5,3,5,9,-4
+5,20,FC Girondins de Bordeaux,5,2,5,12,-7
+6,1,Paris Saint-Germain FC,6,18,18,6,12
+6,2,Olympique de Marseille,6,14,13,6,7
+6,3,OGC Nice,6,12,13,3,10
+6,4,Racing Club de Lens,6,12,11,7,4
+6,5,Angers SCO,6,11,10,6,4
+6,6,Clermont Foot 63,6,9,10,10,0
+6,7,FC Lorient,6,9,7,7,0
+6,8,Montpellier HSC,6,8,12,10,2
+6,9,Olympique Lyonnais,6,8,9,10,-1
+6,10,FC Nantes,6,7,7,6,1
+6,11,Stade de Reims,6,7,6,6,0
+6,12,RC Strasbourg Alsace,6,7,10,11,-1
+6,13,ES Troyes AC,6,5,6,8,-2
+6,14,AS Monaco FC,6,5,5,9,-4
+6,15,Lille OSC,6,5,7,12,-5
+6,16,Stade Rennais FC 1901,6,5,3,8,-5
+6,17,FC Girondins de Bordeaux,6,5,7,13,-6
+6,18,Stade Brestois 29,6,4,7,11,-4
+6,19,AS Saint-Étienne,6,3,6,11,-5
+6,20,FC Metz,6,3,6,13,-7
+7,1,Paris Saint-Germain FC,7,21,20,7,13
+7,2,Olympique de Marseille,7,15,13,6,7
+7,3,OGC Nice,7,12,13,4,9
+7,4,Angers SCO,7,12,10,6,4
+7,5,Racing Club de Lens,7,12,11,8,3
+7,6,FC Lorient,7,12,8,7,1
+7,7,Olympique Lyonnais,7,11,12,11,1
+7,8,FC Nantes,7,10,10,7,3
+7,9,RC Strasbourg Alsace,7,10,11,11,0
+7,10,Montpellier HSC,7,9,15,13,2
+7,11,Clermont Foot 63,7,9,10,16,-6
+7,12,Stade Rennais FC 1901,7,8,9,8,1
+7,13,AS Monaco FC,7,8,8,10,-2
+7,14,Lille OSC,7,8,9,13,-4
+7,15,Stade de Reims,7,7,7,8,-1
+7,16,FC Girondins de Bordeaux,7,6,10,16,-6
+7,17,ES Troyes AC,7,5,7,11,-4
+7,18,Stade Brestois 29,7,4,8,14,-6
+7,19,AS Saint-Étienne,7,3,7,14,-7
+7,20,FC Metz,7,3,7,15,-8
+8,1,Paris Saint-Germain FC,8,24,22,7,15
+8,2,OGC Nice,8,15,16,4,12
+8,3,Olympique de Marseille,8,15,15,9,6
+8,4,Racing Club de Lens,8,15,14,10,4
+8,5,Angers SCO,8,13,11,7,4
+8,6,FC Lorient,8,13,9,8,1
+8,7,Olympique Lyonnais,8,12,13,12,1
+8,8,AS Monaco FC,8,11,11,11,0
+8,9,Lille OSC,8,11,11,14,-3
+8,10,FC Nantes,8,10,11,10,1
+8,11,Stade de Reims,8,10,10,9,1
+8,12,RC Strasbourg Alsace,8,10,12,13,-1
+8,13,Stade Rennais FC 1901,8,9,10,9,1
+8,14,Montpellier HSC,8,9,15,15,0
+8,15,Clermont Foot 63,8,9,11,19,-8
+8,16,FC Girondins de Bordeaux,8,7,11,17,-6
+8,17,ES Troyes AC,8,6,8,12,-4
+8,18,FC Metz,8,6,9,16,-7
+8,19,Stade Brestois 29,8,4,9,16,-7
+8,20,AS Saint-Étienne,8,3,7,17,-10
+9,1,Paris Saint-Germain FC,9,24,22,9,13
+9,2,OGC Nice,9,18,18,5,13
+9,3,Racing Club de Lens,9,18,16,10,6
+9,4,Angers SCO,9,16,14,9,5
+9,5,Olympique de Marseille,9,15,15,11,4
+9,6,AS Monaco FC,9,14,14,11,3
+9,7,FC Lorient,9,14,10,9,1
+9,8,Lille OSC,9,14,13,14,-1
+9,9,FC Nantes,9,13,13,10,3
+9,10,Olympique Lyonnais,9,13,14,13,1
+9,11,Stade Rennais FC 1901,9,12,12,9,3
+9,12,RC Strasbourg Alsace,9,11,13,14,-1
+9,13,Montpellier HSC,9,10,16,16,0
+9,14,Stade de Reims,9,10,10,11,-1
+9,15,Clermont Foot 63,9,10,12,20,-8
+9,16,FC Girondins de Bordeaux,9,7,11,20,-9
+9,17,ES Troyes AC,9,6,8,14,-6
+9,18,FC Metz,9,6,11,19,-8
+9,19,Stade Brestois 29,9,4,10,18,-8
+9,20,AS Saint-Étienne,9,4,8,18,-10
+10,1,Paris Saint-Germain FC,10,27,24,10,14
+10,2,OGC Nice,10,18,18,6,12
+10,3,Olympique de Marseille,10,18,19,12,7
+10,4,Racing Club de Lens,10,18,16,11,5
+10,5,Angers SCO,10,16,15,11,4
+10,6,Olympique Lyonnais,10,16,16,13,3
+10,7,Stade Rennais FC 1901,10,15,15,9,6
+10,8,RC Strasbourg Alsace,10,14,18,15,3
+10,9,FC Nantes,10,14,14,11,3
+10,10,AS Monaco FC,10,14,14,13,1
+10,11,Lille OSC,10,14,13,15,-2
+10,12,FC Lorient,10,14,11,13,-2
+10,13,Montpellier HSC,10,13,17,16,1
+10,14,Clermont Foot 63,10,13,13,20,-7
+10,15,Stade de Reims,10,11,11,12,-1
+10,16,ES Troyes AC,10,9,9,14,-5
+10,17,FC Girondins de Bordeaux,10,8,12,21,-9
+10,18,FC Metz,10,6,11,22,-11
+10,19,Stade Brestois 29,10,5,11,19,-8
+10,20,AS Saint-Étienne,10,4,9,23,-14
+11,1,Paris Saint-Germain FC,11,28,24,10,14
+11,2,OGC Nice,11,21,21,8,13
+11,3,Racing Club de Lens,11,21,20,12,8
+11,4,Olympique de Marseille,11,19,19,12,7
+11,5,Stade Rennais FC 1901,11,18,16,9,7
+11,6,Angers SCO,11,17,17,13,4
+11,7,FC Nantes,11,17,16,12,4
+11,8,AS Monaco FC,11,17,17,14,3
+11,9,Olympique Lyonnais,11,16,18,16,2
+11,10,Lille OSC,11,15,14,16,-2
+11,11,FC Lorient,11,15,12,14,-2
+11,12,RC Strasbourg Alsace,11,14,18,16,2
+11,13,Montpellier HSC,11,13,18,19,-1
+11,14,Clermont Foot 63,11,13,14,22,-8
+11,15,ES Troyes AC,11,12,11,15,-4
+11,16,Stade de Reims,11,11,12,14,-2
+11,17,FC Girondins de Bordeaux,11,9,13,22,-9
+11,18,Stade Brestois 29,11,6,12,20,-8
+11,19,FC Metz,11,6,12,26,-14
+11,20,AS Saint-Étienne,11,5,11,25,-14
+12,1,Paris Saint-Germain FC,12,31,26,11,15
+12,2,OGC Nice,12,24,23,9,14
+12,3,Olympique de Marseille,12,22,20,12,8
+12,4,Racing Club de Lens,12,21,21,14,7
+12,5,Stade Rennais FC 1901,12,19,18,11,7
+12,6,Olympique Lyonnais,12,19,20,17,3
+12,7,RC Strasbourg Alsace,12,17,22,16,6
+12,8,Angers SCO,12,17,18,15,3
+12,9,FC Nantes,12,17,16,14,2
+12,10,AS Monaco FC,12,17,17,16,1
+12,11,Montpellier HSC,12,16,20,19,1
+12,12,Lille OSC,12,15,15,18,-3
+12,13,FC Lorient,12,15,12,18,-6
+12,14,ES Troyes AC,12,13,13,17,-4
+12,15,Clermont Foot 63,12,13,14,23,-9
+12,16,FC Girondins de Bordeaux,12,12,16,24,-8
+12,17,Stade de Reims,12,11,14,17,-3
+12,18,Stade Brestois 29,12,9,14,20,-6
+12,19,FC Metz,12,7,13,27,-14
+12,20,AS Saint-Étienne,12,6,12,26,-14
+13,1,Paris Saint-Germain FC,13,34,29,13,16
+13,2,OGC Nice,13,24,23,10,13
+13,3,Racing Club de Lens,13,24,25,14,11
+13,4,Olympique de Marseille,13,23,20,12,8
+13,5,Stade Rennais FC 1901,13,22,22,12,10
+13,6,Montpellier HSC,13,19,21,19,2
+13,7,Olympique Lyonnais,13,19,21,21,0
+13,8,RC Strasbourg Alsace,13,18,24,18,6
+13,9,Angers SCO,13,18,19,16,3
+13,10,FC Nantes,13,18,18,16,2
+13,11,AS Monaco FC,13,18,17,16,1
+13,12,Lille OSC,13,16,16,19,-3
+13,13,FC Lorient,13,15,13,20,-7
+13,14,ES Troyes AC,13,13,13,21,-8
+13,15,Clermont Foot 63,13,13,16,26,-10
+13,16,Stade de Reims,13,12,14,17,-3
+13,17,Stade Brestois 29,13,12,16,21,-5
+13,18,FC Girondins de Bordeaux,13,12,18,27,-9
+13,19,AS Saint-Étienne,13,9,15,28,-13
+13,20,FC Metz,13,8,13,27,-14
+14,1,Paris Saint-Germain FC,14,37,32,14,18
+14,2,OGC Nice,14,27,25,11,14
+14,3,Stade Rennais FC 1901,14,25,24,12,12
+14,4,Racing Club de Lens,14,24,25,18,7
+14,5,Olympique de Marseille,14,23,21,14,7
+14,6,Olympique Lyonnais,14,22,23,22,1
+14,7,Angers SCO,14,21,20,16,4
+14,8,RC Strasbourg Alsace,14,19,25,19,6
+14,9,AS Monaco FC,14,19,19,18,1
+14,10,Montpellier HSC,14,19,21,21,0
+14,11,FC Nantes,14,18,19,19,0
+14,12,Lille OSC,14,17,18,21,-3
+14,13,Stade Brestois 29,14,15,20,21,-1
+14,14,FC Lorient,14,15,13,21,-8
+14,15,Stade de Reims,14,13,15,18,-3
+14,16,FC Girondins de Bordeaux,14,13,21,30,-9
+14,17,ES Troyes AC,14,13,13,22,-9
+14,18,Clermont Foot 63,14,13,17,28,-11
+14,19,AS Saint-Étienne,14,12,16,28,-12
+14,20,FC Metz,14,9,16,30,-14
+15,1,Paris Saint-Germain FC,15,40,35,15,20
+15,2,Stade Rennais FC 1901,15,28,26,12,14
+15,3,OGC Nice,15,27,25,12,13
+15,4,Olympique de Marseille,15,26,22,14,8
+15,5,Racing Club de Lens,15,25,27,20,7
+15,6,Olympique Lyonnais,15,25,24,22,2
+15,7,Angers SCO,15,22,22,18,4
+15,8,RC Strasbourg Alsace,15,20,26,20,6
+15,9,AS Monaco FC,15,20,20,19,1
+15,10,FC Nantes,15,19,20,20,0
+15,11,Montpellier HSC,15,19,21,22,-1
+15,12,Stade Brestois 29,15,18,22,22,0
+15,13,Lille OSC,15,18,19,22,-3
+15,14,Stade de Reims,15,16,16,18,-2
+15,15,FC Lorient,15,15,13,23,-10
+15,16,FC Girondins de Bordeaux,15,13,22,32,-10
+15,17,ES Troyes AC,15,13,13,23,-10
+15,18,Clermont Foot 63,15,13,17,29,-12
+15,19,FC Metz,15,12,17,30,-13
+15,20,AS Saint-Étienne,15,12,17,31,-14
+16,1,Paris Saint-Germain FC,16,41,35,15,20
+16,2,Olympique de Marseille,16,29,23,14,9
+16,3,Stade Rennais FC 1901,16,28,27,14,13
+16,4,OGC Nice,16,28,25,12,13
+16,5,Racing Club de Lens,16,26,29,22,7
+16,6,Olympique Lyonnais,16,25,25,24,1
+16,7,RC Strasbourg Alsace,16,23,31,22,9
+16,8,AS Monaco FC,16,23,23,20,3
+16,9,Angers SCO,16,22,23,21,2
+16,10,Montpellier HSC,16,22,24,23,1
+16,11,Stade Brestois 29,16,21,23,22,1
+16,12,Lille OSC,16,21,21,23,-2
+16,13,FC Nantes,16,19,20,21,-1
+16,14,Stade de Reims,16,19,18,19,-1
+16,15,ES Troyes AC,16,16,15,23,-8
+16,16,FC Lorient,16,15,13,25,-12
+16,17,Clermont Foot 63,16,14,19,31,-12
+16,18,FC Girondins de Bordeaux,16,13,24,37,-13
+16,19,FC Metz,16,12,18,33,-15
+16,20,AS Saint-Étienne,16,12,17,32,-15
+17,1,Paris Saint-Germain FC,17,42,36,16,20
+17,2,Stade Rennais FC 1901,17,31,32,14,18
+17,3,Olympique de Marseille,17,29,24,16,8
+17,4,OGC Nice,17,28,25,15,10
+17,5,Racing Club de Lens,17,27,30,23,7
+17,6,RC Strasbourg Alsace,17,26,34,22,12
+17,7,AS Monaco FC,17,26,27,20,7
+17,8,Olympique Lyonnais,17,26,27,26,1
+17,9,Angers SCO,17,25,25,22,3
+17,10,Montpellier HSC,17,25,25,23,2
+17,11,Stade Brestois 29,17,24,25,23,2
+17,12,Lille OSC,17,24,23,24,-1
+17,13,FC Nantes,17,22,21,21,0
+17,14,Stade de Reims,17,19,19,21,-2
+17,15,ES Troyes AC,17,16,16,25,-9
+17,16,FC Lorient,17,15,13,26,-13
+17,17,FC Girondins de Bordeaux,17,14,26,39,-13
+17,18,Clermont Foot 63,17,14,19,32,-13
+17,19,FC Metz,17,12,18,37,-19
+17,20,AS Saint-Étienne,17,12,17,37,-20
+18,1,Paris Saint-Germain FC,18,45,38,16,22
+18,2,Olympique de Marseille,18,32,26,16,10
+18,3,Stade Rennais FC 1901,18,31,33,16,17
+18,4,OGC Nice,18,31,27,16,11
+18,5,Montpellier HSC,18,28,29,23,6
+18,6,Racing Club de Lens,18,27,32,26,6
+18,7,Olympique Lyonnais,18,27,27,26,1
+18,8,RC Strasbourg Alsace,18,26,34,24,10
+18,9,AS Monaco FC,18,26,27,22,5
+18,10,Angers SCO,18,25,25,23,2
+18,11,FC Nantes,18,25,24,23,1
+18,12,Lille OSC,18,25,23,24,-1
+18,13,Stade Brestois 29,18,24,25,27,-2
+18,14,Stade de Reims,18,22,21,21,0
+18,15,FC Girondins de Bordeaux,18,17,28,40,-12
+18,16,Clermont Foot 63,18,17,20,32,-12
+18,17,ES Troyes AC,18,16,17,27,-10
+18,18,FC Metz,18,15,22,38,-16
+18,19,FC Lorient,18,15,14,30,-16
+18,20,AS Saint-Étienne,18,12,17,39,-22
+19,1,Paris Saint-Germain FC,19,46,39,17,22
+19,2,OGC Nice,19,34,29,17,12
+19,3,Olympique de Marseille,19,33,27,17,10
+19,4,Stade Rennais FC 1901,19,31,34,18,16
+19,5,Montpellier HSC,19,31,33,24,9
+19,6,RC Strasbourg Alsace,19,29,36,24,12
+19,7,AS Monaco FC,19,29,29,23,6
+19,8,FC Nantes,19,28,25,23,2
+19,9,Olympique Lyonnais,19,28,28,27,1
+19,10,Lille OSC,19,28,26,26,0
+19,11,Racing Club de Lens,19,27,33,28,5
+19,12,Angers SCO,19,25,26,27,-1
+19,13,Stade Brestois 29,19,25,26,28,-2
+19,14,Stade de Reims,19,23,22,22,0
+19,15,ES Troyes AC,19,17,18,28,-10
+19,16,FC Girondins de Bordeaux,19,17,30,43,-13
+19,17,Clermont Foot 63,19,17,20,34,-14
+19,18,FC Metz,19,16,23,39,-16
+19,19,FC Lorient,19,16,15,31,-16
+19,20,AS Saint-Étienne,19,12,17,40,-23
+20,1,Paris Saint-Germain FC,20,47,40,18,22
+20,2,OGC Nice,20,37,32,17,15
+20,3,Olympique de Marseille,20,36,28,17,11
+20,4,RC Strasbourg Alsace,20,32,38,24,14
+20,5,Stade Rennais FC 1901,20,31,34,19,15
+20,6,Montpellier HSC,20,31,33,25,8
+20,7,Lille OSC,20,31,29,27,2
+20,8,Racing Club de Lens,20,30,34,28,6
+20,9,AS Monaco FC,20,30,29,23,6
+20,10,FC Nantes,20,29,25,23,2
+20,11,Olympique Lyonnais,20,29,29,28,1
+20,12,Angers SCO,20,25,26,28,-2
+20,13,Stade Brestois 29,20,25,26,31,-5
+20,14,Stade de Reims,20,24,22,22,0
+20,15,ES Troyes AC,20,20,19,28,-9
+20,16,Clermont Foot 63,20,18,20,34,-14
+20,17,FC Girondins de Bordeaux,20,17,30,44,-14
+20,18,FC Metz,20,16,23,41,-18
+20,19,FC Lorient,20,16,16,34,-18
+20,20,AS Saint-Étienne,20,15,18,40,-22
+21,1,Paris Saint-Germain FC,21,50,42,18,24
+21,2,OGC Nice,21,40,34,18,16
+21,3,Olympique de Marseille,21,37,29,18,11
+21,4,RC Strasbourg Alsace,21,35,41,25,16
+21,5,Stade Rennais FC 1901,21,34,40,19,21
+21,6,AS Monaco FC,21,33,33,23,10
+21,7,Racing Club de Lens,21,33,36,29,7
+21,8,Olympique Lyonnais,21,32,30,28,2
+21,9,Lille OSC,21,32,30,28,2
+21,10,Montpellier HSC,21,31,34,28,6
+21,11,FC Nantes,21,29,26,25,1
+21,12,Angers SCO,21,26,26,28,-2
+21,13,Stade Brestois 29,21,25,26,33,-7
+21,14,Stade de Reims,21,24,22,23,-1
+21,15,ES Troyes AC,21,20,19,29,-10
+21,16,FC Metz,21,19,24,41,-17
+21,17,Clermont Foot 63,21,18,20,38,-18
+21,18,FC Lorient,21,17,16,34,-18
+21,19,FC Girondins de Bordeaux,21,17,30,50,-20
+21,20,AS Saint-Étienne,21,15,19,42,-23
+22,1,Paris Saint-Germain FC,22,53,46,18,28
+22,2,OGC Nice,22,43,36,18,18
+22,3,Olympique de Marseille,22,40,31,18,13
+22,4,RC Strasbourg Alsace,22,35,44,29,15
+22,5,Olympique Lyonnais,22,35,31,28,3
+22,6,Stade Rennais FC 1901,22,34,41,21,20
+22,7,Montpellier HSC,22,34,37,30,7
+22,8,AS Monaco FC,22,33,35,26,9
+22,9,Racing Club de Lens,22,33,36,31,5
+22,10,FC Nantes,22,32,30,27,3
+22,11,Lille OSC,22,32,30,30,0
+22,12,Angers SCO,22,29,28,29,-1
+22,13,Stade Brestois 29,22,28,28,33,-5
+22,14,Stade de Reims,22,24,22,27,-5
+22,15,Clermont Foot 63,22,21,22,39,-17
+22,16,ES Troyes AC,22,20,20,31,-11
+22,17,FC Girondins de Bordeaux,22,20,34,53,-19
+22,18,FC Metz,22,19,24,43,-19
+22,19,FC Lorient,22,17,18,38,-20
+22,20,AS Saint-Étienne,22,15,19,43,-24
+23,1,Paris Saint-Germain FC,23,56,51,19,32
+23,2,OGC Nice,23,43,36,19,17
+23,3,Olympique de Marseille,23,43,36,20,16
+23,4,RC Strasbourg Alsace,23,38,45,29,16
+23,5,Stade Rennais FC 1901,23,37,43,21,22
+23,6,AS Monaco FC,23,36,37,26,11
+23,7,Olympique Lyonnais,23,35,31,30,1
+23,8,Montpellier HSC,23,34,38,33,5
+23,9,Racing Club de Lens,23,33,36,33,3
+23,10,FC Nantes,23,32,30,28,2
+23,11,Lille OSC,23,32,31,35,-4
+23,12,Angers SCO,23,29,30,34,-4
+23,13,Stade Brestois 29,23,28,28,35,-7
+23,14,Stade de Reims,23,27,27,27,0
+23,15,Clermont Foot 63,23,24,23,39,-16
+23,16,ES Troyes AC,23,21,20,31,-11
+23,17,FC Lorient,23,20,20,38,-18
+23,18,FC Metz,23,20,24,43,-19
+23,19,FC Girondins de Bordeaux,23,20,34,58,-24
+23,20,AS Saint-Étienne,23,18,22,44,-22
+24,1,Paris Saint-Germain FC,24,59,52,19,33
+24,2,Olympique de Marseille,24,46,38,21,17
+24,3,OGC Nice,24,43,36,21,15
+24,4,RC Strasbourg Alsace,24,41,46,29,17
+24,5,Olympique Lyonnais,24,38,33,30,3
+24,6,Stade Rennais FC 1901,24,37,43,22,21
+24,7,AS Monaco FC,24,37,37,26,11
+24,8,Racing Club de Lens,24,36,39,35,4
+24,9,FC Nantes,24,35,31,28,3
+24,10,Lille OSC,24,35,32,35,-3
+24,11,Montpellier HSC,24,34,38,34,4
+24,12,Stade Brestois 29,24,31,33,36,-3
+24,13,Angers SCO,24,29,30,35,-5
+24,14,Stade de Reims,24,27,27,28,-1
+24,15,Clermont Foot 63,24,24,24,41,-17
+24,16,ES Troyes AC,24,21,21,36,-15
+24,17,FC Lorient,24,21,20,38,-18
+24,18,AS Saint-Étienne,24,21,24,45,-21
+24,19,FC Metz,24,20,25,45,-20
+24,20,FC Girondins de Bordeaux,24,20,36,61,-25
+25,1,Paris Saint-Germain FC,25,59,53,22,31
+25,2,OGC Nice,25,46,37,21,16
+25,3,Olympique de Marseille,25,46,38,23,15
+25,4,RC Strasbourg Alsace,25,42,48,31,17
+25,5,Stade Rennais FC 1901,25,40,47,23,24
+25,6,Olympique Lyonnais,25,39,34,31,3
+25,7,AS Monaco FC,25,38,38,27,11
+25,8,FC Nantes,25,38,34,29,5
+25,9,Montpellier HSC,25,37,39,34,5
+25,10,Racing Club de Lens,25,37,40,36,4
+25,11,Lille OSC,25,36,32,35,-3
+25,12,Stade Brestois 29,25,32,34,37,-3
+25,13,Angers SCO,25,29,30,36,-6
+25,14,Stade de Reims,25,28,28,29,-1
+25,15,Clermont Foot 63,25,27,26,41,-15
+25,16,AS Saint-Étienne,25,22,26,47,-21
+25,17,ES Troyes AC,25,21,22,40,-18
+25,18,FC Lorient,25,21,20,39,-19
+25,19,FC Metz,25,21,25,45,-20
+25,20,FC Girondins de Bordeaux,25,21,37,62,-25
+26,1,Paris Saint-Germain FC,26,62,56,23,33
+26,2,OGC Nice,26,47,37,21,16
+26,3,Olympique de Marseille,26,47,39,24,15
+26,4,Stade Rennais FC 1901,26,43,51,25,26
+26,5,RC Strasbourg Alsace,26,43,48,31,17
+26,6,Racing Club de Lens,26,40,42,37,5
+26,7,FC Nantes,26,39,34,29,5
+26,8,Olympique Lyonnais,26,39,34,32,2
+26,9,Lille OSC,26,39,33,35,-2
+26,10,AS Monaco FC,26,38,39,29,10
+26,11,Montpellier HSC,26,37,41,38,3
+26,12,Stade Brestois 29,26,32,34,38,-4
+26,13,Stade de Reims,26,31,30,30,0
+26,14,Angers SCO,26,29,31,38,-7
+26,15,Clermont Foot 63,26,28,27,42,-15
+26,16,FC Lorient,26,24,21,39,-18
+26,17,ES Troyes AC,26,22,23,41,-18
+26,18,FC Metz,26,22,25,45,-20
+26,19,AS Saint-Étienne,26,22,27,50,-23
+26,20,FC Girondins de Bordeaux,26,22,38,63,-25
+27,1,Paris Saint-Germain FC,27,62,56,24,32
+27,2,OGC Nice,27,50,38,21,17
+27,3,Olympique de Marseille,27,47,39,25,14
+27,4,Stade Rennais FC 1901,27,46,53,25,28
+27,5,RC Strasbourg Alsace,27,44,49,32,17
+27,6,FC Nantes,27,42,36,29,7
+27,7,Olympique Lyonnais,27,42,38,33,5
+27,8,Lille OSC,27,42,37,35,2
+27,9,AS Monaco FC,27,41,40,29,11
+27,10,Racing Club de Lens,27,40,42,38,4
+27,11,Montpellier HSC,27,37,41,40,1
+27,12,Stade Brestois 29,27,35,35,38,-3
+27,13,Stade de Reims,27,32,31,31,0
+27,14,Angers SCO,27,29,31,40,-9
+27,15,Clermont Foot 63,27,28,27,46,-19
+27,16,ES Troyes AC,27,25,25,41,-16
+27,17,AS Saint-Étienne,27,25,28,50,-22
+27,18,FC Lorient,27,24,22,43,-21
+27,19,FC Metz,27,22,25,46,-21
+27,20,FC Girondins de Bordeaux,27,22,38,65,-27
+28,1,Paris Saint-Germain FC,28,65,59,24,35
+28,2,OGC Nice,28,51,38,21,17
+28,3,Olympique de Marseille,28,50,43,26,17
+28,4,Stade Rennais FC 1901,28,49,57,27,30
+28,5,RC Strasbourg Alsace,28,47,50,32,18
+28,6,Lille OSC,28,43,37,35,2
+28,7,FC Nantes,28,42,36,30,6
+28,8,Olympique Lyonnais,28,42,40,37,3
+28,9,AS Monaco FC,28,41,40,30,10
+28,10,Racing Club de Lens,28,41,42,38,4
+28,11,Montpellier HSC,28,38,41,40,1
+28,12,Stade de Reims,28,35,32,31,1
+28,13,Stade Brestois 29,28,35,36,42,-6
+28,14,Angers SCO,28,29,31,41,-10
+28,15,ES Troyes AC,28,28,26,41,-15
+28,16,Clermont Foot 63,28,28,27,48,-21
+28,17,FC Lorient,28,27,24,43,-19
+28,18,AS Saint-Étienne,28,26,28,50,-22
+28,19,FC Metz,28,23,25,46,-21
+28,20,FC Girondins de Bordeaux,28,22,38,68,-30
+29,1,Paris Saint-Germain FC,29,65,59,27,32
+29,2,Olympique de Marseille,29,53,45,27,18
+29,3,Stade Rennais FC 1901,29,52,63,28,35
+29,4,OGC Nice,29,51,39,23,16
+29,5,RC Strasbourg Alsace,29,48,50,32,18
+29,6,Lille OSC,29,46,38,35,3
+29,7,AS Monaco FC,29,44,43,30,13
+29,8,Racing Club de Lens,29,44,45,39,6
+29,9,Olympique Lyonnais,29,43,40,37,3
+29,10,FC Nantes,29,42,36,31,5
+29,11,Montpellier HSC,29,41,43,40,3
+29,12,Stade de Reims,29,36,32,31,1
+29,13,Stade Brestois 29,29,35,36,43,-7
+29,14,Angers SCO,29,32,32,41,-9
+29,15,ES Troyes AC,29,29,27,42,-15
+29,16,FC Lorient,29,28,24,43,-19
+29,17,Clermont Foot 63,29,28,28,51,-23
+29,18,AS Saint-Étienne,29,27,29,51,-22
+29,19,FC Metz,29,23,26,52,-26
+29,20,FC Girondins de Bordeaux,29,22,38,70,-32
+30,1,Paris Saint-Germain FC,30,68,64,28,36
+30,2,Olympique de Marseille,30,56,49,29,20
+30,3,Stade Rennais FC 1901,30,53,64,29,35
+30,4,OGC Nice,30,52,40,24,16
+30,5,RC Strasbourg Alsace,30,51,51,32,19
+30,6,AS Monaco FC,30,47,45,31,14
+30,7,Lille OSC,30,47,38,35,3
+30,8,Olympique Lyonnais,30,46,43,39,4
+30,9,FC Nantes,30,45,39,33,6
+30,10,Racing Club de Lens,30,44,45,40,5
+30,11,Montpellier HSC,30,41,44,42,2
+30,12,Stade Brestois 29,30,38,38,44,-6
+30,13,Stade de Reims,30,36,32,32,0
+30,14,Angers SCO,30,32,34,44,-10
+30,15,ES Troyes AC,30,32,28,42,-14
+30,16,FC Lorient,30,28,25,48,-23
+30,17,Clermont Foot 63,30,28,30,54,-24
+30,18,AS Saint-Étienne,30,27,31,55,-24
+30,19,FC Metz,30,23,27,54,-27
+30,20,FC Girondins de Bordeaux,30,23,38,70,-32
+31,1,Paris Saint-Germain FC,31,71,70,29,41
+31,2,Olympique de Marseille,31,59,51,29,22
+31,3,Stade Rennais FC 1901,31,56,67,31,36
+31,4,RC Strasbourg Alsace,31,52,52,33,19
+31,5,OGC Nice,31,52,40,27,13
+31,6,AS Monaco FC,31,50,47,32,15
+31,7,Lille OSC,31,48,39,36,3
+31,8,Racing Club de Lens,31,47,48,40,8
+31,9,Olympique Lyonnais,31,47,44,40,4
+31,10,FC Nantes,31,46,40,34,6
+31,11,Montpellier HSC,31,41,44,44,0
+31,12,Stade Brestois 29,31,39,39,45,-6
+31,13,Stade de Reims,31,36,34,35,-1
+31,14,Angers SCO,31,33,35,45,-10
+31,15,ES Troyes AC,31,32,29,44,-15
+31,16,FC Lorient,31,31,31,50,-19
+31,17,Clermont Foot 63,31,28,31,60,-29
+31,18,AS Saint-Étienne,31,27,33,61,-28
+31,19,FC Girondins de Bordeaux,31,26,41,71,-30
+31,20,FC Metz,31,23,28,57,-29
+32,1,Paris Saint-Germain FC,32,74,72,30,42
+32,2,Olympique de Marseille,32,59,52,31,21
+32,3,Stade Rennais FC 1901,32,56,69,34,35
+32,4,OGC Nice,32,55,42,28,14
+32,5,RC Strasbourg Alsace,32,53,53,34,19
+32,6,AS Monaco FC,32,53,50,34,16
+32,7,Olympique Lyonnais,32,50,50,41,9
+32,8,Racing Club de Lens,32,50,50,41,9
+32,9,Lille OSC,32,48,40,38,2
+32,10,FC Nantes,32,47,41,35,6
+32,11,Montpellier HSC,32,42,44,44,0
+32,12,Stade Brestois 29,32,39,40,47,-7
+32,13,Stade de Reims,32,37,34,35,-1
+32,14,Angers SCO,32,34,36,46,-10
+32,15,ES Troyes AC,32,33,30,45,-15
+32,16,FC Lorient,32,31,32,52,-20
+32,17,AS Saint-Étienne,32,30,35,62,-27
+32,18,Clermont Foot 63,32,29,32,61,-29
+32,19,FC Girondins de Bordeaux,32,26,42,77,-35
+32,20,FC Metz,32,24,29,58,-29
+33,1,Paris Saint-Germain FC,33,77,75,30,45
+33,2,Olympique de Marseille,33,62,55,33,22
+33,3,Stade Rennais FC 1901,33,56,70,36,34
+33,4,RC Strasbourg Alsace,33,56,55,35,20
+33,5,AS Monaco FC,33,56,51,34,17
+33,6,OGC Nice,33,55,42,29,13
+33,7,Racing Club de Lens,33,53,52,41,11
+33,8,Olympique Lyonnais,33,50,51,43,8
+33,9,Lille OSC,33,48,41,40,1
+33,10,FC Nantes,33,47,43,38,5
+33,11,Montpellier HSC,33,42,44,46,-2
+33,12,Stade Brestois 29,33,42,42,48,-6
+33,13,Stade de Reims,33,40,36,36,0
+33,14,Angers SCO,33,34,36,49,-13
+33,15,FC Lorient,33,34,33,52,-19
+33,16,ES Troyes AC,33,33,30,46,-16
+33,17,Clermont Foot 63,33,32,33,61,-28
+33,18,AS Saint-Étienne,33,31,37,64,-27
+33,19,FC Girondins de Bordeaux,33,27,44,79,-35
+33,20,FC Metz,33,24,29,59,-30
+34,1,Paris Saint-Germain FC,34,78,76,31,45
+34,2,Olympique de Marseille,34,65,56,33,23
+34,3,Stade Rennais FC 1901,34,59,75,36,39
+34,4,AS Monaco FC,34,59,55,35,20
+34,5,OGC Nice,34,58,43,29,14
+34,6,RC Strasbourg Alsace,34,56,55,36,19
+34,7,Racing Club de Lens,34,54,53,42,11
+34,8,Olympique Lyonnais,34,53,56,45,11
+34,9,Lille OSC,34,51,42,40,2
+34,10,FC Nantes,34,50,48,41,7
+34,11,Stade Brestois 29,34,45,43,48,-5
+34,12,Montpellier HSC,34,42,46,51,-5
+34,13,Stade de Reims,34,40,36,37,-1
+34,14,Angers SCO,34,35,38,51,-13
+34,15,FC Lorient,34,34,33,57,-24
+34,16,ES Troyes AC,34,33,30,47,-17
+34,17,Clermont Foot 63,34,33,35,63,-28
+34,18,AS Saint-Étienne,34,31,38,68,-30
+34,19,FC Girondins de Bordeaux,34,27,47,84,-37
+34,20,FC Metz,34,24,29,60,-31

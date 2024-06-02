@@ -1,785 +1,785 @@
-matchday,position,team_name,playedGames
-1,1,FC Barcelona,1
-1,2,Valencia CF,1
-1,3,Granada CF,1
-1,4,CA Osasuna,1
-1,5,Club Atlético de Madrid,1
-1,6,Real Madrid CF,1
-1,7,Real Betis Balompié,1
-1,8,Real Valladolid CF,1
-1,9,Real Sociedad de Fútbol,1
-1,10,Villarreal CF,1
-1,11,SD Huesca,1
-1,12,SD Eibar,1
-1,13,RC Celta de Vigo,1
-1,14,Deportivo Alavés,1
-1,15,Levante UD,1
-1,16,Athletic Club,1
-1,17,Cádiz CF,1
-1,18,Sevilla FC,1
-1,19,Getafe CF,1
-1,20,Elche CF,1
-1,1,FC Barcelona,1
-1,2,Valencia CF,1
-1,3,Granada CF,1
-1,4,Club Atlético de Madrid,1
-1,5,Real Madrid CF,1
-1,6,Real Valladolid CF,1
-1,7,Villarreal CF,1
-1,8,SD Eibar,1
-1,19,Deportivo Alavés,1
-1,20,Cádiz CF,1
-1,1,CA Osasuna,1
-1,2,Real Betis Balompié,1
-1,3,Real Sociedad de Fútbol,1
-1,4,SD Huesca,1
-1,5,RC Celta de Vigo,1
-1,16,Levante UD,1
-1,17,Athletic Club,1
-1,18,Sevilla FC,1
-1,19,Getafe CF,1
-1,20,Elche CF,1
-2,1,FC Barcelona,2
-2,2,Granada CF,2
-2,3,Real Betis Balompié,2
-2,4,Club Atlético de Madrid,2
-2,5,Real Madrid CF,2
-2,6,Villarreal CF,2
-2,7,RC Celta de Vigo,2
-2,8,Valencia CF,2
-2,9,CA Osasuna,2
-2,10,Cádiz CF,2
-2,11,Sevilla FC,2
-2,12,Getafe CF,2
-2,13,Real Sociedad de Fútbol,2
-2,14,SD Eibar,2
-2,15,Levante UD,2
-2,16,Real Valladolid CF,2
-2,17,SD Huesca,2
-2,18,Deportivo Alavés,2
-2,19,Athletic Club,2
-2,20,Elche CF,2
-2,1,Granada CF,2
-2,2,Villarreal CF,2
-2,3,CA Osasuna,2
-2,20,Elche CF,2
-3,1,FC Barcelona,3
-3,2,Club Atlético de Madrid,3
-3,3,Real Madrid CF,3
-3,4,Real Betis Balompié,3
-3,5,Sevilla FC,3
-3,6,Granada CF,3
-3,7,Real Sociedad de Fútbol,3
-3,8,RC Celta de Vigo,3
-3,9,Valencia CF,3
-3,10,Levante UD,3
-3,11,Getafe CF,3
-3,12,Villarreal CF,3
-3,13,CA Osasuna,3
-3,14,Athletic Club,3
-3,15,Cádiz CF,3
-3,16,Real Valladolid CF,3
-3,17,SD Huesca,3
-3,18,SD Eibar,3
-3,19,Deportivo Alavés,3
-3,20,Elche CF,3
-4,1,FC Barcelona,4
-4,2,Real Madrid CF,4
-4,3,Sevilla FC,4
-4,4,Granada CF,4
-4,5,Club Atlético de Madrid,4
-4,6,Valencia CF,4
-4,7,Getafe CF,4
-4,8,Villarreal CF,4
-4,9,Real Betis Balompié,4
-4,10,Cádiz CF,4
-4,11,Real Sociedad de Fútbol,4
-4,12,RC Celta de Vigo,4
-4,13,Levante UD,4
-4,14,SD Huesca,4
-4,15,Athletic Club,4
-4,16,CA Osasuna,4
-4,17,Elche CF,4
-4,18,Real Valladolid CF,4
-4,19,SD Eibar,4
-4,20,Deportivo Alavés,4
-5,1,FC Barcelona,5
-5,2,Real Madrid CF,5
-5,3,Sevilla FC,5
-5,4,Granada CF,5
-5,5,Club Atlético de Madrid,5
-5,6,Real Betis Balompié,5
-5,7,Real Sociedad de Fútbol,5
-5,8,Villarreal CF,5
-5,9,Valencia CF,5
-5,10,Cádiz CF,5
-5,11,Getafe CF,5
-5,12,CA Osasuna,5
-5,13,RC Celta de Vigo,5
-5,14,SD Eibar,5
-5,15,SD Huesca,5
-5,16,Levante UD,5
-5,17,Deportivo Alavés,5
-5,18,Elche CF,5
-5,19,Athletic Club,5
-5,20,Real Valladolid CF,5
-6,1,FC Barcelona,6
-6,2,Real Madrid CF,6
-6,3,Granada CF,6
-6,4,Club Atlético de Madrid,6
-6,5,Real Sociedad de Fútbol,6
-6,6,Villarreal CF,6
-6,7,Sevilla FC,6
-6,8,Cádiz CF,6
-6,9,Getafe CF,6
-6,10,Real Betis Balompié,6
-6,11,Valencia CF,6
-6,12,CA Osasuna,6
-6,13,Elche CF,6
-6,14,Athletic Club,6
-6,15,SD Eibar,6
-6,16,SD Huesca,6
-6,17,RC Celta de Vigo,6
-6,18,Levante UD,6
-6,19,Deportivo Alavés,6
-6,20,Real Valladolid CF,6
-7,1,Real Madrid CF,7
-7,2,Granada CF,7
-7,3,Club Atlético de Madrid,7
-7,4,Real Sociedad de Fútbol,7
-7,5,FC Barcelona,7
-7,6,Villarreal CF,7
-7,7,Cádiz CF,7
-7,8,Sevilla FC,7
-7,9,CA Osasuna,7
-7,10,Getafe CF,7
-7,11,Elche CF,7
-7,12,Real Betis Balompié,7
-7,13,SD Eibar,7
-7,14,Valencia CF,7
-7,15,Deportivo Alavés,7
-7,16,Athletic Club,7
-7,17,RC Celta de Vigo,7
-7,18,Levante UD,7
-7,19,SD Huesca,7
-7,20,Real Valladolid CF,7
-8,1,Real Madrid CF,8
-8,2,Club Atlético de Madrid,8
-8,3,Real Sociedad de Fútbol,8
-8,4,Granada CF,8
-8,5,Villarreal CF,8
-8,6,FC Barcelona,8
-8,7,Cádiz CF,8
-8,8,Real Betis Balompié,8
-8,9,Getafe CF,8
-8,10,Sevilla FC,8
-8,11,CA Osasuna,8
-8,12,Elche CF,8
-8,13,Athletic Club,8
-8,14,Valencia CF,8
-8,15,Deportivo Alavés,8
-8,16,SD Eibar,8
-8,17,Levante UD,8
-8,18,RC Celta de Vigo,8
-8,19,SD Huesca,8
-8,20,Real Valladolid CF,8
-9,1,Club Atlético de Madrid,9
-9,2,Real Sociedad de Fútbol,9
-9,3,Real Madrid CF,9
-9,4,Villarreal CF,9
-9,5,FC Barcelona,9
-9,6,Granada CF,9
-9,7,Cádiz CF,9
-9,8,Sevilla FC,9
-9,9,Real Betis Balompié,9
-9,10,Valencia CF,9
-9,11,Getafe CF,9
-9,12,Elche CF,9
-9,13,CA Osasuna,9
-9,14,Athletic Club,9
-9,15,Deportivo Alavés,9
-9,16,SD Eibar,9
-9,17,Levante UD,9
-9,18,RC Celta de Vigo,9
-9,19,Real Valladolid CF,9
-9,20,SD Huesca,9
-10,1,Club Atlético de Madrid,10
-10,2,Real Sociedad de Fútbol,10
-10,3,Real Madrid CF,10
-10,4,Villarreal CF,10
-10,5,FC Barcelona,10
-10,6,Granada CF,10
-10,7,Sevilla FC,10
-10,8,Cádiz CF,10
-10,9,Valencia CF,10
-10,10,Athletic Club,10
-10,11,Getafe CF,10
-10,12,Elche CF,10
-10,13,Real Betis Balompié,10
-10,14,CA Osasuna,10
-10,15,Deportivo Alavés,10
-10,16,SD Eibar,10
-10,17,Real Valladolid CF,10
-10,18,Levante UD,10
-10,19,SD Huesca,10
-10,20,RC Celta de Vigo,10
-11,1,Club Atlético de Madrid,11
-11,2,Real Sociedad de Fútbol,11
-11,3,FC Barcelona,11
-11,4,Real Madrid CF,11
-11,5,Villarreal CF,11
-11,6,Sevilla FC,11
-11,7,Granada CF,11
-11,8,Cádiz CF,11
-11,9,Athletic Club,11
-11,10,SD Eibar,11
-11,11,Deportivo Alavés,11
-11,12,Getafe CF,11
-11,13,Elche CF,11
-11,14,Valencia CF,11
-11,15,Real Betis Balompié,11
-11,16,CA Osasuna,11
-11,17,Real Valladolid CF,11
-11,18,RC Celta de Vigo,11
-11,19,Levante UD,11
-11,20,SD Huesca,11
-12,1,Club Atlético de Madrid,12
-12,2,Real Sociedad de Fútbol,12
-12,3,Real Madrid CF,12
-12,4,Villarreal CF,12
-12,5,FC Barcelona,12
-12,6,Sevilla FC,12
-12,7,Cádiz CF,12
-12,8,Granada CF,12
-12,9,Real Betis Balompié,12
-12,10,SD Eibar,12
-12,11,Deportivo Alavés,12
-12,12,Elche CF,12
-12,13,Valencia CF,12
-12,14,Athletic Club,12
-12,15,Getafe CF,12
-12,16,RC Celta de Vigo,12
-12,17,Levante UD,12
-12,18,CA Osasuna,12
-12,19,Real Valladolid CF,12
-12,20,SD Huesca,12
-13,1,Club Atlético de Madrid,13
-13,2,Real Sociedad de Fútbol,13
-13,3,Real Madrid CF,13
-13,4,FC Barcelona,13
-13,5,Villarreal CF,13
-13,6,Sevilla FC,13
-13,7,Granada CF,13
-13,8,Cádiz CF,13
-13,9,RC Celta de Vigo,13
-13,10,Real Betis Balompié,13
-13,11,SD Eibar,13
-13,12,Valencia CF,13
-13,13,Athletic Club,13
-13,14,Deportivo Alavés,13
-13,15,Elche CF,13
-13,16,Real Valladolid CF,13
-13,17,Getafe CF,13
-13,18,Levante UD,13
-13,19,SD Huesca,13
-13,20,CA Osasuna,13
-14,1,Club Atlético de Madrid,14
-14,2,Real Madrid CF,14
-14,3,Real Sociedad de Fútbol,14
-14,4,Villarreal CF,14
-14,5,FC Barcelona,14
-14,6,Granada CF,14
-14,7,Sevilla FC,14
-14,8,RC Celta de Vigo,14
-14,9,Cádiz CF,14
-14,10,Athletic Club,14
-14,11,Getafe CF,14
-14,12,Real Betis Balompié,14
-14,13,Valencia CF,14
-14,14,Levante UD,14
-14,15,SD Eibar,14
-14,16,Deportivo Alavés,14
-14,17,Real Valladolid CF,14
-14,18,Elche CF,14
-14,19,SD Huesca,14
-14,20,CA Osasuna,14
-15,1,Club Atlético de Madrid,15
-15,2,Real Madrid CF,15
-15,3,FC Barcelona,15
-15,4,Real Sociedad de Fútbol,15
-15,5,Villarreal CF,15
-15,6,Sevilla FC,15
-15,7,Granada CF,15
-15,8,RC Celta de Vigo,15
-15,9,Real Betis Balompié,15
-15,10,Athletic Club,15
-15,11,Cádiz CF,15
-15,12,Deportivo Alavés,15
-15,13,Getafe CF,15
-15,14,Levante UD,15
-15,15,Valencia CF,15
-15,16,SD Eibar,15
-15,17,Elche CF,15
-15,18,Real Valladolid CF,15
-15,19,SD Huesca,15
-15,20,CA Osasuna,15
-16,1,Club Atlético de Madrid,16
-16,2,Real Madrid CF,16
-16,3,Real Sociedad de Fútbol,16
-16,4,Sevilla FC,16
-16,5,FC Barcelona,16
-16,6,Granada CF,16
-16,7,Villarreal CF,16
-16,8,RC Celta de Vigo,16
-16,9,Levante UD,16
-16,10,Cádiz CF,16
-16,11,Real Betis Balompié,16
-16,12,Athletic Club,16
-16,13,Deportivo Alavés,16
-16,14,Getafe CF,16
-16,15,SD Eibar,16
-16,16,Elche CF,16
-16,17,Valencia CF,16
-16,18,Real Valladolid CF,16
-16,19,CA Osasuna,16
-16,20,SD Huesca,16
-17,1,Club Atlético de Madrid,17
-17,2,Real Madrid CF,17
-17,3,FC Barcelona,17
-17,4,Real Sociedad de Fútbol,17
-17,5,Sevilla FC,17
-17,6,Villarreal CF,17
-17,7,Granada CF,17
-17,8,RC Celta de Vigo,17
-17,9,Athletic Club,17
-17,10,Cádiz CF,17
-17,11,Real Betis Balompié,17
-17,12,Levante UD,17
-17,13,SD Eibar,17
-17,14,Deportivo Alavés,17
-17,15,Real Valladolid CF,17
-17,16,Getafe CF,17
-17,17,Valencia CF,17
-17,18,Elche CF,17
-17,19,CA Osasuna,17
-17,20,SD Huesca,17
-18,1,Club Atlético de Madrid,18
-18,2,Real Madrid CF,18
-18,3,FC Barcelona,18
-18,4,Sevilla FC,18
-18,5,Villarreal CF,18
-18,6,Real Sociedad de Fútbol,18
-18,7,Granada CF,18
-18,8,RC Celta de Vigo,18
-18,9,Cádiz CF,18
-18,10,Real Betis Balompié,18
-18,11,Levante UD,18
-18,12,Athletic Club,18
-18,13,Getafe CF,18
-18,14,Valencia CF,18
-18,15,SD Eibar,18
-18,16,Deportivo Alavés,18
-18,17,Real Valladolid CF,18
-18,18,Elche CF,18
-18,19,CA Osasuna,18
-18,20,SD Huesca,18
-19,1,Club Atlético de Madrid,19
-19,2,Real Madrid CF,19
-19,3,FC Barcelona,19
-19,4,Sevilla FC,19
-19,5,Villarreal CF,19
-19,6,Real Sociedad de Fútbol,19
-19,7,Granada CF,19
-19,8,Real Betis Balompié,19
-19,9,Cádiz CF,19
-19,10,Levante UD,19
-19,11,Getafe CF,19
-19,12,RC Celta de Vigo,19
-19,13,Athletic Club,19
-19,14,Valencia CF,19
-19,15,SD Eibar,19
-19,16,Real Valladolid CF,19
-19,17,Deportivo Alavés,19
-19,18,Elche CF,19
-19,19,CA Osasuna,19
-19,20,SD Huesca,19
-20,1,Club Atlético de Madrid,20
-20,2,Real Madrid CF,20
-20,3,FC Barcelona,20
-20,4,Sevilla FC,20
-20,5,Villarreal CF,20
-20,6,Real Sociedad de Fútbol,20
-20,7,Granada CF,20
-20,8,Real Betis Balompié,20
-20,9,Athletic Club,20
-20,10,Levante UD,20
-20,11,RC Celta de Vigo,20
-20,12,Cádiz CF,20
-20,13,Getafe CF,20
-20,14,Valencia CF,20
-20,15,SD Eibar,20
-20,16,Real Valladolid CF,20
-20,17,CA Osasuna,20
-20,18,Deportivo Alavés,20
-20,19,Elche CF,20
-20,20,SD Huesca,20
-21,1,Club Atlético de Madrid,21
-21,2,FC Barcelona,21
-21,3,Real Madrid CF,21
-21,4,Sevilla FC,21
-21,5,Villarreal CF,21
-21,6,Real Sociedad de Fútbol,21
-21,7,Real Betis Balompié,21
-21,8,Granada CF,21
-21,9,Levante UD,21
-21,10,RC Celta de Vigo,21
-21,11,Athletic Club,21
-21,12,Getafe CF,21
-21,13,Cádiz CF,21
-21,14,Valencia CF,21
-21,15,SD Eibar,21
-21,16,Real Valladolid CF,21
-21,17,CA Osasuna,21
-21,18,Deportivo Alavés,21
-21,19,Elche CF,21
-21,20,SD Huesca,21
-22,1,Club Atlético de Madrid,22
-22,2,FC Barcelona,22
-22,3,Real Madrid CF,22
-22,4,Sevilla FC,22
-22,5,Villarreal CF,22
-22,6,Real Sociedad de Fútbol,22
-22,7,Real Betis Balompié,22
-22,8,Granada CF,22
-22,9,Levante UD,22
-22,10,RC Celta de Vigo,22
-22,11,Athletic Club,22
-22,12,Valencia CF,22
-22,13,Getafe CF,22
-22,14,Cádiz CF,22
-22,15,CA Osasuna,22
-22,16,Deportivo Alavés,22
-22,17,SD Eibar,22
-22,18,Real Valladolid CF,22
-22,19,Elche CF,22
-22,20,SD Huesca,22
-23,1,Club Atlético de Madrid,23
-23,2,FC Barcelona,23
-23,3,Real Madrid CF,23
-23,4,Sevilla FC,23
-23,5,Real Sociedad de Fútbol,23
-23,6,Villarreal CF,23
-23,7,Real Betis Balompié,23
-23,8,Granada CF,23
-23,9,RC Celta de Vigo,23
-23,10,Athletic Club,23
-23,11,Levante UD,23
-23,12,CA Osasuna,23
-23,13,Valencia CF,23
-23,14,Getafe CF,23
-23,15,Cádiz CF,23
-23,16,Deportivo Alavés,23
-23,17,SD Eibar,23
-23,18,Real Valladolid CF,23
-23,19,Elche CF,23
-23,20,SD Huesca,23
-24,1,Club Atlético de Madrid,24
-24,2,Real Madrid CF,24
-24,3,Sevilla FC,24
-24,4,FC Barcelona,24
-24,5,Real Sociedad de Fútbol,24
-24,6,Villarreal CF,24
-24,7,Real Betis Balompié,24
-24,8,Levante UD,24
-24,9,Granada CF,24
-24,10,Athletic Club,24
-24,11,RC Celta de Vigo,24
-24,12,Valencia CF,24
-24,13,CA Osasuna,24
-24,14,Cádiz CF,24
-24,15,Getafe CF,24
-24,16,Deportivo Alavés,24
-24,17,SD Eibar,24
-24,18,Real Valladolid CF,24
-24,19,Elche CF,24
-24,20,SD Huesca,24
-25,1,Club Atlético de Madrid,25
-25,2,FC Barcelona,25
-25,3,Real Madrid CF,25
-25,4,Sevilla FC,25
-25,5,Real Sociedad de Fútbol,25
-25,6,Real Betis Balompié,25
-25,7,Villarreal CF,25
-25,8,Granada CF,25
-25,9,Levante UD,25
-25,10,Athletic Club,25
-25,11,RC Celta de Vigo,25
-25,12,CA Osasuna,25
-25,13,Valencia CF,25
-25,14,Getafe CF,25
-25,15,Cádiz CF,25
-25,16,SD Eibar,25
-25,17,Real Valladolid CF,25
-25,18,Deportivo Alavés,25
-25,19,Elche CF,25
-25,20,SD Huesca,25
-26,1,Club Atlético de Madrid,26
-26,2,FC Barcelona,26
-26,3,Real Madrid CF,26
-26,4,Sevilla FC,26
-26,5,Real Sociedad de Fútbol,26
-26,6,Real Betis Balompié,26
-26,7,Villarreal CF,26
-26,8,Athletic Club,26
-26,9,RC Celta de Vigo,26
-26,10,Granada CF,26
-26,11,Levante UD,26
-26,12,Valencia CF,26
-26,13,CA Osasuna,26
-26,14,Cádiz CF,26
-26,15,Getafe CF,26
-26,16,Real Valladolid CF,26
-26,17,Elche CF,26
-26,18,SD Eibar,26
-26,19,Deportivo Alavés,26
-26,20,SD Huesca,26
-27,1,Club Atlético de Madrid,27
-27,2,FC Barcelona,27
-27,3,Real Madrid CF,27
-27,4,Sevilla FC,27
-27,5,Real Sociedad de Fútbol,27
-27,6,Real Betis Balompié,27
-27,7,Villarreal CF,27
-27,8,Granada CF,27
-27,9,Levante UD,27
-27,10,Athletic Club,27
-27,11,RC Celta de Vigo,27
-27,12,Valencia CF,27
-27,13,CA Osasuna,27
-27,14,Cádiz CF,27
-27,15,Getafe CF,27
-27,16,Real Valladolid CF,27
-27,17,Elche CF,27
-27,18,Deportivo Alavés,27
-27,19,SD Eibar,27
-27,20,SD Huesca,27
-28,1,Club Atlético de Madrid,28
-28,2,FC Barcelona,28
-28,3,Real Madrid CF,28
-28,4,Sevilla FC,28
-28,5,Real Sociedad de Fútbol,28
-28,6,Real Betis Balompié,28
-28,7,Villarreal CF,28
-28,8,Granada CF,28
-28,9,Athletic Club,28
-28,10,Levante UD,28
-28,11,RC Celta de Vigo,28
-28,12,Valencia CF,28
-28,13,CA Osasuna,28
-28,14,Getafe CF,28
-28,15,Cádiz CF,28
-28,16,Real Valladolid CF,28
-28,17,Elche CF,28
-28,18,SD Eibar,28
-28,19,Deportivo Alavés,28
-28,20,SD Huesca,28
-29,1,Club Atlético de Madrid,29
-29,2,FC Barcelona,29
-29,3,Real Madrid CF,29
-29,4,Sevilla FC,29
-29,5,Real Sociedad de Fútbol,29
-29,6,Villarreal CF,29
-29,7,Real Betis Balompié,29
-29,8,RC Celta de Vigo,29
-29,9,Athletic Club,29
-29,10,Granada CF,29
-29,11,Levante UD,29
-29,12,Valencia CF,29
-29,13,Cádiz CF,29
-29,14,CA Osasuna,29
-29,15,Getafe CF,29
-29,16,Real Valladolid CF,29
-29,17,Elche CF,29
-29,18,SD Huesca,29
-29,19,SD Eibar,29
-29,20,Deportivo Alavés,29
-30,1,Club Atlético de Madrid,30
-30,2,Real Madrid CF,30
-30,3,FC Barcelona,30
-30,4,Sevilla FC,30
-30,5,Real Sociedad de Fútbol,30
-30,6,Real Betis Balompié,30
-30,7,Villarreal CF,30
-30,8,Granada CF,30
-30,9,Levante UD,30
-30,10,Athletic Club,30
-30,11,RC Celta de Vigo,30
-30,12,Cádiz CF,30
-30,13,Valencia CF,30
-30,14,CA Osasuna,30
-30,15,Getafe CF,30
-30,16,SD Huesca,30
-30,17,Real Valladolid CF,30
-30,18,Elche CF,30
-30,19,Deportivo Alavés,30
-30,20,SD Eibar,30
-31,1,Club Atlético de Madrid,31
-31,2,Real Madrid CF,31
-31,3,FC Barcelona,31
-31,4,Sevilla FC,31
-31,5,Real Sociedad de Fútbol,31
-31,6,Real Betis Balompié,31
-31,7,Villarreal CF,31
-31,8,Granada CF,31
-31,9,Athletic Club,31
-31,10,Levante UD,31
-31,11,RC Celta de Vigo,31
-31,12,CA Osasuna,31
-31,13,Cádiz CF,31
-31,14,Valencia CF,31
-31,15,Getafe CF,31
-31,16,Real Valladolid CF,31
-31,17,SD Huesca,31
-31,18,Elche CF,31
-31,19,Deportivo Alavés,31
-31,20,SD Eibar,31
-32,1,FC Barcelona,32
-32,2,Club Atlético de Madrid,32
-32,3,Real Madrid CF,32
-32,4,Sevilla FC,32
-32,5,Real Sociedad de Fútbol,32
-32,6,Real Betis Balompié,32
-32,7,Villarreal CF,32
-32,8,Granada CF,32
-32,9,Athletic Club,32
-32,10,RC Celta de Vigo,32
-32,11,Levante UD,32
-32,12,CA Osasuna,32
-32,13,Cádiz CF,32
-32,14,Valencia CF,32
-32,15,Getafe CF,32
-32,16,Elche CF,32
-32,17,Real Valladolid CF,32
-32,18,Deportivo Alavés,32
-32,19,SD Huesca,32
-32,20,SD Eibar,32
-33,1,Club Atlético de Madrid,33
-33,2,FC Barcelona,33
-33,3,Real Madrid CF,33
-33,4,Sevilla FC,33
-33,5,Real Sociedad de Fútbol,33
-33,6,Real Betis Balompié,33
-33,7,Villarreal CF,33
-33,8,Granada CF,33
-33,9,Athletic Club,33
-33,10,RC Celta de Vigo,33
-33,11,CA Osasuna,33
-33,12,Levante UD,33
-33,13,Cádiz CF,33
-33,14,Valencia CF,33
-33,15,Getafe CF,33
-33,16,Deportivo Alavés,33
-33,17,Real Valladolid CF,33
-33,18,Elche CF,33
-33,19,SD Huesca,33
-33,20,SD Eibar,33
-34,1,Club Atlético de Madrid,34
-34,2,FC Barcelona,34
-34,3,Real Madrid CF,34
-34,4,Sevilla FC,34
-34,5,Real Sociedad de Fútbol,34
-34,6,Villarreal CF,34
-34,7,Real Betis Balompié,34
-34,8,Athletic Club,34
-34,9,Granada CF,34
-34,10,RC Celta de Vigo,34
-34,11,CA Osasuna,34
-34,12,Cádiz CF,34
-34,13,Levante UD,34
-34,14,Valencia CF,34
-34,15,Getafe CF,34
-34,16,Real Valladolid CF,34
-34,17,Deportivo Alavés,34
-34,18,SD Huesca,34
-34,19,Elche CF,34
-34,20,SD Eibar,34
-35,1,Club Atlético de Madrid,35
-35,2,FC Barcelona,35
-35,3,Real Madrid CF,35
-35,4,Sevilla FC,35
-35,5,Real Sociedad de Fútbol,35
-35,6,Real Betis Balompié,35
-35,7,Villarreal CF,35
-35,8,RC Celta de Vigo,35
-35,9,Athletic Club,35
-35,10,Granada CF,35
-35,11,Cádiz CF,35
-35,12,CA Osasuna,35
-35,13,Valencia CF,35
-35,14,Levante UD,35
-35,15,Getafe CF,35
-35,16,Deportivo Alavés,35
-35,17,Real Valladolid CF,35
-35,18,SD Huesca,35
-35,19,Elche CF,35
-35,20,SD Eibar,35
-36,1,Club Atlético de Madrid,36
-36,2,Real Madrid CF,36
-36,3,FC Barcelona,36
-36,4,Sevilla FC,36
-36,5,Real Sociedad de Fútbol,36
-36,6,Villarreal CF,36
-36,7,Real Betis Balompié,36
-36,8,RC Celta de Vigo,36
-36,9,Athletic Club,36
-36,10,Granada CF,36
-36,11,CA Osasuna,36
-36,12,Cádiz CF,36
-36,13,Levante UD,36
-36,14,Valencia CF,36
-36,15,Deportivo Alavés,36
-36,16,Getafe CF,36
-36,17,SD Huesca,36
-36,18,Real Valladolid CF,36
-36,19,SD Eibar,36
-36,20,Elche CF,36
-37,1,Club Atlético de Madrid,37
-37,2,Real Madrid CF,37
-37,3,FC Barcelona,37
-37,4,Sevilla FC,37
-37,5,Real Sociedad de Fútbol,37
-37,6,Villarreal CF,37
-37,7,Real Betis Balompié,37
-37,8,RC Celta de Vigo,37
-37,9,Athletic Club,37
-37,10,Granada CF,37
-37,11,CA Osasuna,37
-37,12,Cádiz CF,37
-37,13,Valencia CF,37
-37,14,Levante UD,37
-37,15,Deportivo Alavés,37
-37,16,Getafe CF,37
-37,17,SD Huesca,37
-37,18,Elche CF,37
-37,19,Real Valladolid CF,37
-37,20,SD Eibar,37
-38,1,Club Atlético de Madrid,38
-38,2,Real Madrid CF,38
-38,3,FC Barcelona,38
-38,4,Sevilla FC,38
-38,5,Real Sociedad de Fútbol,38
-38,6,Real Betis Balompié,38
-38,7,Villarreal CF,38
-38,8,RC Celta de Vigo,38
-38,9,Athletic Club,38
-38,10,Granada CF,38
-38,11,CA Osasuna,38
-38,12,Cádiz CF,38
-38,13,Valencia CF,38
-38,14,Levante UD,38
-38,15,Getafe CF,38
-38,16,Deportivo Alavés,38
-38,17,Elche CF,38
-38,18,SD Huesca,38
-38,19,Real Valladolid CF,38
-38,20,SD Eibar,38
+matchday,position,team_name,playedGames,points,goalsFor,goalsAgainst,goalDifference
+1,1,FC Barcelona,1,3,3,0,3
+1,2,Valencia CF,1,3,4,2,2
+1,3,Granada CF,1,3,2,0,2
+1,4,CA Osasuna,1,3,2,0,2
+1,5,Club Atlético de Madrid,1,3,2,0,2
+1,6,Real Madrid CF,1,3,2,0,2
+1,7,Real Betis Balompié,1,3,1,0,1
+1,8,Real Valladolid CF,1,1,1,1,0
+1,9,Real Sociedad de Fútbol,1,1,1,1,0
+1,10,Villarreal CF,1,1,1,1,0
+1,11,SD Huesca,1,1,1,1,0
+1,12,SD Eibar,1,1,0,0,0
+1,13,RC Celta de Vigo,1,1,0,0,0
+1,14,Deportivo Alavés,1,0,0,1,-1
+1,15,Levante UD,1,0,2,4,-2
+1,16,Athletic Club,1,0,0,2,-2
+1,17,Cádiz CF,1,0,0,2,-2
+1,18,Sevilla FC,1,0,0,2,-2
+1,19,Getafe CF,1,0,0,2,-2
+1,20,Elche CF,1,0,0,3,-3
+1,1,FC Barcelona,1,3,3,0,3
+1,2,Valencia CF,1,3,4,2,2
+1,3,Granada CF,1,3,2,0,2
+1,4,Club Atlético de Madrid,1,3,2,0,2
+1,5,Real Madrid CF,1,3,2,0,2
+1,6,Real Valladolid CF,1,1,1,1,0
+1,7,Villarreal CF,1,1,1,1,0
+1,8,SD Eibar,1,1,0,0,0
+1,19,Deportivo Alavés,1,0,0,1,-1
+1,20,Cádiz CF,1,0,0,2,-2
+1,1,CA Osasuna,1,3,2,0,2
+1,2,Real Betis Balompié,1,3,1,0,1
+1,3,Real Sociedad de Fútbol,1,1,1,1,0
+1,4,SD Huesca,1,1,1,1,0
+1,5,RC Celta de Vigo,1,1,0,0,0
+1,16,Levante UD,1,0,2,4,-2
+1,17,Athletic Club,1,0,0,2,-2
+1,18,Sevilla FC,1,0,0,2,-2
+1,19,Getafe CF,1,0,0,2,-2
+1,20,Elche CF,1,0,0,3,-3
+2,1,FC Barcelona,2,6,6,2,4
+2,2,Granada CF,2,6,4,1,3
+2,3,Real Betis Balompié,2,6,3,0,3
+2,4,Club Atlético de Madrid,2,4,3,1,2
+2,5,Real Madrid CF,2,4,2,0,2
+2,6,Villarreal CF,2,4,3,2,1
+2,7,RC Celta de Vigo,2,4,2,1,1
+2,8,Valencia CF,2,3,5,4,1
+2,9,CA Osasuna,2,3,2,1,1
+2,10,Cádiz CF,2,3,2,2,0
+2,11,Sevilla FC,2,3,2,2,0
+2,12,Getafe CF,2,3,1,2,-1
+2,13,Real Sociedad de Fútbol,2,2,1,1,0
+2,14,SD Eibar,2,1,1,2,-1
+2,15,Levante UD,2,1,3,5,-2
+2,16,Real Valladolid CF,2,1,1,3,-2
+2,17,SD Huesca,2,1,1,3,-2
+2,18,Deportivo Alavés,2,0,1,3,-2
+2,19,Athletic Club,2,0,2,5,-3
+2,20,Elche CF,2,0,0,5,-5
+2,1,Granada CF,2,6,4,1,3
+2,2,Villarreal CF,2,4,3,2,1
+2,3,CA Osasuna,2,3,2,1,1
+2,20,Elche CF,2,0,0,5,-5
+3,1,FC Barcelona,3,9,10,2,8
+3,2,Club Atlético de Madrid,3,7,9,2,7
+3,3,Real Madrid CF,3,7,5,2,3
+3,4,Real Betis Balompié,3,6,5,3,2
+3,5,Sevilla FC,3,6,5,3,2
+3,6,Granada CF,3,6,5,7,-2
+3,7,Real Sociedad de Fútbol,3,5,4,1,3
+3,8,RC Celta de Vigo,3,5,3,2,1
+3,9,Valencia CF,3,4,6,5,1
+3,10,Levante UD,3,4,6,6,0
+3,11,Getafe CF,3,4,1,2,-1
+3,12,Villarreal CF,3,4,3,6,-3
+3,13,CA Osasuna,3,3,3,4,-1
+3,14,Athletic Club,3,3,4,6,-2
+3,15,Cádiz CF,3,3,3,5,-2
+3,16,Real Valladolid CF,3,2,2,4,-2
+3,17,SD Huesca,3,2,2,4,-2
+3,18,SD Eibar,3,1,2,4,-2
+3,19,Deportivo Alavés,3,1,1,3,-2
+3,20,Elche CF,3,0,0,8,-8
+4,1,FC Barcelona,4,12,13,2,11
+4,2,Real Madrid CF,4,10,6,2,4
+4,3,Sevilla FC,4,9,6,3,3
+4,4,Granada CF,4,9,7,7,0
+4,5,Club Atlético de Madrid,4,8,9,2,7
+4,6,Valencia CF,4,7,7,5,2
+4,7,Getafe CF,4,7,4,2,2
+4,8,Villarreal CF,4,7,6,7,-1
+4,9,Real Betis Balompié,4,6,5,6,-1
+4,10,Cádiz CF,4,6,4,5,-1
+4,11,Real Sociedad de Fútbol,4,5,4,2,2
+4,12,RC Celta de Vigo,4,5,3,5,-2
+4,13,Levante UD,4,4,6,7,-1
+4,14,SD Huesca,4,3,2,4,-2
+4,15,Athletic Club,4,3,4,7,-3
+4,16,CA Osasuna,4,3,3,6,-3
+4,17,Elche CF,4,3,1,8,-7
+4,18,Real Valladolid CF,4,2,2,5,-3
+4,19,SD Eibar,4,1,2,5,-3
+4,20,Deportivo Alavés,4,1,2,6,-4
+5,1,FC Barcelona,5,13,14,3,11
+5,2,Real Madrid CF,5,13,8,2,6
+5,3,Sevilla FC,5,10,7,4,3
+5,4,Granada CF,5,10,8,8,0
+5,5,Club Atlético de Madrid,5,9,9,2,7
+5,6,Real Betis Balompié,5,9,7,6,1
+5,7,Real Sociedad de Fútbol,5,8,7,2,5
+5,8,Villarreal CF,5,8,6,7,-1
+5,9,Valencia CF,5,7,7,7,0
+5,10,Cádiz CF,5,7,5,6,-1
+5,11,Getafe CF,5,7,4,5,-1
+5,12,CA Osasuna,5,6,5,6,-1
+5,13,RC Celta de Vigo,5,5,3,7,-4
+5,14,SD Eibar,5,4,4,6,-2
+5,15,SD Huesca,5,4,2,4,-2
+5,16,Levante UD,5,4,6,9,-3
+5,17,Deportivo Alavés,5,4,3,6,-3
+5,18,Elche CF,5,4,1,8,-7
+5,19,Athletic Club,5,3,4,8,-4
+5,20,Real Valladolid CF,5,2,3,7,-4
+6,1,FC Barcelona,6,13,14,4,10
+6,2,Real Madrid CF,6,13,8,3,5
+6,3,Granada CF,6,13,9,8,1
+6,4,Club Atlético de Madrid,6,12,11,2,9
+6,5,Real Sociedad de Fútbol,6,11,10,2,8
+6,6,Villarreal CF,6,11,8,8,0
+6,7,Sevilla FC,6,10,7,5,2
+6,8,Cádiz CF,6,10,6,6,0
+6,9,Getafe CF,6,10,5,5,0
+6,10,Real Betis Balompié,6,9,7,9,-2
+6,11,Valencia CF,6,7,8,9,-1
+6,12,CA Osasuna,6,7,5,6,-1
+6,13,Elche CF,6,7,3,8,-5
+6,14,Athletic Club,6,6,6,8,-2
+6,15,SD Eibar,6,5,4,6,-2
+6,16,SD Huesca,6,5,4,6,-2
+6,17,RC Celta de Vigo,6,5,3,9,-6
+6,18,Levante UD,6,4,6,11,-5
+6,19,Deportivo Alavés,6,4,3,8,-5
+6,20,Real Valladolid CF,6,3,5,9,-4
+7,1,Real Madrid CF,7,16,11,4,7
+7,2,Granada CF,7,16,10,8,2
+7,3,Club Atlético de Madrid,7,15,13,2,11
+7,4,Real Sociedad de Fútbol,7,14,14,3,11
+7,5,FC Barcelona,7,13,15,7,8
+7,6,Villarreal CF,7,12,8,8,0
+7,7,Cádiz CF,7,11,6,6,0
+7,8,Sevilla FC,7,10,7,6,1
+7,9,CA Osasuna,7,10,6,6,0
+7,10,Getafe CF,7,10,5,6,-1
+7,11,Elche CF,7,10,5,9,-4
+7,12,Real Betis Balompié,7,9,7,11,-4
+7,13,SD Eibar,7,8,5,6,-1
+7,14,Valencia CF,7,7,9,11,-2
+7,15,Deportivo Alavés,7,7,5,8,-3
+7,16,Athletic Club,7,6,6,9,-3
+7,17,RC Celta de Vigo,7,6,4,10,-6
+7,18,Levante UD,7,5,7,12,-5
+7,19,SD Huesca,7,5,5,10,-5
+7,20,Real Valladolid CF,7,3,5,11,-6
+8,1,Real Madrid CF,8,19,15,5,10
+8,2,Club Atlético de Madrid,8,18,16,3,13
+8,3,Real Sociedad de Fútbol,8,17,18,4,14
+8,4,Granada CF,8,17,11,9,2
+8,5,Villarreal CF,8,15,10,8,2
+8,6,FC Barcelona,8,14,16,8,8
+8,7,Cádiz CF,8,14,8,6,2
+8,8,Real Betis Balompié,8,12,10,12,-2
+8,9,Getafe CF,8,11,7,8,-1
+8,10,Sevilla FC,8,10,8,8,0
+8,11,CA Osasuna,8,10,7,9,-2
+8,12,Elche CF,8,10,6,12,-6
+8,13,Athletic Club,8,9,8,10,-2
+8,14,Valencia CF,8,8,11,13,-2
+8,15,Deportivo Alavés,8,8,6,9,-3
+8,16,SD Eibar,8,8,5,8,-3
+8,17,Levante UD,8,6,8,13,-5
+8,18,RC Celta de Vigo,8,6,5,14,-9
+8,19,SD Huesca,8,5,6,14,-8
+8,20,Real Valladolid CF,8,3,5,13,-8
+9,1,Club Atlético de Madrid,9,21,20,3,17
+9,2,Real Sociedad de Fútbol,9,20,20,4,16
+9,3,Real Madrid CF,9,19,16,9,7
+9,4,Villarreal CF,9,18,13,9,4
+9,5,FC Barcelona,9,17,21,10,11
+9,6,Granada CF,9,17,11,11,0
+9,7,Cádiz CF,9,14,8,10,-2
+9,8,Sevilla FC,9,13,9,8,1
+9,9,Real Betis Balompié,9,12,12,17,-5
+9,10,Valencia CF,9,11,15,14,1
+9,11,Getafe CF,9,11,8,11,-3
+9,12,Elche CF,9,11,7,13,-6
+9,13,CA Osasuna,9,10,7,10,-3
+9,14,Athletic Club,9,9,9,12,-3
+9,15,Deportivo Alavés,9,9,7,10,-3
+9,16,SD Eibar,9,9,6,9,-3
+9,17,Levante UD,9,7,9,14,-5
+9,18,RC Celta de Vigo,9,7,6,15,-9
+9,19,Real Valladolid CF,9,6,7,14,-7
+9,20,SD Huesca,9,6,7,15,-8
+10,1,Club Atlético de Madrid,10,24,21,3,18
+10,2,Real Sociedad de Fútbol,10,23,21,4,17
+10,3,Real Madrid CF,10,20,17,10,7
+10,4,Villarreal CF,10,19,14,10,4
+10,5,FC Barcelona,10,17,21,11,10
+10,6,Granada CF,10,17,12,14,-2
+10,7,Sevilla FC,10,16,13,10,3
+10,8,Cádiz CF,10,14,8,11,-3
+10,9,Valencia CF,10,12,17,16,1
+10,10,Athletic Club,10,12,13,12,1
+10,11,Getafe CF,10,12,8,11,-3
+10,12,Elche CF,10,12,8,14,-6
+10,13,Real Betis Balompié,10,12,12,21,-9
+10,14,CA Osasuna,10,11,8,11,-3
+10,15,Deportivo Alavés,10,10,9,12,-3
+10,16,SD Eibar,10,10,6,9,-3
+10,17,Real Valladolid CF,10,9,10,15,-5
+10,18,Levante UD,10,8,10,15,-5
+10,19,SD Huesca,10,7,8,16,-8
+10,20,RC Celta de Vigo,10,7,8,19,-11
+11,1,Club Atlético de Madrid,11,27,22,3,19
+11,2,Real Sociedad de Fútbol,11,24,22,5,17
+11,3,FC Barcelona,11,20,25,11,14
+11,4,Real Madrid CF,11,20,18,12,6
+11,5,Villarreal CF,11,20,15,11,4
+11,6,Sevilla FC,11,19,14,10,4
+11,7,Granada CF,11,17,13,17,-4
+11,8,Cádiz CF,11,15,9,12,-3
+11,9,Athletic Club,11,13,14,13,1
+11,10,SD Eibar,11,13,8,9,-1
+11,11,Deportivo Alavés,11,13,11,13,-2
+11,12,Getafe CF,11,13,9,12,-3
+11,13,Elche CF,11,13,9,15,-6
+11,14,Valencia CF,11,12,17,17,0
+11,15,Real Betis Balompié,11,12,12,23,-11
+11,16,CA Osasuna,11,11,8,15,-7
+11,17,Real Valladolid CF,11,10,11,16,-5
+11,18,RC Celta de Vigo,11,10,11,20,-9
+11,19,Levante UD,11,9,11,16,-5
+11,20,SD Huesca,11,7,8,17,-9
+12,1,Club Atlético de Madrid,12,30,24,3,21
+12,2,Real Sociedad de Fútbol,12,25,22,5,17
+12,3,Real Madrid CF,12,23,19,12,7
+12,4,Villarreal CF,12,21,15,11,4
+12,5,FC Barcelona,12,20,26,13,13
+12,6,Sevilla FC,12,19,14,11,3
+12,7,Cádiz CF,12,18,11,13,-2
+12,8,Granada CF,12,18,16,20,-4
+12,9,Real Betis Balompié,12,15,14,23,-9
+12,10,SD Eibar,12,14,8,9,-1
+12,11,Deportivo Alavés,12,14,11,13,-2
+12,12,Elche CF,12,14,9,15,-6
+12,13,Valencia CF,12,13,17,17,0
+12,14,Athletic Club,12,13,14,15,-1
+12,15,Getafe CF,12,13,9,15,-6
+12,16,RC Celta de Vigo,12,13,13,20,-7
+12,17,Levante UD,12,12,14,16,-2
+12,18,CA Osasuna,12,11,8,17,-9
+12,19,Real Valladolid CF,12,10,11,18,-7
+12,20,SD Huesca,12,8,11,20,-9
+13,1,Club Atlético de Madrid,13,30,24,5,19
+13,2,Real Sociedad de Fútbol,13,26,23,6,17
+13,3,Real Madrid CF,13,26,21,12,9
+13,4,FC Barcelona,13,23,27,13,14
+13,5,Villarreal CF,13,22,16,12,4
+13,6,Sevilla FC,13,22,15,11,4
+13,7,Granada CF,13,21,17,20,-3
+13,8,Cádiz CF,13,18,11,17,-6
+13,9,RC Celta de Vigo,13,16,17,20,-3
+13,10,Real Betis Balompié,13,16,15,24,-9
+13,11,SD Eibar,13,15,9,10,-1
+13,12,Valencia CF,13,14,19,19,0
+13,13,Athletic Club,13,14,16,17,-1
+13,14,Deportivo Alavés,13,14,11,14,-3
+13,15,Elche CF,13,14,9,16,-7
+13,16,Real Valladolid CF,13,13,14,20,-6
+13,17,Getafe CF,13,13,9,16,-7
+13,18,Levante UD,13,12,14,17,-3
+13,19,SD Huesca,13,11,12,20,-8
+13,20,CA Osasuna,13,11,10,20,-10
+14,1,Club Atlético de Madrid,14,33,27,6,21
+14,2,Real Madrid CF,14,29,24,13,11
+14,3,Real Sociedad de Fútbol,14,26,24,8,16
+14,4,Villarreal CF,14,25,19,13,6
+14,5,FC Barcelona,14,24,29,15,14
+14,6,Granada CF,14,24,19,20,-1
+14,7,Sevilla FC,14,23,16,12,4
+14,8,RC Celta de Vigo,14,19,19,20,-1
+14,9,Cádiz CF,14,18,11,19,-8
+14,10,Athletic Club,14,17,18,17,1
+14,11,Getafe CF,14,16,11,16,-5
+14,12,Real Betis Balompié,14,16,15,26,-11
+14,13,Valencia CF,14,15,21,21,0
+14,14,Levante UD,14,15,16,18,-2
+14,15,SD Eibar,14,15,10,13,-3
+14,16,Deportivo Alavés,14,14,11,16,-5
+14,17,Real Valladolid CF,14,14,15,21,-6
+14,18,Elche CF,14,14,10,19,-9
+14,19,SD Huesca,14,11,12,22,-10
+14,20,CA Osasuna,14,11,11,23,-12
+15,1,Club Atlético de Madrid,15,36,29,6,23
+15,2,Real Madrid CF,15,32,26,13,13
+15,3,FC Barcelona,15,27,32,15,17
+15,4,Real Sociedad de Fútbol,15,26,24,10,14
+15,5,Villarreal CF,15,26,20,14,6
+15,6,Sevilla FC,15,26,17,12,5
+15,7,Granada CF,15,24,19,22,-3
+15,8,RC Celta de Vigo,15,20,20,21,-1
+15,9,Real Betis Balompié,15,19,16,26,-10
+15,10,Athletic Club,15,18,19,18,1
+15,11,Cádiz CF,15,18,11,20,-9
+15,12,Deportivo Alavés,15,17,13,17,-4
+15,13,Getafe CF,15,17,12,17,-5
+15,14,Levante UD,15,16,17,19,-2
+15,15,Valencia CF,15,15,21,22,-1
+15,16,SD Eibar,15,15,11,15,-4
+15,17,Elche CF,15,15,12,21,-9
+15,18,Real Valladolid CF,15,14,15,24,-9
+15,19,SD Huesca,15,12,13,23,-10
+15,20,CA Osasuna,15,12,13,25,-12
+16,1,Club Atlético de Madrid,16,39,30,6,24
+16,2,Real Madrid CF,16,33,27,14,13
+16,3,Real Sociedad de Fútbol,16,29,25,10,15
+16,4,Sevilla FC,16,29,19,12,7
+16,5,FC Barcelona,16,28,33,16,17
+16,6,Granada CF,16,27,21,23,-2
+16,7,Villarreal CF,16,26,20,16,4
+16,8,RC Celta de Vigo,16,23,22,22,0
+16,9,Levante UD,16,19,21,22,-1
+16,10,Cádiz CF,16,19,11,20,-9
+16,11,Real Betis Balompié,16,19,19,30,-11
+16,12,Athletic Club,16,18,19,19,0
+16,13,Deportivo Alavés,16,18,14,18,-4
+16,14,Getafe CF,16,17,12,18,-6
+16,15,SD Eibar,16,16,12,16,-4
+16,16,Elche CF,16,16,13,22,-9
+16,17,Valencia CF,16,15,22,24,-2
+16,18,Real Valladolid CF,16,15,15,24,-9
+16,19,CA Osasuna,16,13,14,26,-12
+16,20,SD Huesca,16,12,14,25,-11
+17,1,Club Atlético de Madrid,17,42,32,7,25
+17,2,Real Madrid CF,17,36,29,14,15
+17,3,FC Barcelona,17,31,34,16,18
+17,4,Real Sociedad de Fútbol,17,30,26,11,15
+17,5,Sevilla FC,17,30,20,13,7
+17,6,Villarreal CF,17,29,22,17,5
+17,7,Granada CF,17,27,21,25,-4
+17,8,RC Celta de Vigo,17,23,22,24,-2
+17,9,Athletic Club,17,21,20,19,1
+17,10,Cádiz CF,17,20,12,21,-9
+17,11,Real Betis Balompié,17,20,20,31,-11
+17,12,Levante UD,17,19,22,24,-2
+17,13,SD Eibar,17,19,14,16,-2
+17,14,Deportivo Alavés,17,18,15,20,-5
+17,15,Real Valladolid CF,17,18,16,24,-8
+17,16,Getafe CF,17,17,12,19,-7
+17,17,Valencia CF,17,16,23,25,-2
+17,18,Elche CF,17,16,13,23,-10
+17,19,CA Osasuna,17,14,15,27,-12
+17,20,SD Huesca,17,12,14,26,-12
+18,1,Club Atlético de Madrid,18,45,34,8,26
+18,2,Real Madrid CF,18,37,29,14,15
+18,3,FC Barcelona,18,34,38,16,22
+18,4,Sevilla FC,18,33,23,15,8
+18,5,Villarreal CF,18,32,26,17,9
+18,6,Real Sociedad de Fútbol,18,30,28,14,14
+18,7,Granada CF,18,27,21,29,-8
+18,8,RC Celta de Vigo,18,23,22,28,-6
+18,9,Cádiz CF,18,23,15,22,-7
+18,10,Real Betis Balompié,18,23,22,31,-9
+18,11,Levante UD,18,22,24,25,-1
+18,12,Athletic Club,18,21,21,21,0
+18,13,Getafe CF,18,20,15,20,-5
+18,14,Valencia CF,18,19,24,25,-1
+18,15,SD Eibar,18,19,15,18,-3
+18,16,Deportivo Alavés,18,18,16,23,-7
+18,17,Real Valladolid CF,18,18,16,25,-9
+18,18,Elche CF,18,16,14,26,-12
+18,19,CA Osasuna,18,15,15,27,-12
+18,20,SD Huesca,18,12,14,28,-14
+19,1,Club Atlético de Madrid,19,48,36,9,27
+19,2,Real Madrid CF,19,40,32,15,17
+19,3,FC Barcelona,19,37,40,17,23
+19,4,Sevilla FC,19,36,25,16,9
+19,5,Villarreal CF,19,33,28,19,9
+19,6,Real Sociedad de Fútbol,19,30,29,16,13
+19,7,Granada CF,19,28,23,31,-8
+19,8,Real Betis Balompié,19,26,24,32,-8
+19,9,Cádiz CF,19,24,17,24,-7
+19,10,Levante UD,19,23,26,27,-1
+19,11,Getafe CF,19,23,16,20,-4
+19,12,RC Celta de Vigo,19,23,23,30,-7
+19,13,Athletic Club,19,21,22,24,-2
+19,14,Valencia CF,19,20,25,26,-1
+19,15,SD Eibar,19,19,16,20,-4
+19,16,Real Valladolid CF,19,19,18,27,-9
+19,17,Deportivo Alavés,19,18,17,25,-8
+19,18,Elche CF,19,17,16,28,-12
+19,19,CA Osasuna,19,16,16,28,-12
+19,20,SD Huesca,19,12,14,29,-15
+20,1,Club Atlético de Madrid,20,51,39,10,29
+20,2,Real Madrid CF,20,43,36,16,20
+20,3,FC Barcelona,20,40,42,17,25
+20,4,Sevilla FC,20,39,28,16,12
+20,5,Villarreal CF,20,34,28,19,9
+20,6,Real Sociedad de Fútbol,20,31,31,18,13
+20,7,Granada CF,20,28,24,34,-10
+20,8,Real Betis Balompié,20,27,26,34,-8
+20,9,Athletic Club,20,24,27,25,2
+20,10,Levante UD,20,24,28,29,-1
+20,11,RC Celta de Vigo,20,24,24,31,-7
+20,12,Cádiz CF,20,24,17,27,-10
+20,13,Getafe CF,20,23,17,25,-8
+20,14,Valencia CF,20,20,26,29,-3
+20,15,SD Eibar,20,20,17,21,-4
+20,16,Real Valladolid CF,20,20,20,29,-9
+20,17,CA Osasuna,20,19,19,29,-10
+20,18,Deportivo Alavés,20,18,18,29,-11
+20,19,Elche CF,20,17,16,30,-14
+20,20,SD Huesca,20,13,14,29,-15
+21,1,Club Atlético de Madrid,21,54,43,12,31
+21,2,FC Barcelona,21,43,44,18,26
+21,3,Real Madrid CF,21,43,37,18,19
+21,4,Sevilla FC,21,42,30,16,14
+21,5,Villarreal CF,21,35,29,20,9
+21,6,Real Sociedad de Fútbol,21,32,32,19,13
+21,7,Real Betis Balompié,21,30,27,34,-7
+21,8,Granada CF,21,29,24,34,-10
+21,9,Levante UD,21,27,30,30,0
+21,10,RC Celta de Vigo,21,25,24,31,-7
+21,11,Athletic Club,21,24,28,27,1
+21,12,Getafe CF,21,24,17,25,-8
+21,13,Cádiz CF,21,24,19,31,-12
+21,14,Valencia CF,21,23,27,29,-2
+21,15,SD Eibar,21,20,17,23,-6
+21,16,Real Valladolid CF,21,20,21,32,-11
+21,17,CA Osasuna,21,19,19,30,-11
+21,18,Deportivo Alavés,21,19,18,29,-11
+21,19,Elche CF,21,17,16,31,-15
+21,20,SD Huesca,21,16,17,30,-13
+22,1,Club Atlético de Madrid,22,55,45,14,31
+22,2,FC Barcelona,22,46,47,20,27
+22,3,Real Madrid CF,22,46,39,19,20
+22,4,Sevilla FC,22,45,33,16,17
+22,5,Villarreal CF,22,36,31,22,9
+22,6,Real Sociedad de Fútbol,22,35,36,20,16
+22,7,Real Betis Balompié,22,30,29,37,-8
+22,8,Granada CF,22,30,26,36,-10
+22,9,Levante UD,22,28,32,32,0
+22,10,RC Celta de Vigo,22,26,26,33,-7
+22,11,Athletic Club,22,25,29,28,1
+22,12,Valencia CF,22,24,28,30,-2
+22,13,Getafe CF,22,24,17,28,-11
+22,14,Cádiz CF,22,24,20,35,-15
+22,15,CA Osasuna,22,22,21,31,-10
+22,16,Deportivo Alavés,22,22,19,29,-10
+22,17,SD Eibar,22,20,18,25,-7
+22,18,Real Valladolid CF,22,20,21,33,-12
+22,19,Elche CF,22,18,18,33,-15
+22,20,SD Huesca,22,16,18,32,-14
+23,1,Club Atlético de Madrid,23,58,47,15,32
+23,2,FC Barcelona,23,49,52,21,31
+23,3,Real Madrid CF,23,49,41,19,22
+23,4,Sevilla FC,23,48,34,16,18
+23,5,Real Sociedad de Fútbol,23,38,37,20,17
+23,6,Villarreal CF,23,36,32,24,8
+23,7,Real Betis Balompié,23,33,31,38,-7
+23,8,Granada CF,23,30,27,38,-11
+23,9,RC Celta de Vigo,23,29,29,34,-5
+23,10,Athletic Club,23,28,33,28,5
+23,11,Levante UD,23,28,32,33,-1
+23,12,CA Osasuna,23,25,22,31,-9
+23,13,Valencia CF,23,24,28,32,-4
+23,14,Getafe CF,23,24,17,29,-12
+23,15,Cádiz CF,23,24,20,39,-19
+23,16,Deportivo Alavés,23,22,20,34,-14
+23,17,SD Eibar,23,21,19,26,-7
+23,18,Real Valladolid CF,23,21,22,34,-12
+23,19,Elche CF,23,18,19,36,-17
+23,20,SD Huesca,23,16,18,33,-15
+24,1,Club Atlético de Madrid,24,58,47,17,30
+24,2,Real Madrid CF,24,52,42,19,23
+24,3,Sevilla FC,24,51,36,16,20
+24,4,FC Barcelona,24,50,53,22,31
+24,5,Real Sociedad de Fútbol,24,41,41,20,21
+24,6,Villarreal CF,24,37,33,25,8
+24,7,Real Betis Balompié,24,36,32,38,-6
+24,8,Levante UD,24,31,34,33,1
+24,9,Granada CF,24,30,29,41,-12
+24,10,Athletic Club,24,29,34,29,5
+24,11,RC Celta de Vigo,24,29,29,36,-7
+24,12,Valencia CF,24,27,30,32,-2
+24,13,CA Osasuna,24,25,22,33,-11
+24,14,Cádiz CF,24,25,21,40,-19
+24,15,Getafe CF,24,24,17,30,-13
+24,16,Deportivo Alavés,24,22,20,38,-18
+24,17,SD Eibar,24,21,19,27,-8
+24,18,Real Valladolid CF,24,21,22,35,-13
+24,19,Elche CF,24,21,20,36,-16
+24,20,SD Huesca,24,19,21,35,-14
+25,1,Club Atlético de Madrid,25,61,49,17,32
+25,2,FC Barcelona,25,53,55,22,33
+25,3,Real Madrid CF,25,53,43,20,23
+25,4,Sevilla FC,25,51,36,18,18
+25,5,Real Sociedad de Fútbol,25,42,42,21,21
+25,6,Real Betis Balompié,25,39,33,38,-5
+25,7,Villarreal CF,25,37,33,27,6
+25,8,Granada CF,25,33,31,42,-11
+25,9,Levante UD,25,32,35,34,1
+25,10,Athletic Club,25,30,35,30,5
+25,11,RC Celta de Vigo,25,30,30,37,-7
+25,12,CA Osasuna,25,28,23,33,-10
+25,13,Valencia CF,25,27,30,35,-5
+25,14,Getafe CF,25,27,20,30,-10
+25,15,Cádiz CF,25,25,21,41,-20
+25,16,SD Eibar,25,22,20,28,-8
+25,17,Real Valladolid CF,25,22,23,36,-13
+25,18,Deportivo Alavés,25,22,20,39,-19
+25,19,Elche CF,25,21,21,38,-17
+25,20,SD Huesca,25,20,22,36,-14
+26,1,Club Atlético de Madrid,26,62,50,18,32
+26,2,FC Barcelona,26,56,57,22,35
+26,3,Real Madrid CF,26,54,44,21,23
+26,4,Sevilla FC,26,51,37,20,17
+26,5,Real Sociedad de Fútbol,26,45,43,21,22
+26,6,Real Betis Balompié,26,42,36,40,-4
+26,7,Villarreal CF,26,37,34,29,5
+26,8,Athletic Club,26,33,37,31,6
+26,9,RC Celta de Vigo,26,33,34,40,-6
+26,10,Granada CF,26,33,32,44,-12
+26,11,Levante UD,26,32,35,35,0
+26,12,Valencia CF,26,30,32,36,-4
+26,13,CA Osasuna,26,28,23,35,-12
+26,14,Cádiz CF,26,28,22,41,-19
+26,15,Getafe CF,26,27,21,32,-11
+26,16,Real Valladolid CF,26,25,25,37,-12
+26,17,Elche CF,26,24,23,39,-16
+26,18,SD Eibar,26,22,20,29,-9
+26,19,Deportivo Alavés,26,22,22,42,-20
+26,20,SD Huesca,26,20,25,40,-15
+27,1,Club Atlético de Madrid,27,63,50,18,32
+27,2,FC Barcelona,27,59,61,23,38
+27,3,Real Madrid CF,27,57,46,22,24
+27,4,Sevilla FC,27,54,38,20,18
+27,5,Real Sociedad de Fútbol,27,45,43,22,21
+27,6,Real Betis Balompié,27,42,36,41,-5
+27,7,Villarreal CF,27,40,37,30,7
+27,8,Granada CF,27,36,33,44,-11
+27,9,Levante UD,27,35,36,35,1
+27,10,Athletic Club,27,34,37,31,6
+27,11,RC Celta de Vigo,27,34,34,40,-6
+27,12,Valencia CF,27,30,32,37,-5
+27,13,CA Osasuna,27,29,23,35,-12
+27,14,Cádiz CF,27,29,23,42,-19
+27,15,Getafe CF,27,28,21,32,-11
+27,16,Real Valladolid CF,27,26,25,37,-12
+27,17,Elche CF,27,24,24,41,-17
+27,18,Deportivo Alavés,27,23,23,43,-20
+27,19,SD Eibar,27,22,21,32,-11
+27,20,SD Huesca,27,20,26,44,-18
+28,1,Club Atlético de Madrid,28,66,51,18,33
+28,2,FC Barcelona,28,62,67,24,43
+28,3,Real Madrid CF,28,60,49,23,26
+28,4,Sevilla FC,28,55,39,21,18
+28,5,Real Sociedad de Fútbol,28,45,44,28,16
+28,6,Real Betis Balompié,28,45,38,41,-3
+28,7,Villarreal CF,28,43,39,31,8
+28,8,Granada CF,28,36,34,46,-12
+28,9,Athletic Club,28,35,38,32,6
+28,10,Levante UD,28,35,36,37,-1
+28,11,RC Celta de Vigo,28,34,35,43,-8
+28,12,Valencia CF,28,33,34,38,-4
+28,13,CA Osasuna,28,30,23,35,-12
+28,14,Getafe CF,28,29,22,33,-11
+28,15,Cádiz CF,28,29,24,44,-20
+28,16,Real Valladolid CF,28,27,26,38,-12
+28,17,Elche CF,28,25,25,42,-17
+28,18,SD Eibar,28,23,22,33,-11
+28,19,Deportivo Alavés,28,23,23,44,-21
+28,20,SD Huesca,28,21,26,44,-18
+29,1,Club Atlético de Madrid,29,66,51,19,32
+29,2,FC Barcelona,29,65,68,24,44
+29,3,Real Madrid CF,29,63,51,23,28
+29,4,Sevilla FC,29,58,40,21,19
+29,5,Real Sociedad de Fútbol,29,46,45,29,16
+29,6,Villarreal CF,29,46,42,31,11
+29,7,Real Betis Balompié,29,46,39,42,-3
+29,8,RC Celta de Vigo,29,37,38,44,-6
+29,9,Athletic Club,29,36,39,33,6
+29,10,Granada CF,29,36,34,49,-15
+29,11,Levante UD,29,35,36,39,-3
+29,12,Valencia CF,29,33,35,40,-5
+29,13,Cádiz CF,29,32,26,45,-19
+29,14,CA Osasuna,29,31,23,35,-12
+29,15,Getafe CF,29,30,22,33,-11
+29,16,Real Valladolid CF,29,27,26,39,-13
+29,17,Elche CF,29,26,26,43,-17
+29,18,SD Huesca,29,24,28,44,-16
+29,19,SD Eibar,29,23,22,35,-13
+29,20,Deportivo Alavés,29,23,24,47,-23
+30,1,Club Atlético de Madrid,30,67,52,20,32
+30,2,Real Madrid CF,30,66,53,24,29
+30,3,FC Barcelona,30,65,69,26,43
+30,4,Sevilla FC,30,61,44,24,20
+30,5,Real Sociedad de Fútbol,30,47,47,31,16
+30,6,Real Betis Balompié,30,47,40,43,-3
+30,7,Villarreal CF,30,46,43,33,10
+30,8,Granada CF,30,39,36,50,-14
+30,9,Levante UD,30,38,37,39,-2
+30,10,Athletic Club,30,37,39,33,6
+30,11,RC Celta de Vigo,30,37,41,48,-7
+30,12,Cádiz CF,30,35,27,45,-18
+30,13,Valencia CF,30,34,37,42,-5
+30,14,CA Osasuna,30,34,25,36,-11
+30,15,Getafe CF,30,30,22,34,-12
+30,16,SD Huesca,30,27,31,45,-14
+30,17,Real Valladolid CF,30,27,27,41,-14
+30,18,Elche CF,30,26,27,46,-19
+30,19,Deportivo Alavés,30,24,24,47,-23
+30,20,SD Eibar,30,23,22,36,-14
+31,1,Club Atlético de Madrid,31,70,54,20,34
+31,2,Real Madrid CF,31,69,56,24,32
+31,3,FC Barcelona,31,68,74,28,46
+31,4,Sevilla FC,31,64,45,24,21
+31,5,Real Sociedad de Fútbol,31,50,49,32,17
+31,6,Real Betis Balompié,31,48,40,43,-3
+31,7,Villarreal CF,31,46,44,35,9
+31,8,Granada CF,31,42,40,51,-11
+31,9,Athletic Club,31,38,39,33,6
+31,10,Levante UD,31,38,37,40,-3
+31,11,RC Celta de Vigo,31,37,42,50,-8
+31,12,CA Osasuna,31,37,28,37,-9
+31,13,Cádiz CF,31,35,27,48,-21
+31,14,Valencia CF,31,34,38,45,-7
+31,15,Getafe CF,31,30,24,39,-15
+31,16,Real Valladolid CF,31,28,28,42,-14
+31,17,SD Huesca,31,27,31,47,-16
+31,18,Elche CF,31,27,28,47,-19
+31,19,Deportivo Alavés,31,27,26,48,-22
+31,20,SD Eibar,31,23,23,40,-17
+32,1,FC Barcelona,32,71,76,29,47
+32,2,Club Atlético de Madrid,32,70,55,22,33
+32,3,Real Madrid CF,32,70,56,24,32
+32,4,Sevilla FC,32,67,47,25,22
+32,5,Real Sociedad de Fútbol,32,53,50,32,18
+32,6,Real Betis Balompié,32,49,40,43,-3
+32,7,Villarreal CF,32,46,45,37,8
+32,8,Granada CF,32,42,41,53,-12
+32,9,Athletic Club,32,41,41,34,7
+32,10,RC Celta de Vigo,32,40,44,51,-7
+32,11,Levante UD,32,38,37,41,-4
+32,12,CA Osasuna,32,37,29,39,-10
+32,13,Cádiz CF,32,36,28,49,-21
+32,14,Valencia CF,32,35,39,46,-7
+32,15,Getafe CF,32,33,26,39,-13
+32,16,Elche CF,32,30,29,47,-18
+32,17,Real Valladolid CF,32,29,29,43,-14
+32,18,Deportivo Alavés,32,28,27,49,-22
+32,19,SD Huesca,32,27,31,49,-18
+32,20,SD Eibar,32,23,23,41,-18
+33,1,Club Atlético de Madrid,33,73,60,22,38
+33,2,FC Barcelona,33,71,77,31,46
+33,3,Real Madrid CF,33,71,56,24,32
+33,4,Sevilla FC,33,70,49,26,23
+33,5,Real Sociedad de Fútbol,33,53,51,34,17
+33,6,Real Betis Balompié,33,50,42,45,-3
+33,7,Villarreal CF,33,49,50,38,12
+33,8,Granada CF,33,45,43,54,-11
+33,9,Athletic Club,33,42,43,36,7
+33,10,RC Celta de Vigo,33,41,44,51,-7
+33,11,CA Osasuna,33,40,31,39,-8
+33,12,Levante UD,33,38,38,46,-8
+33,13,Cádiz CF,33,37,28,49,-21
+33,14,Valencia CF,33,36,41,48,-7
+33,15,Getafe CF,33,34,26,39,-13
+33,16,Deportivo Alavés,33,31,28,49,-21
+33,17,Real Valladolid CF,33,30,31,45,-14
+33,18,Elche CF,33,30,29,49,-20
+33,19,SD Huesca,33,27,31,50,-19
+33,20,SD Eibar,33,23,23,46,-23
+34,1,Club Atlético de Madrid,34,76,61,22,39
+34,2,FC Barcelona,34,74,80,33,47
+34,3,Real Madrid CF,34,74,58,24,34
+34,4,Sevilla FC,34,70,49,27,22
+34,5,Real Sociedad de Fútbol,34,53,51,35,16
+34,6,Villarreal CF,34,52,51,38,13
+34,7,Real Betis Balompié,34,51,43,46,-3
+34,8,Athletic Club,34,45,44,36,8
+34,9,Granada CF,34,45,43,55,-12
+34,10,RC Celta de Vigo,34,44,46,51,-5
+34,11,CA Osasuna,34,40,31,41,-10
+34,12,Cádiz CF,34,40,29,49,-20
+34,13,Levante UD,34,38,38,48,-10
+34,14,Valencia CF,34,36,43,51,-8
+34,15,Getafe CF,34,34,26,40,-14
+34,16,Real Valladolid CF,34,31,32,46,-14
+34,17,Deportivo Alavés,34,31,28,52,-24
+34,18,SD Huesca,34,30,32,50,-18
+34,19,Elche CF,34,30,29,50,-21
+34,20,SD Eibar,34,26,26,46,-20
+35,1,Club Atlético de Madrid,35,77,61,22,39
+35,2,FC Barcelona,35,75,80,33,47
+35,3,Real Madrid CF,35,75,60,26,34
+35,4,Sevilla FC,35,71,51,29,22
+35,5,Real Sociedad de Fútbol,35,56,53,35,18
+35,6,Real Betis Balompié,35,54,45,47,-2
+35,7,Villarreal CF,35,52,53,42,11
+35,8,RC Celta de Vigo,35,47,50,53,-3
+35,9,Athletic Club,35,46,46,38,8
+35,10,Granada CF,35,45,44,57,-13
+35,11,Cádiz CF,35,43,31,50,-19
+35,12,CA Osasuna,35,41,33,43,-10
+35,13,Valencia CF,35,39,46,51,-5
+35,14,Levante UD,35,39,40,50,-10
+35,15,Getafe CF,35,34,26,41,-15
+35,16,Deportivo Alavés,35,32,30,54,-24
+35,17,Real Valladolid CF,35,31,32,49,-17
+35,18,SD Huesca,35,30,33,52,-19
+35,19,Elche CF,35,30,29,52,-23
+35,20,SD Eibar,35,29,27,46,-19
+36,1,Club Atlético de Madrid,36,80,63,23,40
+36,2,Real Madrid CF,36,78,64,27,37
+36,3,FC Barcelona,36,76,83,36,47
+36,4,Sevilla FC,36,74,52,29,23
+36,5,Real Sociedad de Fútbol,36,56,54,37,17
+36,6,Villarreal CF,36,55,55,42,13
+36,7,Real Betis Balompié,36,55,46,48,-2
+36,8,RC Celta de Vigo,36,50,51,53,-2
+36,9,Athletic Club,36,46,46,39,7
+36,10,Granada CF,36,45,45,61,-16
+36,11,CA Osasuna,36,44,36,45,-9
+36,12,Cádiz CF,36,43,33,53,-20
+36,13,Levante UD,36,40,43,53,-10
+36,14,Valencia CF,36,39,46,52,-6
+36,15,Deportivo Alavés,36,35,32,54,-22
+36,16,Getafe CF,36,34,26,42,-16
+36,17,SD Huesca,36,33,34,52,-18
+36,18,Real Valladolid CF,36,31,32,51,-19
+36,19,SD Eibar,36,30,28,47,-19
+36,20,Elche CF,36,30,29,54,-25
+37,1,Club Atlético de Madrid,37,83,65,24,41
+37,2,Real Madrid CF,37,81,65,27,38
+37,3,FC Barcelona,37,76,84,38,46
+37,4,Sevilla FC,37,74,52,33,19
+37,5,Real Sociedad de Fútbol,37,59,58,38,20
+37,6,Villarreal CF,37,58,59,42,17
+37,7,Real Betis Balompié,37,58,47,48,-1
+37,8,RC Celta de Vigo,37,53,53,54,-1
+37,9,Athletic Club,37,46,46,40,6
+37,10,Granada CF,37,45,47,65,-18
+37,11,CA Osasuna,37,44,37,47,-10
+37,12,Cádiz CF,37,43,34,56,-22
+37,13,Valencia CF,37,42,50,53,-3
+37,14,Levante UD,37,40,44,55,-11
+37,15,Deportivo Alavés,37,38,36,56,-20
+37,16,Getafe CF,37,37,28,43,-15
+37,17,SD Huesca,37,33,34,53,-19
+37,18,Elche CF,37,33,32,55,-23
+37,19,Real Valladolid CF,37,31,33,55,-22
+37,20,SD Eibar,37,30,29,51,-22
+38,1,Club Atlético de Madrid,38,86,67,25,42
+38,2,Real Madrid CF,38,84,67,28,39
+38,3,FC Barcelona,38,79,85,38,47
+38,4,Sevilla FC,38,77,53,33,20
+38,5,Real Sociedad de Fútbol,38,62,59,38,21
+38,6,Real Betis Balompié,38,61,50,50,0
+38,7,Villarreal CF,38,58,60,44,16
+38,8,RC Celta de Vigo,38,53,55,57,-2
+38,9,Athletic Club,38,46,46,42,4
+38,10,Granada CF,38,46,47,65,-18
+38,11,CA Osasuna,38,44,37,48,-11
+38,12,Cádiz CF,38,44,36,58,-22
+38,13,Valencia CF,38,43,50,53,-3
+38,14,Levante UD,38,41,46,57,-11
+38,15,Getafe CF,38,38,28,43,-15
+38,16,Deportivo Alavés,38,38,36,57,-21
+38,17,Elche CF,38,36,34,55,-21
+38,18,SD Huesca,38,34,34,53,-19
+38,19,Real Valladolid CF,38,31,34,57,-23
+38,20,SD Eibar,38,30,29,52,-23
