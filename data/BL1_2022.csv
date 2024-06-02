@@ -1,631 +1,631 @@
-matchday,position,team_name,playedGames
-1,1,FC Bayern München,1
-1,2,SC Freiburg,1
-1,3,Borussia Mönchengladbach,1
-1,4,1. FC Union Berlin,1
-1,5,1. FC Köln,1
-1,6,1. FSV Mainz 05,1
-1,7,Borussia Dortmund,1
-1,8,VfL Wolfsburg,1
-1,9,SV Werder Bremen,1
-1,10,VfB Stuttgart,1
-1,11,RB Leipzig,1
-1,12,VfL Bochum 1848,1
-1,13,Bayer 04 Leverkusen,1
-1,14,TSG 1899 Hoffenheim,1
-1,15,Hertha BSC,1
-1,16,FC Schalke 04,1
-1,17,FC Augsburg,1
-1,18,Eintracht Frankfurt,1
-1,1,Borussia Mönchengladbach,1
-1,2,1. FC Union Berlin,1
-1,3,1. FC Köln,1
-1,4,Borussia Dortmund,1
-1,5,VfL Wolfsburg,1
-1,6,VfB Stuttgart,1
-1,16,VfL Bochum 1848,1
-1,17,FC Augsburg,1
-1,18,Eintracht Frankfurt,1
-1,1,FC Bayern München,1
-1,2,SC Freiburg,1
-1,3,1. FSV Mainz 05,1
-1,4,SV Werder Bremen,1
-1,5,RB Leipzig,1
-1,15,Bayer 04 Leverkusen,1
-1,16,TSG 1899 Hoffenheim,1
-1,17,Hertha BSC,1
-1,18,FC Schalke 04,1
-2,1,FC Bayern München,2
-2,2,Borussia Dortmund,2
-2,3,Borussia Mönchengladbach,2
-2,4,1. FC Köln,2
-2,5,1. FC Union Berlin,2
-2,6,1. FSV Mainz 05,2
-2,7,SC Freiburg,2
-2,8,TSG 1899 Hoffenheim,2
-2,9,FC Augsburg,2
-2,10,SV Werder Bremen,2
-2,11,VfB Stuttgart,2
-2,12,RB Leipzig,2
-2,13,FC Schalke 04,2
-2,14,VfL Wolfsburg,2
-2,15,Hertha BSC,2
-2,16,Eintracht Frankfurt,2
-2,17,VfL Bochum 1848,2
-2,18,Bayer 04 Leverkusen,2
-3,1,FC Bayern München,3
-3,2,Borussia Mönchengladbach,3
-3,3,1. FC Union Berlin,3
-3,4,1. FSV Mainz 05,3
-3,5,SC Freiburg,3
-3,6,TSG 1899 Hoffenheim,3
-3,7,Borussia Dortmund,3
-3,8,1. FC Köln,3
-3,9,SV Werder Bremen,3
-3,10,FC Augsburg,3
-3,11,RB Leipzig,3
-3,12,VfB Stuttgart,3
-3,13,FC Schalke 04,3
-3,14,VfL Wolfsburg,3
-3,15,Eintracht Frankfurt,3
-3,16,Hertha BSC,3
-3,17,Bayer 04 Leverkusen,3
-3,18,VfL Bochum 1848,3
-4,1,FC Bayern München,4
-4,2,1. FC Union Berlin,4
-4,3,SC Freiburg,4
-4,4,TSG 1899 Hoffenheim,4
-4,5,Borussia Dortmund,4
-4,6,Borussia Mönchengladbach,4
-4,7,1. FSV Mainz 05,4
-4,8,1. FC Köln,4
-4,9,RB Leipzig,4
-4,10,SV Werder Bremen,4
-4,11,Eintracht Frankfurt,4
-4,12,VfB Stuttgart,4
-4,13,Bayer 04 Leverkusen,4
-4,14,FC Augsburg,4
-4,15,VfL Wolfsburg,4
-4,16,FC Schalke 04,4
-4,17,Hertha BSC,4
-4,18,VfL Bochum 1848,4
-5,1,SC Freiburg,5
-5,2,Borussia Dortmund,5
-5,3,FC Bayern München,5
-5,4,1. FC Union Berlin,5
-5,5,1. FSV Mainz 05,5
-5,6,1. FC Köln,5
-5,7,TSG 1899 Hoffenheim,5
-5,8,SV Werder Bremen,5
-5,9,Borussia Mönchengladbach,5
-5,10,Eintracht Frankfurt,5
-5,11,RB Leipzig,5
-5,12,VfB Stuttgart,5
-5,13,Hertha BSC,5
-5,14,Bayer 04 Leverkusen,5
-5,15,FC Schalke 04,5
-5,16,FC Augsburg,5
-5,17,VfL Wolfsburg,5
-5,18,VfL Bochum 1848,5
-6,1,1. FC Union Berlin,6
-6,2,SC Freiburg,6
-6,3,FC Bayern München,6
-6,4,TSG 1899 Hoffenheim,6
-6,5,Borussia Dortmund,6
-6,6,1. FSV Mainz 05,6
-6,7,1. FC Köln,6
-6,8,Borussia Mönchengladbach,6
-6,9,SV Werder Bremen,6
-6,10,RB Leipzig,6
-6,11,Eintracht Frankfurt,6
-6,12,FC Schalke 04,6
-6,13,FC Augsburg,6
-6,14,VfB Stuttgart,6
-6,15,Hertha BSC,6
-6,16,VfL Wolfsburg,6
-6,17,Bayer 04 Leverkusen,6
-6,18,VfL Bochum 1848,6
-7,1,1. FC Union Berlin,7
-7,2,Borussia Dortmund,7
-7,3,SC Freiburg,7
-7,4,TSG 1899 Hoffenheim,7
-7,5,FC Bayern München,7
-7,6,Borussia Mönchengladbach,7
-7,7,Eintracht Frankfurt,7
-7,8,1. FSV Mainz 05,7
-7,9,1. FC Köln,7
-7,10,SV Werder Bremen,7
-7,11,FC Augsburg,7
-7,12,RB Leipzig,7
-7,13,Hertha BSC,7
-7,14,FC Schalke 04,7
-7,15,Bayer 04 Leverkusen,7
-7,16,VfB Stuttgart,7
-7,17,VfL Wolfsburg,7
-7,18,VfL Bochum 1848,7
-8,1,1. FC Union Berlin,8
-8,2,SC Freiburg,8
-8,3,FC Bayern München,8
-8,4,Borussia Dortmund,8
-8,5,TSG 1899 Hoffenheim,8
-8,6,Eintracht Frankfurt,8
-8,7,1. FC Köln,8
-8,8,SV Werder Bremen,8
-8,9,Borussia Mönchengladbach,8
-8,10,FC Augsburg,8
-8,11,RB Leipzig,8
-8,12,1. FSV Mainz 05,8
-8,13,VfL Wolfsburg,8
-8,14,Hertha BSC,8
-8,15,FC Schalke 04,8
-8,16,VfB Stuttgart,8
-8,17,Bayer 04 Leverkusen,8
-8,18,VfL Bochum 1848,8
-9,1,1. FC Union Berlin,9
-9,2,SC Freiburg,9
-9,3,FC Bayern München,9
-9,4,Borussia Dortmund,9
-9,5,SV Werder Bremen,9
-9,6,Borussia Mönchengladbach,9
-9,7,TSG 1899 Hoffenheim,9
-9,8,Eintracht Frankfurt,9
-9,9,1. FC Köln,9
-9,10,FC Augsburg,9
-9,11,RB Leipzig,9
-9,12,1. FSV Mainz 05,9
-9,13,VfL Wolfsburg,9
-9,14,Hertha BSC,9
-9,15,Bayer 04 Leverkusen,9
-9,16,FC Schalke 04,9
-9,17,VfB Stuttgart,9
-9,18,VfL Bochum 1848,9
-10,1,1. FC Union Berlin,10
-10,2,FC Bayern München,10
-10,3,SC Freiburg,10
-10,4,TSG 1899 Hoffenheim,10
-10,5,Eintracht Frankfurt,10
-10,6,Borussia Mönchengladbach,10
-10,7,1. FC Köln,10
-10,8,Borussia Dortmund,10
-10,9,SV Werder Bremen,10
-10,10,RB Leipzig,10
-10,11,1. FSV Mainz 05,10
-10,12,FC Augsburg,10
-10,13,VfL Wolfsburg,10
-10,14,VfB Stuttgart,10
-10,15,Hertha BSC,10
-10,16,Bayer 04 Leverkusen,10
-10,17,FC Schalke 04,10
-10,18,VfL Bochum 1848,10
-11,1,1. FC Union Berlin,11
-11,2,FC Bayern München,11
-11,3,SC Freiburg,11
-11,4,Eintracht Frankfurt,11
-11,5,Borussia Dortmund,11
-11,6,1. FSV Mainz 05,11
-11,7,TSG 1899 Hoffenheim,11
-11,8,RB Leipzig,11
-11,9,Borussia Mönchengladbach,11
-11,10,1. FC Köln,11
-11,11,SV Werder Bremen,11
-11,12,FC Augsburg,11
-11,13,Hertha BSC,11
-11,14,VfL Wolfsburg,11
-11,15,Bayer 04 Leverkusen,11
-11,16,VfB Stuttgart,11
-11,17,VfL Bochum 1848,11
-11,18,FC Schalke 04,11
-12,1,1. FC Union Berlin,12
-12,2,FC Bayern München,12
-12,3,SC Freiburg,12
-12,4,Borussia Dortmund,12
-12,5,Eintracht Frankfurt,12
-12,6,RB Leipzig,12
-12,7,TSG 1899 Hoffenheim,12
-12,8,SV Werder Bremen,12
-12,9,1. FSV Mainz 05,12
-12,10,1. FC Köln,12
-12,11,Borussia Mönchengladbach,12
-12,12,VfL Wolfsburg,12
-12,13,FC Augsburg,12
-12,14,Hertha BSC,12
-12,15,VfB Stuttgart,12
-12,16,Bayer 04 Leverkusen,12
-12,17,VfL Bochum 1848,12
-12,18,FC Schalke 04,12
-13,1,FC Bayern München,13
-13,2,SC Freiburg,13
-13,3,1. FC Union Berlin,13
-13,4,Borussia Dortmund,13
-13,5,Eintracht Frankfurt,13
-13,6,RB Leipzig,13
-13,7,SV Werder Bremen,13
-13,8,Borussia Mönchengladbach,13
-13,9,TSG 1899 Hoffenheim,13
-13,10,1. FSV Mainz 05,13
-13,11,VfL Wolfsburg,13
-13,12,1. FC Köln,13
-13,13,FC Augsburg,13
-13,14,Bayer 04 Leverkusen,13
-13,15,Hertha BSC,13
-13,16,VfB Stuttgart,13
-13,17,VfL Bochum 1848,13
-13,18,FC Schalke 04,13
-14,1,FC Bayern München,14
-14,2,1. FC Union Berlin,14
-14,3,SC Freiburg,14
-14,4,Eintracht Frankfurt,14
-14,5,RB Leipzig,14
-14,6,Borussia Dortmund,14
-14,7,SV Werder Bremen,14
-14,8,VfL Wolfsburg,14
-14,9,Borussia Mönchengladbach,14
-14,10,TSG 1899 Hoffenheim,14
-14,11,1. FSV Mainz 05,14
-14,12,1. FC Köln,14
-14,13,Bayer 04 Leverkusen,14
-14,14,FC Augsburg,14
-14,15,VfB Stuttgart,14
-14,16,Hertha BSC,14
-14,17,VfL Bochum 1848,14
-14,18,FC Schalke 04,14
-15,1,FC Bayern München,15
-15,2,SC Freiburg,15
-15,3,RB Leipzig,15
-15,4,Eintracht Frankfurt,15
-15,5,1. FC Union Berlin,15
-15,6,Borussia Dortmund,15
-15,7,VfL Wolfsburg,15
-15,8,Borussia Mönchengladbach,15
-15,9,SV Werder Bremen,15
-15,10,1. FSV Mainz 05,15
-15,11,TSG 1899 Hoffenheim,15
-15,12,Bayer 04 Leverkusen,15
-15,13,1. FC Köln,15
-15,14,FC Augsburg,15
-15,15,Hertha BSC,15
-15,16,VfB Stuttgart,15
-15,17,VfL Bochum 1848,15
-15,18,FC Schalke 04,15
-16,1,FC Bayern München,16
-16,2,Eintracht Frankfurt,16
-16,3,1. FC Union Berlin,16
-16,4,SC Freiburg,16
-16,5,RB Leipzig,16
-16,6,Borussia Dortmund,16
-16,7,VfL Wolfsburg,16
-16,8,Borussia Mönchengladbach,16
-16,9,Bayer 04 Leverkusen,16
-16,10,SV Werder Bremen,16
-16,11,1. FC Köln,16
-16,12,1. FSV Mainz 05,16
-16,13,TSG 1899 Hoffenheim,16
-16,14,VfL Bochum 1848,16
-16,15,FC Augsburg,16
-16,16,VfB Stuttgart,16
-16,17,Hertha BSC,16
-16,18,FC Schalke 04,16
-17,1,FC Bayern München,17
-17,2,1. FC Union Berlin,17
-17,3,RB Leipzig,17
-17,4,Eintracht Frankfurt,17
-17,5,Borussia Dortmund,17
-17,6,SC Freiburg,17
-17,7,VfL Wolfsburg,17
-17,8,Bayer 04 Leverkusen,17
-17,9,Borussia Mönchengladbach,17
-17,10,1. FC Köln,17
-17,11,SV Werder Bremen,17
-17,12,1. FSV Mainz 05,17
-17,13,TSG 1899 Hoffenheim,17
-17,14,FC Augsburg,17
-17,15,VfB Stuttgart,17
-17,16,VfL Bochum 1848,17
-17,17,Hertha BSC,17
-17,18,FC Schalke 04,17
-18,1,FC Bayern München,18
-18,2,1. FC Union Berlin,18
-18,3,RB Leipzig,18
-18,4,Borussia Dortmund,18
-18,5,SC Freiburg,18
-18,6,Eintracht Frankfurt,18
-18,7,VfL Wolfsburg,18
-18,8,Borussia Mönchengladbach,18
-18,9,Bayer 04 Leverkusen,18
-18,10,SV Werder Bremen,18
-18,11,1. FSV Mainz 05,18
-18,12,1. FC Köln,18
-18,13,TSG 1899 Hoffenheim,18
-18,14,FC Augsburg,18
-18,15,VfB Stuttgart,18
-18,16,VfL Bochum 1848,18
-18,17,Hertha BSC,18
-18,18,FC Schalke 04,18
-19,1,FC Bayern München,19
-19,2,1. FC Union Berlin,19
-19,3,Borussia Dortmund,19
-19,4,RB Leipzig,19
-19,5,Eintracht Frankfurt,19
-19,6,SC Freiburg,19
-19,7,VfL Wolfsburg,19
-19,8,SV Werder Bremen,19
-19,9,Borussia Mönchengladbach,19
-19,10,Bayer 04 Leverkusen,19
-19,11,1. FC Köln,19
-19,12,1. FSV Mainz 05,19
-19,13,FC Augsburg,19
-19,14,TSG 1899 Hoffenheim,19
-19,15,VfL Bochum 1848,19
-19,16,VfB Stuttgart,19
-19,17,Hertha BSC,19
-19,18,FC Schalke 04,19
-20,1,FC Bayern München,20
-20,2,1. FC Union Berlin,20
-20,3,Borussia Dortmund,20
-20,4,SC Freiburg,20
-20,5,RB Leipzig,20
-20,6,Eintracht Frankfurt,20
-20,7,VfL Wolfsburg,20
-20,8,Bayer 04 Leverkusen,20
-20,9,SV Werder Bremen,20
-20,10,Borussia Mönchengladbach,20
-20,11,1. FC Köln,20
-20,12,1. FSV Mainz 05,20
-20,13,FC Augsburg,20
-20,14,TSG 1899 Hoffenheim,20
-20,15,VfL Bochum 1848,20
-20,16,Hertha BSC,20
-20,17,VfB Stuttgart,20
-20,18,FC Schalke 04,20
-21,1,FC Bayern München,21
-21,2,Borussia Dortmund,21
-21,3,1. FC Union Berlin,21
-21,4,SC Freiburg,21
-21,5,RB Leipzig,21
-21,6,Eintracht Frankfurt,21
-21,7,VfL Wolfsburg,21
-21,8,Borussia Mönchengladbach,21
-21,9,1. FSV Mainz 05,21
-21,10,Bayer 04 Leverkusen,21
-21,11,SV Werder Bremen,21
-21,12,1. FC Köln,21
-21,13,FC Augsburg,21
-21,14,VfB Stuttgart,21
-21,15,TSG 1899 Hoffenheim,21
-21,16,VfL Bochum 1848,21
-21,17,Hertha BSC,21
-21,18,FC Schalke 04,21
-22,1,FC Bayern München,22
-22,2,Borussia Dortmund,22
-22,3,1. FC Union Berlin,22
-22,4,RB Leipzig,22
-22,5,SC Freiburg,22
-22,6,Eintracht Frankfurt,22
-22,7,VfL Wolfsburg,22
-22,8,1. FSV Mainz 05,22
-22,9,SV Werder Bremen,22
-22,10,Borussia Mönchengladbach,22
-22,11,Bayer 04 Leverkusen,22
-22,12,1. FC Köln,22
-22,13,FC Augsburg,22
-22,14,Hertha BSC,22
-22,15,VfB Stuttgart,22
-22,16,TSG 1899 Hoffenheim,22
-22,17,VfL Bochum 1848,22
-22,18,FC Schalke 04,22
-23,1,FC Bayern München,23
-23,2,Borussia Dortmund,23
-23,3,1. FC Union Berlin,23
-23,4,RB Leipzig,23
-23,5,SC Freiburg,23
-23,6,Eintracht Frankfurt,23
-23,7,1. FSV Mainz 05,23
-23,8,VfL Wolfsburg,23
-23,9,Bayer 04 Leverkusen,23
-23,10,Borussia Mönchengladbach,23
-23,11,SV Werder Bremen,23
-23,12,1. FC Köln,23
-23,13,FC Augsburg,23
-23,14,Hertha BSC,23
-23,15,VfB Stuttgart,23
-23,16,TSG 1899 Hoffenheim,23
-23,17,FC Schalke 04,23
-23,18,VfL Bochum 1848,23
-24,1,FC Bayern München,24
-24,2,Borussia Dortmund,24
-24,3,RB Leipzig,24
-24,4,1. FC Union Berlin,24
-24,5,SC Freiburg,24
-24,6,Eintracht Frankfurt,24
-24,7,1. FSV Mainz 05,24
-24,8,VfL Wolfsburg,24
-24,9,Bayer 04 Leverkusen,24
-24,10,Borussia Mönchengladbach,24
-24,11,SV Werder Bremen,24
-24,12,1. FC Köln,24
-24,13,FC Augsburg,24
-24,14,VfL Bochum 1848,24
-24,15,Hertha BSC,24
-24,16,VfB Stuttgart,24
-24,17,FC Schalke 04,24
-24,18,TSG 1899 Hoffenheim,24
-25,1,Borussia Dortmund,25
-25,2,FC Bayern München,25
-25,3,1. FC Union Berlin,25
-25,4,SC Freiburg,25
-25,5,RB Leipzig,25
-25,6,Eintracht Frankfurt,25
-25,7,VfL Wolfsburg,25
-25,8,Bayer 04 Leverkusen,25
-25,9,1. FSV Mainz 05,25
-25,10,Borussia Mönchengladbach,25
-25,11,SV Werder Bremen,25
-25,12,FC Augsburg,25
-25,13,1. FC Köln,25
-25,14,VfL Bochum 1848,25
-25,15,TSG 1899 Hoffenheim,25
-25,16,Hertha BSC,25
-25,17,FC Schalke 04,25
-25,18,VfB Stuttgart,25
-26,1,FC Bayern München,26
-26,2,Borussia Dortmund,26
-26,3,1. FC Union Berlin,26
-26,4,SC Freiburg,26
-26,5,RB Leipzig,26
-26,6,Eintracht Frankfurt,26
-26,7,Bayer 04 Leverkusen,26
-26,8,1. FSV Mainz 05,26
-26,9,VfL Wolfsburg,26
-26,10,Borussia Mönchengladbach,26
-26,11,SV Werder Bremen,26
-26,12,FC Augsburg,26
-26,13,1. FC Köln,26
-26,14,VfL Bochum 1848,26
-26,15,TSG 1899 Hoffenheim,26
-26,16,Hertha BSC,26
-26,17,FC Schalke 04,26
-26,18,VfB Stuttgart,26
-27,1,FC Bayern München,27
-27,2,Borussia Dortmund,27
-27,3,1. FC Union Berlin,27
-27,4,RB Leipzig,27
-27,5,SC Freiburg,27
-27,6,Bayer 04 Leverkusen,27
-27,7,Eintracht Frankfurt,27
-27,8,1. FSV Mainz 05,27
-27,9,VfL Wolfsburg,27
-27,10,Borussia Mönchengladbach,27
-27,11,SV Werder Bremen,27
-27,12,1. FC Köln,27
-27,13,FC Augsburg,27
-27,14,TSG 1899 Hoffenheim,27
-27,15,VfL Bochum 1848,27
-27,16,VfB Stuttgart,27
-27,17,Hertha BSC,27
-27,18,FC Schalke 04,27
-28,1,FC Bayern München,28
-28,2,Borussia Dortmund,28
-28,3,1. FC Union Berlin,28
-28,4,RB Leipzig,28
-28,5,SC Freiburg,28
-28,6,Bayer 04 Leverkusen,28
-28,7,Eintracht Frankfurt,28
-28,8,1. FSV Mainz 05,28
-28,9,VfL Wolfsburg,28
-28,10,Borussia Mönchengladbach,28
-28,11,1. FC Köln,28
-28,12,SV Werder Bremen,28
-28,13,TSG 1899 Hoffenheim,28
-28,14,FC Augsburg,28
-28,15,VfL Bochum 1848,28
-28,16,VfB Stuttgart,28
-28,17,FC Schalke 04,28
-28,18,Hertha BSC,28
-29,1,Borussia Dortmund,29
-29,2,FC Bayern München,29
-29,3,1. FC Union Berlin,29
-29,4,SC Freiburg,29
-29,5,RB Leipzig,29
-29,6,Bayer 04 Leverkusen,29
-29,7,1. FSV Mainz 05,29
-29,8,VfL Wolfsburg,29
-29,9,Eintracht Frankfurt,29
-29,10,Borussia Mönchengladbach,29
-29,11,1. FC Köln,29
-29,12,SV Werder Bremen,29
-29,13,FC Augsburg,29
-29,14,TSG 1899 Hoffenheim,29
-29,15,VfL Bochum 1848,29
-29,16,VfB Stuttgart,29
-29,17,FC Schalke 04,29
-29,18,Hertha BSC,29
-30,1,FC Bayern München,30
-30,2,Borussia Dortmund,30
-30,3,1. FC Union Berlin,30
-30,4,SC Freiburg,30
-30,5,RB Leipzig,30
-30,6,Bayer 04 Leverkusen,30
-30,7,VfL Wolfsburg,30
-30,8,1. FSV Mainz 05,30
-30,9,Eintracht Frankfurt,30
-30,10,Borussia Mönchengladbach,30
-30,11,1. FC Köln,30
-30,12,SV Werder Bremen,30
-30,13,FC Augsburg,30
-30,14,TSG 1899 Hoffenheim,30
-30,15,VfB Stuttgart,30
-30,16,VfL Bochum 1848,30
-30,17,FC Schalke 04,30
-30,18,Hertha BSC,30
-31,1,FC Bayern München,31
-31,2,Borussia Dortmund,31
-31,3,RB Leipzig,31
-31,4,1. FC Union Berlin,31
-31,5,SC Freiburg,31
-31,6,Bayer 04 Leverkusen,31
-31,7,VfL Wolfsburg,31
-31,8,1. FSV Mainz 05,31
-31,9,Eintracht Frankfurt,31
-31,10,Borussia Mönchengladbach,31
-31,11,1. FC Köln,31
-31,12,SV Werder Bremen,31
-31,13,FC Augsburg,31
-31,14,TSG 1899 Hoffenheim,31
-31,15,FC Schalke 04,31
-31,16,VfB Stuttgart,31
-31,17,VfL Bochum 1848,31
-31,18,Hertha BSC,31
-32,1,FC Bayern München,32
-32,2,Borussia Dortmund,32
-32,3,RB Leipzig,32
-32,4,1. FC Union Berlin,32
-32,5,SC Freiburg,32
-32,6,VfL Wolfsburg,32
-32,7,Bayer 04 Leverkusen,32
-32,8,Eintracht Frankfurt,32
-32,9,1. FSV Mainz 05,32
-32,10,1. FC Köln,32
-32,11,Borussia Mönchengladbach,32
-32,12,SV Werder Bremen,32
-32,13,FC Augsburg,32
-32,14,TSG 1899 Hoffenheim,32
-32,15,VfL Bochum 1848,32
-32,16,FC Schalke 04,32
-32,17,VfB Stuttgart,32
-32,18,Hertha BSC,32
-33,1,Borussia Dortmund,33
-33,2,FC Bayern München,33
-33,3,RB Leipzig,33
-33,4,1. FC Union Berlin,33
-33,5,SC Freiburg,33
-33,6,Bayer 04 Leverkusen,33
-33,7,VfL Wolfsburg,33
-33,8,Eintracht Frankfurt,33
-33,9,1. FSV Mainz 05,33
-33,10,1. FC Köln,33
-33,11,Borussia Mönchengladbach,33
-33,12,SV Werder Bremen,33
-33,13,TSG 1899 Hoffenheim,33
-33,14,FC Augsburg,33
-33,15,VfB Stuttgart,33
-33,16,VfL Bochum 1848,33
-33,17,FC Schalke 04,33
-33,18,Hertha BSC,33
-34,1,FC Bayern München,34
-34,2,Borussia Dortmund,34
-34,3,RB Leipzig,34
-34,4,1. FC Union Berlin,34
-34,5,SC Freiburg,34
-34,6,Bayer 04 Leverkusen,34
-34,7,Eintracht Frankfurt,34
-34,8,VfL Wolfsburg,34
-34,9,1. FSV Mainz 05,34
-34,10,Borussia Mönchengladbach,34
-34,11,1. FC Köln,34
-34,12,TSG 1899 Hoffenheim,34
-34,13,SV Werder Bremen,34
-34,14,VfL Bochum 1848,34
-34,15,FC Augsburg,34
-34,16,VfB Stuttgart,34
-34,17,FC Schalke 04,34
-34,18,Hertha BSC,34
+matchday,position,team_name,playedGames,points,goalsFor,goalsAgainst,goalDifference
+1,1,FC Bayern München,1,3,6,1,5
+1,2,SC Freiburg,1,3,4,0,4
+1,3,Borussia Mönchengladbach,1,3,3,1,2
+1,4,1. FC Union Berlin,1,3,3,1,2
+1,5,1. FC Köln,1,3,3,1,2
+1,6,1. FSV Mainz 05,1,3,2,1,1
+1,7,Borussia Dortmund,1,3,1,0,1
+1,8,VfL Wolfsburg,1,1,2,2,0
+1,9,SV Werder Bremen,1,1,2,2,0
+1,10,VfB Stuttgart,1,1,1,1,0
+1,11,RB Leipzig,1,1,1,1,0
+1,12,VfL Bochum 1848,1,0,1,2,-1
+1,13,Bayer 04 Leverkusen,1,0,0,1,-1
+1,14,TSG 1899 Hoffenheim,1,0,1,3,-2
+1,15,Hertha BSC,1,0,1,3,-2
+1,16,FC Schalke 04,1,0,1,3,-2
+1,17,FC Augsburg,1,0,0,4,-4
+1,18,Eintracht Frankfurt,1,0,1,6,-5
+1,1,Borussia Mönchengladbach,1,3,3,1,2
+1,2,1. FC Union Berlin,1,3,3,1,2
+1,3,1. FC Köln,1,3,3,1,2
+1,4,Borussia Dortmund,1,3,1,0,1
+1,5,VfL Wolfsburg,1,1,2,2,0
+1,6,VfB Stuttgart,1,1,1,1,0
+1,16,VfL Bochum 1848,1,0,1,2,-1
+1,17,FC Augsburg,1,0,0,4,-4
+1,18,Eintracht Frankfurt,1,0,1,6,-5
+1,1,FC Bayern München,1,3,6,1,5
+1,2,SC Freiburg,1,3,4,0,4
+1,3,1. FSV Mainz 05,1,3,2,1,1
+1,4,SV Werder Bremen,1,1,2,2,0
+1,5,RB Leipzig,1,1,1,1,0
+1,15,Bayer 04 Leverkusen,1,0,0,1,-1
+1,16,TSG 1899 Hoffenheim,1,0,1,3,-2
+1,17,Hertha BSC,1,0,1,3,-2
+1,18,FC Schalke 04,1,0,1,3,-2
+2,1,FC Bayern München,2,6,8,1,7
+2,2,Borussia Dortmund,2,6,4,1,3
+2,3,Borussia Mönchengladbach,2,4,5,3,2
+2,4,1. FC Köln,2,4,5,3,2
+2,5,1. FC Union Berlin,2,4,3,1,2
+2,6,1. FSV Mainz 05,2,4,2,1,1
+2,7,SC Freiburg,2,3,5,3,2
+2,8,TSG 1899 Hoffenheim,2,3,4,5,-1
+2,9,FC Augsburg,2,3,2,5,-3
+2,10,SV Werder Bremen,2,2,4,4,0
+2,11,VfB Stuttgart,2,2,3,3,0
+2,12,RB Leipzig,2,2,3,3,0
+2,13,FC Schalke 04,2,1,3,5,-2
+2,14,VfL Wolfsburg,2,1,2,4,-2
+2,15,Hertha BSC,2,1,2,4,-2
+2,16,Eintracht Frankfurt,2,1,2,7,-5
+2,17,VfL Bochum 1848,2,0,3,5,-2
+2,18,Bayer 04 Leverkusen,2,0,1,3,-2
+3,1,FC Bayern München,3,9,15,1,14
+3,2,Borussia Mönchengladbach,3,7,6,3,3
+3,3,1. FC Union Berlin,3,7,5,2,3
+3,4,1. FSV Mainz 05,3,7,4,2,2
+3,5,SC Freiburg,3,6,6,3,3
+3,6,TSG 1899 Hoffenheim,3,6,7,5,2
+3,7,Borussia Dortmund,3,6,6,4,2
+3,8,1. FC Köln,3,5,6,4,2
+3,9,SV Werder Bremen,3,5,7,6,1
+3,10,FC Augsburg,3,3,3,7,-4
+3,11,RB Leipzig,3,2,4,5,-1
+3,12,VfB Stuttgart,3,2,3,4,-1
+3,13,FC Schalke 04,3,2,3,5,-2
+3,14,VfL Wolfsburg,3,2,2,4,-2
+3,15,Eintracht Frankfurt,3,2,3,8,-5
+3,16,Hertha BSC,3,1,2,5,-3
+3,17,Bayer 04 Leverkusen,3,0,1,6,-5
+3,18,VfL Bochum 1848,3,0,3,12,-9
+4,1,FC Bayern München,4,10,16,2,14
+4,2,1. FC Union Berlin,4,10,11,3,8
+4,3,SC Freiburg,4,9,7,3,4
+4,4,TSG 1899 Hoffenheim,4,9,8,5,3
+4,5,Borussia Dortmund,4,9,7,4,3
+4,6,Borussia Mönchengladbach,4,8,7,4,3
+4,7,1. FSV Mainz 05,4,7,4,5,-1
+4,8,1. FC Köln,4,6,6,4,2
+4,9,RB Leipzig,4,5,6,5,1
+4,10,SV Werder Bremen,4,5,10,10,0
+4,11,Eintracht Frankfurt,4,5,7,11,-4
+4,12,VfB Stuttgart,4,3,3,4,-1
+4,13,Bayer 04 Leverkusen,4,3,4,6,-2
+4,14,FC Augsburg,4,3,3,8,-5
+4,15,VfL Wolfsburg,4,2,2,6,-4
+4,16,FC Schalke 04,4,2,4,11,-7
+4,17,Hertha BSC,4,1,2,6,-4
+4,18,VfL Bochum 1848,4,0,3,13,-10
+5,1,SC Freiburg,5,12,10,5,5
+5,2,Borussia Dortmund,5,12,8,4,4
+5,3,FC Bayern München,5,11,17,3,14
+5,4,1. FC Union Berlin,5,11,12,4,8
+5,5,1. FSV Mainz 05,5,10,5,5,0
+5,6,1. FC Köln,5,9,10,6,4
+5,7,TSG 1899 Hoffenheim,5,9,8,6,2
+5,8,SV Werder Bremen,5,8,12,10,2
+5,9,Borussia Mönchengladbach,5,8,7,5,2
+5,10,Eintracht Frankfurt,5,8,11,11,0
+5,11,RB Leipzig,5,5,6,9,-3
+5,12,VfB Stuttgart,5,4,4,5,-1
+5,13,Hertha BSC,5,4,4,6,-2
+5,14,Bayer 04 Leverkusen,5,3,6,9,-3
+5,15,FC Schalke 04,5,3,5,12,-7
+5,16,FC Augsburg,5,3,3,10,-7
+5,17,VfL Wolfsburg,5,2,4,10,-6
+5,18,VfL Bochum 1848,5,0,3,15,-12
+6,1,1. FC Union Berlin,6,14,13,4,9
+6,2,SC Freiburg,6,13,10,5,5
+6,3,FC Bayern München,6,12,19,5,14
+6,4,TSG 1899 Hoffenheim,6,12,12,7,5
+6,5,Borussia Dortmund,6,12,8,7,1
+6,6,1. FSV Mainz 05,6,10,6,9,-3
+6,7,1. FC Köln,6,9,10,7,3
+6,8,Borussia Mönchengladbach,6,9,7,5,2
+6,9,SV Werder Bremen,6,8,12,11,1
+6,10,RB Leipzig,6,8,9,9,0
+6,11,Eintracht Frankfurt,6,8,11,12,-1
+6,12,FC Schalke 04,6,6,8,13,-5
+6,13,FC Augsburg,6,6,4,10,-6
+6,14,VfB Stuttgart,6,5,6,7,-1
+6,15,Hertha BSC,6,5,6,8,-2
+6,16,VfL Wolfsburg,6,5,5,10,-5
+6,17,Bayer 04 Leverkusen,6,4,8,11,-3
+6,18,VfL Bochum 1848,6,0,4,18,-14
+7,1,1. FC Union Berlin,7,17,15,4,11
+7,2,Borussia Dortmund,7,15,9,7,2
+7,3,SC Freiburg,7,14,10,5,5
+7,4,TSG 1899 Hoffenheim,7,13,12,7,5
+7,5,FC Bayern München,7,12,19,6,13
+7,6,Borussia Mönchengladbach,7,12,10,5,5
+7,7,Eintracht Frankfurt,7,11,14,13,1
+7,8,1. FSV Mainz 05,7,11,7,10,-3
+7,9,1. FC Köln,7,10,11,8,3
+7,10,SV Werder Bremen,7,9,13,12,1
+7,11,FC Augsburg,7,9,5,10,-5
+7,12,RB Leipzig,7,8,9,12,-3
+7,13,Hertha BSC,7,6,7,9,-2
+7,14,FC Schalke 04,7,6,8,14,-6
+7,15,Bayer 04 Leverkusen,7,5,9,12,-3
+7,16,VfB Stuttgart,7,5,7,10,-3
+7,17,VfL Wolfsburg,7,5,5,12,-7
+7,18,VfL Bochum 1848,7,1,5,19,-14
+8,1,1. FC Union Berlin,8,17,15,6,9
+8,2,SC Freiburg,8,17,12,6,6
+8,3,FC Bayern München,8,15,23,6,17
+8,4,Borussia Dortmund,8,15,11,10,1
+8,5,TSG 1899 Hoffenheim,8,14,13,8,5
+8,6,Eintracht Frankfurt,8,14,16,13,3
+8,7,1. FC Köln,8,13,14,10,4
+8,8,SV Werder Bremen,8,12,18,13,5
+8,9,Borussia Mönchengladbach,8,12,11,10,1
+8,10,FC Augsburg,8,12,8,12,-4
+8,11,RB Leipzig,8,11,13,12,1
+8,12,1. FSV Mainz 05,8,11,8,12,-4
+8,13,VfL Wolfsburg,8,8,8,14,-6
+8,14,Hertha BSC,8,7,8,10,-2
+8,15,FC Schalke 04,8,6,10,17,-7
+8,16,VfB Stuttgart,8,5,9,13,-4
+8,17,Bayer 04 Leverkusen,8,5,9,16,-7
+8,18,VfL Bochum 1848,8,1,5,23,-18
+9,1,1. FC Union Berlin,9,20,16,6,10
+9,2,SC Freiburg,9,18,14,8,6
+9,3,FC Bayern München,9,16,25,8,17
+9,4,Borussia Dortmund,9,16,13,12,1
+9,5,SV Werder Bremen,9,15,20,14,6
+9,6,Borussia Mönchengladbach,9,15,16,12,4
+9,7,TSG 1899 Hoffenheim,9,14,14,10,4
+9,8,Eintracht Frankfurt,9,14,16,16,0
+9,9,1. FC Köln,9,13,16,15,1
+9,10,FC Augsburg,9,13,9,13,-4
+9,11,RB Leipzig,9,12,14,13,1
+9,12,1. FSV Mainz 05,9,12,9,13,-4
+9,13,VfL Wolfsburg,9,9,9,15,-6
+9,14,Hertha BSC,9,8,10,12,-2
+9,15,Bayer 04 Leverkusen,9,8,13,16,-3
+9,16,FC Schalke 04,9,6,10,21,-11
+9,17,VfB Stuttgart,9,5,9,14,-5
+9,18,VfL Bochum 1848,9,4,8,23,-15
+10,1,1. FC Union Berlin,10,23,18,6,12
+10,2,FC Bayern München,10,19,30,8,22
+10,3,SC Freiburg,10,18,14,13,1
+10,4,TSG 1899 Hoffenheim,10,17,17,10,7
+10,5,Eintracht Frankfurt,10,17,21,17,4
+10,6,Borussia Mönchengladbach,10,16,18,14,4
+10,7,1. FC Köln,10,16,19,17,2
+10,8,Borussia Dortmund,10,16,13,14,-1
+10,9,SV Werder Bremen,10,15,20,16,4
+10,10,RB Leipzig,10,15,17,15,2
+10,11,1. FSV Mainz 05,10,15,11,13,-2
+10,12,FC Augsburg,10,13,11,16,-5
+10,13,VfL Wolfsburg,10,10,11,17,-6
+10,14,VfB Stuttgart,10,8,13,15,-2
+10,15,Hertha BSC,10,8,12,15,-3
+10,16,Bayer 04 Leverkusen,10,8,14,21,-7
+10,17,FC Schalke 04,10,6,10,24,-14
+10,18,VfL Bochum 1848,10,4,9,27,-18
+11,1,1. FC Union Berlin,11,23,19,8,11
+11,2,FC Bayern München,11,22,32,8,24
+11,3,SC Freiburg,11,21,16,13,3
+11,4,Eintracht Frankfurt,11,20,24,18,6
+11,5,Borussia Dortmund,11,19,18,14,4
+11,6,1. FSV Mainz 05,11,18,16,13,3
+11,7,TSG 1899 Hoffenheim,11,17,17,12,5
+11,8,RB Leipzig,11,16,20,18,2
+11,9,Borussia Mönchengladbach,11,16,19,17,2
+11,10,1. FC Köln,11,16,19,22,-3
+11,11,SV Werder Bremen,11,15,20,18,2
+11,12,FC Augsburg,11,14,14,19,-5
+11,13,Hertha BSC,11,11,14,16,-2
+11,14,VfL Wolfsburg,11,11,13,19,-6
+11,15,Bayer 04 Leverkusen,11,9,16,23,-7
+11,16,VfB Stuttgart,11,8,13,20,-7
+11,17,VfL Bochum 1848,11,7,11,28,-17
+11,18,FC Schalke 04,11,6,11,26,-15
+12,1,1. FC Union Berlin,12,26,21,9,12
+12,2,FC Bayern München,12,25,38,10,28
+12,3,SC Freiburg,12,24,18,13,5
+12,4,Borussia Dortmund,12,22,20,15,5
+12,5,Eintracht Frankfurt,12,20,25,20,5
+12,6,RB Leipzig,12,19,22,18,4
+12,7,TSG 1899 Hoffenheim,12,18,18,13,5
+12,8,SV Werder Bremen,12,18,21,18,3
+12,9,1. FSV Mainz 05,12,18,18,19,-1
+12,10,1. FC Köln,12,17,20,23,-3
+12,11,Borussia Mönchengladbach,12,16,20,19,1
+12,12,VfL Wolfsburg,12,14,17,19,-2
+12,13,FC Augsburg,12,14,15,21,-6
+12,14,Hertha BSC,12,11,14,17,-3
+12,15,VfB Stuttgart,12,11,15,21,-6
+12,16,Bayer 04 Leverkusen,12,9,16,25,-9
+12,17,VfL Bochum 1848,12,7,11,32,-21
+12,18,FC Schalke 04,12,6,11,28,-17
+13,1,FC Bayern München,13,28,41,12,29
+13,2,SC Freiburg,13,27,20,13,7
+13,3,1. FC Union Berlin,13,26,21,14,7
+13,4,Borussia Dortmund,13,25,23,15,8
+13,5,Eintracht Frankfurt,13,23,27,21,6
+13,6,RB Leipzig,13,22,25,19,6
+13,7,SV Werder Bremen,13,21,23,19,4
+13,8,Borussia Mönchengladbach,13,19,23,20,3
+13,9,TSG 1899 Hoffenheim,13,18,19,16,3
+13,10,1. FSV Mainz 05,13,18,18,22,-4
+13,11,VfL Wolfsburg,13,17,20,19,1
+13,12,1. FC Köln,13,17,20,25,-5
+13,13,FC Augsburg,13,14,16,23,-7
+13,14,Bayer 04 Leverkusen,13,12,21,25,-4
+13,15,Hertha BSC,13,11,16,20,-4
+13,16,VfB Stuttgart,13,11,16,24,-8
+13,17,VfL Bochum 1848,13,7,11,35,-24
+13,18,FC Schalke 04,13,6,12,30,-18
+14,1,FC Bayern München,14,31,47,13,34
+14,2,1. FC Union Berlin,14,27,23,16,7
+14,3,SC Freiburg,14,27,21,16,5
+14,4,Eintracht Frankfurt,14,26,31,23,8
+14,5,RB Leipzig,14,25,28,20,8
+14,6,Borussia Dortmund,14,25,23,17,6
+14,7,SV Werder Bremen,14,21,24,25,-1
+14,8,VfL Wolfsburg,14,20,22,19,3
+14,9,Borussia Mönchengladbach,14,19,24,22,2
+14,10,TSG 1899 Hoffenheim,14,18,21,20,1
+14,11,1. FSV Mainz 05,14,18,18,23,-5
+14,12,1. FC Köln,14,17,21,27,-6
+14,13,Bayer 04 Leverkusen,14,15,23,26,-3
+14,14,FC Augsburg,14,15,18,25,-7
+14,15,VfB Stuttgart,14,14,18,25,-7
+14,16,Hertha BSC,14,11,17,22,-5
+14,17,VfL Bochum 1848,14,10,13,36,-23
+14,18,FC Schalke 04,14,9,13,30,-17
+15,1,FC Bayern München,15,34,49,13,36
+15,2,SC Freiburg,15,30,25,17,8
+15,3,RB Leipzig,15,28,30,21,9
+15,4,Eintracht Frankfurt,15,27,32,24,8
+15,5,1. FC Union Berlin,15,27,24,20,4
+15,6,Borussia Dortmund,15,25,25,21,4
+15,7,VfL Wolfsburg,15,23,24,20,4
+15,8,Borussia Mönchengladbach,15,22,28,24,4
+15,9,SV Werder Bremen,15,21,25,27,-2
+15,10,1. FSV Mainz 05,15,19,19,24,-5
+15,11,TSG 1899 Hoffenheim,15,18,22,22,0
+15,12,Bayer 04 Leverkusen,15,18,25,26,-1
+15,13,1. FC Köln,15,17,21,29,-8
+15,14,FC Augsburg,15,15,18,26,-8
+15,15,Hertha BSC,15,14,19,22,-3
+15,16,VfB Stuttgart,15,14,18,27,-9
+15,17,VfL Bochum 1848,15,13,14,36,-22
+15,18,FC Schalke 04,15,9,13,32,-19
+16,1,FC Bayern München,16,35,50,14,36
+16,2,Eintracht Frankfurt,16,30,35,24,11
+16,3,1. FC Union Berlin,16,30,27,21,6
+16,4,SC Freiburg,16,30,25,23,2
+16,5,RB Leipzig,16,29,31,22,9
+16,6,Borussia Dortmund,16,28,29,24,5
+16,7,VfL Wolfsburg,16,26,30,20,10
+16,8,Borussia Mönchengladbach,16,22,30,27,3
+16,9,Bayer 04 Leverkusen,16,21,28,28,0
+16,10,SV Werder Bremen,16,21,26,34,-8
+16,11,1. FC Köln,16,20,28,30,-2
+16,12,1. FSV Mainz 05,16,20,20,25,-5
+16,13,TSG 1899 Hoffenheim,16,18,23,25,-2
+16,14,VfL Bochum 1848,16,16,17,37,-20
+16,15,FC Augsburg,16,15,21,30,-9
+16,16,VfB Stuttgart,16,15,19,28,-9
+16,17,Hertha BSC,16,14,20,25,-5
+16,18,FC Schalke 04,16,9,13,35,-22
+17,1,FC Bayern München,17,36,51,15,36
+17,2,1. FC Union Berlin,17,33,29,22,7
+17,3,RB Leipzig,17,32,37,23,14
+17,4,Eintracht Frankfurt,17,31,36,25,11
+17,5,Borussia Dortmund,17,31,31,25,6
+17,6,SC Freiburg,17,31,26,24,2
+17,7,VfL Wolfsburg,17,29,35,20,15
+17,8,Bayer 04 Leverkusen,17,24,30,28,2
+17,9,Borussia Mönchengladbach,17,22,30,28,2
+17,10,1. FC Köln,17,21,29,31,-2
+17,11,SV Werder Bremen,17,21,27,36,-9
+17,12,1. FSV Mainz 05,17,20,21,27,-6
+17,13,TSG 1899 Hoffenheim,17,19,25,27,-2
+17,14,FC Augsburg,17,18,22,30,-8
+17,15,VfB Stuttgart,17,16,21,30,-9
+17,16,VfL Bochum 1848,17,16,17,39,-22
+17,17,Hertha BSC,17,14,20,30,-10
+17,18,FC Schalke 04,17,9,14,41,-27
+18,1,FC Bayern München,18,37,52,16,36
+18,2,1. FC Union Berlin,18,36,31,22,9
+18,3,RB Leipzig,18,35,39,24,15
+18,4,Borussia Dortmund,18,34,33,25,8
+18,5,SC Freiburg,18,34,29,25,4
+18,6,Eintracht Frankfurt,18,32,37,26,11
+18,7,VfL Wolfsburg,18,29,36,22,14
+18,8,Borussia Mönchengladbach,18,25,34,29,5
+18,9,Bayer 04 Leverkusen,18,24,30,30,0
+18,10,SV Werder Bremen,18,24,29,37,-8
+18,11,1. FSV Mainz 05,18,23,26,29,-3
+18,12,1. FC Köln,18,22,29,31,-2
+18,13,TSG 1899 Hoffenheim,18,19,26,31,-5
+18,14,FC Augsburg,18,18,23,33,-10
+18,15,VfB Stuttgart,18,16,22,32,-10
+18,16,VfL Bochum 1848,18,16,19,44,-25
+18,17,Hertha BSC,18,14,20,32,-12
+18,18,FC Schalke 04,18,10,14,41,-27
+19,1,FC Bayern München,19,40,56,18,38
+19,2,1. FC Union Berlin,19,39,33,23,10
+19,3,Borussia Dortmund,19,37,38,26,12
+19,4,RB Leipzig,19,36,39,24,15
+19,5,Eintracht Frankfurt,19,35,40,26,14
+19,6,SC Freiburg,19,34,30,30,0
+19,7,VfL Wolfsburg,19,29,38,26,12
+19,8,SV Werder Bremen,19,27,31,37,-6
+19,9,Borussia Mönchengladbach,19,26,34,29,5
+19,10,Bayer 04 Leverkusen,19,24,30,31,-1
+19,11,1. FC Köln,19,23,29,31,-2
+19,12,1. FSV Mainz 05,19,23,27,31,-4
+19,13,FC Augsburg,19,21,24,33,-9
+19,14,TSG 1899 Hoffenheim,19,19,28,36,-8
+19,15,VfL Bochum 1848,19,19,24,46,-22
+19,16,VfB Stuttgart,19,16,22,34,-12
+19,17,Hertha BSC,19,14,20,35,-15
+19,18,FC Schalke 04,19,11,14,41,-27
+20,1,FC Bayern München,20,43,59,18,41
+20,2,1. FC Union Berlin,20,42,35,24,11
+20,3,Borussia Dortmund,20,40,40,26,14
+20,4,SC Freiburg,20,37,32,31,1
+20,5,RB Leipzig,20,36,40,26,14
+20,6,Eintracht Frankfurt,20,35,40,29,11
+20,7,VfL Wolfsburg,20,30,38,26,12
+20,8,Bayer 04 Leverkusen,20,27,33,32,1
+20,9,SV Werder Bremen,20,27,31,39,-8
+20,10,Borussia Mönchengladbach,20,26,35,33,2
+20,11,1. FC Köln,20,26,32,31,1
+20,12,1. FSV Mainz 05,20,26,30,32,-2
+20,13,FC Augsburg,20,21,25,36,-11
+20,14,TSG 1899 Hoffenheim,20,19,29,39,-10
+20,15,VfL Bochum 1848,20,19,24,49,-25
+20,16,Hertha BSC,20,17,24,36,-12
+20,17,VfB Stuttgart,20,16,23,36,-13
+20,18,FC Schalke 04,20,12,14,41,-27
+21,1,FC Bayern München,21,43,61,21,40
+21,2,Borussia Dortmund,21,43,44,27,17
+21,3,1. FC Union Berlin,21,43,35,24,11
+21,4,SC Freiburg,21,40,34,31,3
+21,5,RB Leipzig,21,39,43,26,17
+21,6,Eintracht Frankfurt,21,38,42,29,13
+21,7,VfL Wolfsburg,21,30,38,29,9
+21,8,Borussia Mönchengladbach,21,29,38,35,3
+21,9,1. FSV Mainz 05,21,29,33,34,-1
+21,10,Bayer 04 Leverkusen,21,27,35,35,0
+21,11,SV Werder Bremen,21,27,31,41,-10
+21,12,1. FC Köln,21,26,32,34,-2
+21,13,FC Augsburg,21,24,26,36,-10
+21,14,VfB Stuttgart,21,19,26,36,-10
+21,15,TSG 1899 Hoffenheim,21,19,29,40,-11
+21,16,VfL Bochum 1848,21,19,24,51,-27
+21,17,Hertha BSC,21,17,25,40,-15
+21,18,FC Schalke 04,21,13,14,41,-27
+22,1,FC Bayern München,22,46,64,21,43
+22,2,Borussia Dortmund,22,46,45,27,18
+22,3,1. FC Union Berlin,22,43,35,27,8
+22,4,RB Leipzig,22,42,45,27,18
+22,5,SC Freiburg,22,41,35,32,3
+22,6,Eintracht Frankfurt,22,38,43,31,12
+22,7,VfL Wolfsburg,22,33,40,29,11
+22,8,1. FSV Mainz 05,22,32,37,34,3
+22,9,SV Werder Bremen,22,30,34,41,-7
+22,10,Borussia Mönchengladbach,22,29,38,39,-1
+22,11,Bayer 04 Leverkusen,22,28,36,36,0
+22,12,1. FC Köln,22,26,32,36,-4
+22,13,FC Augsburg,22,24,26,38,-12
+22,14,Hertha BSC,22,20,27,40,-13
+22,15,VfB Stuttgart,22,19,27,38,-11
+22,16,TSG 1899 Hoffenheim,22,19,29,41,-12
+22,17,VfL Bochum 1848,22,19,24,54,-30
+22,18,FC Schalke 04,22,16,16,42,-26
+23,1,FC Bayern München,23,49,66,22,44
+23,2,Borussia Dortmund,23,49,47,28,19
+23,3,1. FC Union Berlin,23,44,35,27,8
+23,4,RB Leipzig,23,42,46,29,17
+23,5,SC Freiburg,23,42,35,32,3
+23,6,Eintracht Frankfurt,23,39,45,33,12
+23,7,1. FSV Mainz 05,23,35,38,34,4
+23,8,VfL Wolfsburg,23,34,42,31,11
+23,9,Bayer 04 Leverkusen,23,31,40,37,3
+23,10,Borussia Mönchengladbach,23,30,38,39,-1
+23,11,SV Werder Bremen,23,30,35,43,-8
+23,12,1. FC Köln,23,27,32,36,-4
+23,13,FC Augsburg,23,27,28,39,-11
+23,14,Hertha BSC,23,20,28,44,-16
+23,15,VfB Stuttgart,23,19,28,40,-12
+23,16,TSG 1899 Hoffenheim,23,19,29,42,-13
+23,17,FC Schalke 04,23,19,18,42,-24
+23,18,VfL Bochum 1848,23,19,24,56,-32
+24,1,FC Bayern München,24,52,71,25,46
+24,2,Borussia Dortmund,24,50,49,30,19
+24,3,RB Leipzig,24,45,49,29,20
+24,4,1. FC Union Berlin,24,45,36,28,8
+24,5,SC Freiburg,24,45,37,33,4
+24,6,Eintracht Frankfurt,24,40,46,34,12
+24,7,1. FSV Mainz 05,24,36,39,35,4
+24,8,VfL Wolfsburg,24,35,43,32,11
+24,9,Bayer 04 Leverkusen,24,34,43,39,4
+24,10,Borussia Mönchengladbach,24,30,38,42,-4
+24,11,SV Werder Bremen,24,30,37,46,-9
+24,12,1. FC Köln,24,27,32,38,-6
+24,13,FC Augsburg,24,27,31,44,-13
+24,14,VfL Bochum 1848,24,22,26,56,-30
+24,15,Hertha BSC,24,21,29,45,-16
+24,16,VfB Stuttgart,24,20,29,41,-12
+24,17,FC Schalke 04,24,20,20,44,-24
+24,18,TSG 1899 Hoffenheim,24,19,30,44,-14
+25,1,Borussia Dortmund,25,53,55,31,24
+25,2,FC Bayern München,25,52,72,27,45
+25,3,1. FC Union Berlin,25,48,38,28,10
+25,4,SC Freiburg,25,46,38,34,4
+25,5,RB Leipzig,25,45,49,30,19
+25,6,Eintracht Frankfurt,25,40,46,36,10
+25,7,VfL Wolfsburg,25,38,44,32,12
+25,8,Bayer 04 Leverkusen,25,37,45,40,5
+25,9,1. FSV Mainz 05,25,37,40,36,4
+25,10,Borussia Mönchengladbach,25,31,40,44,-4
+25,11,SV Werder Bremen,25,31,39,48,-9
+25,12,FC Augsburg,25,28,32,45,-13
+25,13,1. FC Köln,25,27,33,44,-11
+25,14,VfL Bochum 1848,25,25,27,56,-29
+25,15,TSG 1899 Hoffenheim,25,22,33,45,-12
+25,16,Hertha BSC,25,21,30,48,-18
+25,17,FC Schalke 04,25,21,21,45,-24
+25,18,VfB Stuttgart,25,20,29,42,-13
+26,1,FC Bayern München,26,55,76,29,47
+26,2,Borussia Dortmund,26,53,57,35,22
+26,3,1. FC Union Berlin,26,51,41,28,13
+26,4,SC Freiburg,26,47,39,35,4
+26,5,RB Leipzig,26,45,49,33,16
+26,6,Eintracht Frankfurt,26,41,47,37,10
+26,7,Bayer 04 Leverkusen,26,40,48,40,8
+26,8,1. FSV Mainz 05,26,40,43,36,7
+26,9,VfL Wolfsburg,26,39,46,34,12
+26,10,Borussia Mönchengladbach,26,32,40,44,-4
+26,11,SV Werder Bremen,26,31,40,50,-10
+26,12,FC Augsburg,26,29,34,47,-13
+26,13,1. FC Köln,26,28,33,44,-11
+26,14,VfL Bochum 1848,26,26,28,57,-29
+26,15,TSG 1899 Hoffenheim,26,25,35,46,-11
+26,16,Hertha BSC,26,22,31,49,-18
+26,17,FC Schalke 04,26,21,21,48,-27
+26,18,VfB Stuttgart,26,20,29,45,-16
+27,1,FC Bayern München,27,58,77,29,48
+27,2,Borussia Dortmund,27,56,59,36,23
+27,3,1. FC Union Berlin,27,51,42,30,12
+27,4,RB Leipzig,27,48,50,33,17
+27,5,SC Freiburg,27,47,39,36,3
+27,6,Bayer 04 Leverkusen,27,43,51,41,10
+27,7,Eintracht Frankfurt,27,41,48,40,8
+27,8,1. FSV Mainz 05,27,41,45,38,7
+27,9,VfL Wolfsburg,27,39,46,36,10
+27,10,Borussia Mönchengladbach,27,35,42,44,-2
+27,11,SV Werder Bremen,27,32,42,52,-10
+27,12,1. FC Köln,27,31,36,45,-9
+27,13,FC Augsburg,27,29,35,50,-15
+27,14,TSG 1899 Hoffenheim,27,28,37,46,-9
+27,15,VfL Bochum 1848,27,26,30,60,-30
+27,16,VfB Stuttgart,27,23,32,47,-15
+27,17,Hertha BSC,27,22,31,50,-19
+27,18,FC Schalke 04,27,21,21,50,-29
+28,1,FC Bayern München,28,59,78,30,48
+28,2,Borussia Dortmund,28,57,62,39,23
+28,3,1. FC Union Berlin,28,52,43,31,12
+28,4,RB Leipzig,28,51,53,35,18
+28,5,SC Freiburg,28,50,41,37,4
+28,6,Bayer 04 Leverkusen,28,44,51,41,10
+28,7,Eintracht Frankfurt,28,42,49,41,8
+28,8,1. FSV Mainz 05,28,42,46,39,7
+28,9,VfL Wolfsburg,28,40,46,36,10
+28,10,Borussia Mönchengladbach,28,36,43,45,-2
+28,11,1. FC Köln,28,32,37,46,-9
+28,12,SV Werder Bremen,28,32,43,54,-11
+28,13,TSG 1899 Hoffenheim,28,29,38,47,-9
+28,14,FC Augsburg,28,29,37,53,-16
+28,15,VfL Bochum 1848,28,27,31,61,-30
+28,16,VfB Stuttgart,28,24,35,50,-15
+28,17,FC Schalke 04,28,24,26,52,-26
+28,18,Hertha BSC,28,22,33,55,-22
+29,1,Borussia Dortmund,29,60,66,39,27
+29,2,FC Bayern München,29,59,79,33,46
+29,3,1. FC Union Berlin,29,55,44,31,13
+29,4,SC Freiburg,29,53,45,37,8
+29,5,RB Leipzig,29,51,53,37,16
+29,6,Bayer 04 Leverkusen,29,47,53,41,12
+29,7,1. FSV Mainz 05,29,45,49,40,9
+29,8,VfL Wolfsburg,29,43,51,37,14
+29,9,Eintracht Frankfurt,29,42,49,45,4
+29,10,Borussia Mönchengladbach,29,36,43,46,-3
+29,11,1. FC Köln,29,35,40,47,-7
+29,12,SV Werder Bremen,29,35,47,56,-9
+29,13,FC Augsburg,29,30,38,54,-16
+29,14,TSG 1899 Hoffenheim,29,29,39,50,-11
+29,15,VfL Bochum 1848,29,27,32,66,-34
+29,16,VfB Stuttgart,29,25,36,51,-15
+29,17,FC Schalke 04,29,24,26,56,-30
+29,18,Hertha BSC,29,22,35,59,-24
+30,1,FC Bayern München,30,62,81,33,48
+30,2,Borussia Dortmund,30,61,67,40,27
+30,3,1. FC Union Berlin,30,56,44,31,13
+30,4,SC Freiburg,30,56,46,37,9
+30,5,RB Leipzig,30,54,54,37,17
+30,6,Bayer 04 Leverkusen,30,48,53,41,12
+30,7,VfL Wolfsburg,30,46,54,37,17
+30,8,1. FSV Mainz 05,30,45,49,43,6
+30,9,Eintracht Frankfurt,30,43,50,46,4
+30,10,Borussia Mönchengladbach,30,36,44,48,-4
+30,11,1. FC Köln,30,35,40,48,-8
+30,12,SV Werder Bremen,30,35,48,58,-10
+30,13,FC Augsburg,30,31,39,55,-16
+30,14,TSG 1899 Hoffenheim,30,29,39,51,-12
+30,15,VfB Stuttgart,30,28,38,52,-14
+30,16,VfL Bochum 1848,30,28,33,67,-34
+30,17,FC Schalke 04,30,27,28,57,-29
+30,18,Hertha BSC,30,22,35,61,-26
+31,1,FC Bayern München,31,65,83,34,49
+31,2,Borussia Dortmund,31,64,73,40,33
+31,3,RB Leipzig,31,57,55,37,18
+31,4,1. FC Union Berlin,31,56,44,32,12
+31,5,SC Freiburg,31,56,46,38,8
+31,6,Bayer 04 Leverkusen,31,48,54,43,11
+31,7,VfL Wolfsburg,31,46,54,43,11
+31,8,1. FSV Mainz 05,31,45,51,46,5
+31,9,Eintracht Frankfurt,31,43,51,49,2
+31,10,Borussia Mönchengladbach,31,39,46,48,-2
+31,11,1. FC Köln,31,38,42,49,-7
+31,12,SV Werder Bremen,31,35,49,60,-11
+31,13,FC Augsburg,31,34,40,55,-15
+31,14,TSG 1899 Hoffenheim,31,32,42,52,-10
+31,15,FC Schalke 04,31,30,31,59,-28
+31,16,VfB Stuttgart,31,28,39,54,-15
+31,17,VfL Bochum 1848,31,28,33,69,-36
+31,18,Hertha BSC,31,25,37,62,-25
+32,1,FC Bayern München,32,68,89,34,55
+32,2,Borussia Dortmund,32,67,78,42,36
+32,3,RB Leipzig,32,60,57,38,19
+32,4,1. FC Union Berlin,32,59,48,34,14
+32,5,SC Freiburg,32,56,48,42,6
+32,6,VfL Wolfsburg,32,49,56,44,12
+32,7,Bayer 04 Leverkusen,32,49,55,44,11
+32,8,Eintracht Frankfurt,32,46,54,49,5
+32,9,1. FSV Mainz 05,32,45,51,49,2
+32,10,1. FC Köln,32,41,47,51,-4
+32,11,Borussia Mönchengladbach,32,39,48,53,-5
+32,12,SV Werder Bremen,32,35,50,62,-12
+32,13,FC Augsburg,32,34,42,58,-16
+32,14,TSG 1899 Hoffenheim,32,32,43,54,-11
+32,15,VfL Bochum 1848,32,31,36,71,-35
+32,16,FC Schalke 04,32,30,31,65,-34
+32,17,VfB Stuttgart,32,29,40,55,-15
+32,18,Hertha BSC,32,25,39,67,-28
+33,1,Borussia Dortmund,33,70,81,42,39
+33,2,FC Bayern München,33,68,90,37,53
+33,3,RB Leipzig,33,63,60,39,21
+33,4,1. FC Union Berlin,33,59,50,38,12
+33,5,SC Freiburg,33,59,50,42,8
+33,6,Bayer 04 Leverkusen,33,50,57,46,11
+33,7,VfL Wolfsburg,33,49,56,46,10
+33,8,Eintracht Frankfurt,33,47,56,51,5
+33,9,1. FSV Mainz 05,33,45,52,53,-1
+33,10,1. FC Köln,33,42,48,52,-4
+33,11,Borussia Mönchengladbach,33,40,50,55,-5
+33,12,SV Werder Bremen,33,36,51,63,-12
+33,13,TSG 1899 Hoffenheim,33,35,47,56,-9
+33,14,FC Augsburg,33,34,42,61,-19
+33,15,VfB Stuttgart,33,32,44,56,-12
+33,16,VfL Bochum 1848,33,32,37,72,-35
+33,17,FC Schalke 04,33,31,33,67,-34
+33,18,Hertha BSC,33,26,40,68,-28
+34,1,FC Bayern München,34,71,92,38,54
+34,2,Borussia Dortmund,34,71,83,44,39
+34,3,RB Leipzig,34,66,64,41,23
+34,4,1. FC Union Berlin,34,62,51,38,13
+34,5,SC Freiburg,34,59,51,44,7
+34,6,Bayer 04 Leverkusen,34,50,57,49,8
+34,7,Eintracht Frankfurt,34,50,58,52,6
+34,8,VfL Wolfsburg,34,49,57,48,9
+34,9,1. FSV Mainz 05,34,46,54,55,-1
+34,10,Borussia Mönchengladbach,34,43,52,55,-3
+34,11,1. FC Köln,34,42,49,54,-5
+34,12,TSG 1899 Hoffenheim,34,36,48,57,-9
+34,13,SV Werder Bremen,34,36,51,64,-13
+34,14,VfL Bochum 1848,34,35,40,72,-32
+34,15,FC Augsburg,34,34,42,63,-21
+34,16,VfB Stuttgart,34,33,45,57,-12
+34,17,FC Schalke 04,34,31,35,71,-36
+34,18,Hertha BSC,34,29,42,69,-27
