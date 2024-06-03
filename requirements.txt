@@ -1,1 +1,7 @@
-%This is the requirements file
+tkinter
+pandas
+requests
+time
+matplotlib.pyplot
+tabulate
+os
