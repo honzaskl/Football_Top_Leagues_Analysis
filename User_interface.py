@@ -4,7 +4,7 @@ from tkinter import messagebox
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Define a mapping for league codes
+# We define a mapping for league codes
 league_codes = {
     "Premiere League": "PL",
     "La Liga": "PD",
@@ -13,7 +13,8 @@ league_codes = {
     "League 1": "FL1"
 }
 
-# Classes for each type of visualization
+# Here we define classes for each type of visualization
+# For plotting progressive ranking throughout the season
 class Plot_Ranking_Progression:
     def __init__(self, season, league_code, team_names):
         self.season = season
@@ -51,6 +52,7 @@ class Plot_Ranking_Progression:
         plt.legend(loc='lower right')
         plt.show()
 
+# For plotting progressive point collection throughout the season
 class Plot_Point_Progression:
     def __init__(self, season, league_code, team_names):
         self.season = season
@@ -86,6 +88,7 @@ class Plot_Point_Progression:
         plt.legend(loc='lower right')
         plt.show()
 
+# For plotting top 10 goal scorers in the particular league - visible in the terminal
 class Print_TopScorers:
     def __init__(self, season, league_code):
         self.season = season
@@ -101,6 +104,7 @@ class Print_TopScorers:
         top_scorers_df = self.load_data()
         print(top_scorers_df)
 
+# Plotting graph for point collection at Home and Away
 class Plot_Home_Away:
     def __init__(self, league_code, season, team_names):
         self.league_code = league_code
@@ -163,15 +167,15 @@ class Plot_Home_Away:
         plt.legend(loc='best')
         plt.show()
 
-# Create the main window
+# We create the first window
 root = tkinter.Tk()
 root.title("Football League Selector")
 
-# Create a frame
+# Then we create a frame
 frame = tkinter.Frame(root)
 frame.pack()
 
-# Labels
+# Here we create labels for the first window
 info_frame = tkinter.LabelFrame(frame, text="Input information")
 info_frame.grid(row=0, column=0, padx=20, pady=10)
 
@@ -181,11 +185,11 @@ league_label.grid(row=0, column=0)
 season_label = tkinter.Label(info_frame, text="Season:")
 season_label.grid(row=0, column=1)
 
-# Combobox for choosing a league
+# Creating combobox for choosing a league
 league_combobox = ttk.Combobox(info_frame, values=list(league_codes.keys()))
 league_combobox.grid(row=1, column=0)
 
-# Spinbox for choosing a season
+# Creating spinbox for choosing a season
 season_spinbox = tkinter.Spinbox(info_frame, from_=2020, to=2023)
 season_spinbox.grid(row=1, column=1)
 
@@ -194,10 +198,11 @@ def display_teams_window(main_window, teams, league, season):
     teams_window = tkinter.Toplevel(main_window)
     teams_window.title("Select Teams")
 
-    # Frame for teams
+    # Frame for second window
     teams_frame = tkinter.Frame(teams_window)
     teams_frame.pack()
 
+    # inputting teams from the concrete CSV file into list
     vars = []
     for index, team in enumerate(teams):
         var = tkinter.IntVar()
@@ -205,13 +210,15 @@ def display_teams_window(main_window, teams, league, season):
         cb.grid(row=index // 5, column=index % 5, sticky='w')
         vars.append((team, var))
 
-    # Analysis options
+    # Analysis options label
     analysis_label = tkinter.Label(teams_window, text="Analysis options", font=('Helvetica', 10, 'bold'))
     analysis_label.pack()
 
+    # Second frame in the second window for analysis options
     analysis_frame = tkinter.Frame(teams_window)
     analysis_frame.pack()
 
+    #inputting the options from a list into the window
     analysis_options = [
         "Team rankings",
         "Team points progression",
@@ -225,6 +232,7 @@ def display_teams_window(main_window, teams, league, season):
         cb.grid(row=0, column=index, sticky='w')
         analysis_vars.append((option, var))
 
+    # Function that plot the selected teams in the chosen analysis options
     def on_submit():
         selected_teams = [team for team, var in vars if var.get() == 1]
         selected_analysis = [option for option, var in analysis_vars if var.get() == 1]
@@ -249,6 +257,7 @@ def display_teams_window(main_window, teams, league, season):
             teams_window.destroy()
             main_window.destroy()
 
+    # Submitting button
     submit_btn = tkinter.Button(teams_window, text="Show", command=on_submit)
     submit_btn.pack()
 
