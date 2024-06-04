@@ -1,6 +1,4 @@
 pandas
 requests
-time
-matplotlib.pyplot
+matplotlib
 tabulate
-os
