@@ -1,4 +1,4 @@
-# Project Football-top-leagues-analysis
+# Football-Top-Leagues-Analysis
 Welcome to our Python project for “Data Processing in Python” (JEM207) aimed at analyzing the performances of football teams in top 5 leagues in Europe across various seasons, including dynamic progressions and top scorers. We prepared a module that allows users to choose the individual league and season. Next, user has a possibility to choose several teams involved in that particular league and season and further type of analysis desired. The module will take into account all the inputs and either in a form of a graphic visualisation or a table it will display the progressive performance of the desired teams in terms of rank position, season points collection and the division of performaces at a home court and away.
 
 The ultimate goal is to provide a deeper analysis of football leagues that is not given right away and could serve for personal use as well as giving you a more thorough understanding of the particular seasons went. Hopefully it will meet user's requirements a we wish you all the joy with our project.
@@ -14,12 +14,12 @@ cd file_path
 </pre>
 Press enter to execute. To clone the repository use the following command and execute.
 <pre>
-git clone https://github.com/honzaskl/Project_football_top_leagues_analysis.git
+git clone https://github.com/honzaskl/Football_Top_Leagues_Analysis.git
 </pre>
 
 3. To open the project, go to the file where you cloned the repository (it should be your "file_path" from step two) using the following command for example.
 <pre>
-cd Project_football_top_leagues_analysis
+cd Football_Top_Leagues_Analysis
 </pre>
 
 4. Install all required libraries specified in the "requirements.txt" using the following command. After this step, you should be able to run all the files without any other issues. 
@@ -27,7 +27,7 @@ cd Project_football_top_leagues_analysis
 pip install -r requirements.txt
 </pre>
 
-5. To open the user interface, please run the file "User-interface.py" (you can find it in the "Running Python" folder) using your preferred code editor/runner (for example Virtual Studio Code - https://code.visualstudio.com/download). 
+5. To open the user interface, please run the file "User_interface.py" (you can find it in the "Running Python" folder) using your preferred code editor/runner (for example Virtual Studio Code - https://code.visualstudio.com/download). 
 
 6. Further proceed as described in the following section "How does user interface work?". 
 
@@ -43,7 +43,7 @@ Our data is sourced from the robust football database available at https://api.f
 
 The stored data is organized into individual files to facilitate easy and quick data retrieval based on user selections. Each file follows a specific naming convention to aid in identifying the required dataset accurately. For example, files related to general season rank or points obtained are named using the format "short-league-name_season.csv". In contrast, files containing data for top goal scorers are named "short-league-name_season_Topscorers.csv", and those detailing home and away points progression use the format "short-league-name_season_sorted.csv". This structured approach ensures that when a user selects a particular analysis option, the system can efficiently reference the appropriate file, thus providing the requested insights promptly. Whether analyzing overall season rankings, points progression, or identifying top scorers, our organized data repository ensures that all analyses are accurate and readily accessible.
 
-Additionally, the script used to download all the files from the API is contained within a Jupyter Notebook file named "IES_python.ipynb". This file includes the Python code necessary for fetching and storing the comprehensive football data used in our analysis tool. 
+Additionally, the script used to download all the files from the API is contained within a Jupyter Notebook file named "API_download.ipynb". This file includes the Python code necessary for fetching and storing the comprehensive football data used in our analysis tool. 
 
 ## Graphics
 Based on the previous analysis we provide a graphical visualization for you. All consecutive matches are visually represented to ensure continuity, with different teams distinctly color-coded in the graphs. This approach makes the graphs both clear and visually appealing, allowing users to easily track trends and differentiate between teams. 
